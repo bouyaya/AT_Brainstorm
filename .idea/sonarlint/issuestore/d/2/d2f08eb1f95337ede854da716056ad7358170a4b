@@ -1,0 +1,15 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103"KSplit this 149 characters long line (which is greater than 120 authorized).(Àíşÿÿÿÿ
+_php:S103"KSplit this 135 characters long line (which is greater than 120 authorized).(†Ã©‚
+dphp:S1034"KSplit this 179 characters long line (which is greater than 120 authorized).(Ãö‡¤şÿÿÿÿ
+dphp:S103J"KSplit this 171 characters long line (which is greater than 120 authorized).(àÒ‘Ìûÿÿÿÿ
+d	php:S1192"ODefine a constant instead of duplicating this literal "SELECT * FROM " 3 times.(–ÁÚ
+n	php:S1192"YDefine a constant instead of duplicating this literal "<div class='pt-content'>" 7 times.(²¬ßÂ
+\	php:S1192"GDefine a constant instead of duplicating this literal "</div>" 8 times.(Äàíá
+Iphp:S121%"0Add curly braces around the nested statement(s).(¢Ù«ßÿÿÿÿÿ
+Dphp:S121'"0Add curly braces around the nested statement(s).(½áåä
+Iphp:S121."0Add curly braces around the nested statement(s).(¢Ù«ßÿÿÿÿÿ
+Dphp:S1210"0Add curly braces around the nested statement(s).(¤ğºŒ
+Iphp:S1219"0Add curly braces around the nested statement(s).(¢Ù«ßÿÿÿÿÿ
+Iphp:S121;"0Add curly braces around the nested statement(s).(ï¼ÿ¾üÿÿÿÿ

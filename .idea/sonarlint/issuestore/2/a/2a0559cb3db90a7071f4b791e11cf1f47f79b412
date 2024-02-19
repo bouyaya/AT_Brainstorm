@@ -1,0 +1,17 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103"KSplit this 153 characters long line (which is greater than 120 authorized).(¢›Ñ„
+dphp:S103"KSplit this 212 characters long line (which is greater than 120 authorized).(ïğÚ‚úÿÿÿÿ
+dphp:S103"KSplit this 121 characters long line (which is greater than 120 authorized).(ÿ¹¤ºûÿÿÿÿ
+dphp:S103G"KSplit this 169 characters long line (which is greater than 120 authorized).(šéñÍûÿÿÿÿ
+_php:S103M"KSplit this 125 characters long line (which is greater than 120 authorized).(ÚÓ”Š
+_php:S103b"KSplit this 132 characters long line (which is greater than 120 authorized).(Ïüşµ
+dphp:S103c"KSplit this 136 characters long line (which is greater than 120 authorized).(²Î±Ûüÿÿÿÿ
+dphp:S103d"KSplit this 132 characters long line (which is greater than 120 authorized).(çı‰¶ùÿÿÿÿ
+dphp:S103k"KSplit this 134 characters long line (which is greater than 120 authorized).(¾–Ä°üÿÿÿÿ
+dphp:S103s"KSplit this 197 characters long line (which is greater than 120 authorized).(áˆøûÿÿÿÿ
+_php:S103z"KSplit this 126 characters long line (which is greater than 120 authorized).(ÚÓ”Š
+c	php:S1192b"NDefine a constant instead of duplicating this literal "ALTER TABLE `" 9 times.(Ïüşµ
+@	php:S2003"&Replace "include" with "include_once".(Àİ­şùÿÿÿÿ
+l	php:S3973?"WUse curly braces or indentation to denote the code conditionally executed by this "if".(í­…§
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(Àİ­şùÿÿÿÿ

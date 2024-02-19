@@ -1,0 +1,73 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103a"KSplit this 121 characters long line (which is greater than 120 authorized).(ô› ×şÿÿÿÿ
+`php:S103"KSplit this 234 characters long line (which is greater than 120 authorized).(£Óİ¦
+ephp:S103Ú"KSplit this 129 characters long line (which is greater than 120 authorized).(Şïøÿÿÿÿ
+`php:S103á"KSplit this 135 characters long line (which is greater than 120 authorized).(áÇ¢¡
+fphp:S100"SRename function "rewrite_urls" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ÿ€õf
+kphp:S100\"XRename function "stripslashes_deep" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ãì
+uphp:S115O"ZRename this constant "path" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(´Ü¼8”¨Ö†Ü1
+nphp:S115R"ZRename this constant "page" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ß¢øå
+vphp:S115U"]Rename this constant "nophoto" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Şşê¼úÿÿÿÿ
+uphp:S115|"\Rename this constant "get_ip" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¥Åı‘ÿÿÿÿÿ
+uphp:S115}"\Rename this constant "get_os" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(œµëÕÿÿÿÿÿ
+zphp:S115~"aRename this constant "get_browser" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(±õ”¶ÿÿÿÿÿ
+yphp:S115"`Rename this constant "get_device" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¦ÔÂûÿÿÿÿ
+qphp:S115"\Rename this constant "c_code" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(òñÙ¤
+rphp:S115¨"]Rename this constant "fbAppId" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Ä·Ï­
+{php:S115©"aRename this constant "fbAppSecret" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ª«‰õÿÿÿÿÿ
+|php:S115ª"bRename this constant "fbAppVersion" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ìó—üÿÿÿÿ
+sphp:S115º"^Rename this constant "twConKey" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(‚şÿš
+vphp:S115»"aRename this constant "twConSecret" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(·ÈŞ
+yphp:S115¼"eRename this constant "twOauthCallback" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¯À¦7
+zphp:S115Ä"`Rename this constant "ggClientId" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¬´¯÷úÿÿÿÿ
+~php:S115Å"dRename this constant "ggClientSecret" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(äÀÂÜşÿÿÿÿ
+php:S115Æ"eRename this constant "ggOauthCallback" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ê¬İŠûÿÿÿÿ
+tphp:S115Ç"_Rename this constant "ggAppName" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¡½Ø
+}php:S115ó"cRename this constant "surveys_month" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(é‚ÑÍûÿÿÿÿ
+}php:S115ô"cRename this constant "surveys_steps" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ï÷Şÿÿÿÿÿ
+php:S115õ"gRename this constant "surveys_questions" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(“Àùÿÿÿÿ
+yphp:S115ö"eRename this constant "surveys_answers" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(ä‡Äp
+xphp:S115ù"cRename this constant "surveys_month" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(«¯øŞ
+}php:S115ú"cRename this constant "surveys_steps" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Û¼‘ãıÿÿÿÿ
+|php:S115û"gRename this constant "surveys_questions" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(äñ‡
+php:S115ü"eRename this constant "surveys_answers" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(‚Àš£ÿÿÿÿÿ
+php:S115ÿ"eRename this constant "surveys_rapport" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(±ËŠ’şÿÿÿÿ
+yphp:S115€"dRename this constant "surveys_export" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Œëª¥
+~php:S115"dRename this constant "surveys_iframe" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(¹â½Œùÿÿÿÿ
+xphp:S115‚"^Rename this constant "show_ads" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Ø·°üıÿÿÿÿ
+wphp:S115ƒ"cRename this constant "survey_design" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(Úôª
+qphp:S115„"]Rename this constant "support" to match the regular expression ^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$.(øƒÌ=
+>	php:S1125á"(Remove the literal "true" boolean value.(áÇ¢¡
+J	php:S1066ˆ"/Merge this if statement with the enclosing one.(Ó²öùÿÿÿÿ
+;	php:S2003X"&Replace "include" with "include_once".(ß·†“
+@	php:S2003g"&Replace "include" with "include_once".(­›ñÆøÿÿÿÿ
+@	php:S2003p"&Replace "include" with "include_once".(­›ñÆøÿÿÿÿ
+@	php:S2003u"&Replace "include" with "include_once".(‚ÕÊÿÿÿÿÿ
+;	php:S2003v"&Replace "include" with "include_once".(ù…ø¤
+@	php:S2003w"&Replace "include" with "include_once".(Œ˜ÒÅşÿÿÿÿ
+:	php:S2003x"&Replace "include" with "include_once".(‡/
+@	php:S2003{"&Replace "include" with "include_once".(Œ‘¿Åûÿÿÿÿ
+<	php:S2003”"&Replace "require" with "require_once".(ñÚüã
+A	php:S2003•"&Replace "require" with "require_once".(ùû¶©şÿÿÿÿ
+A	php:S2003–"&Replace "require" with "require_once".(“—£ ûÿÿÿÿ
+A	php:S2003®"&Replace "require" with "require_once".(Šµäáûÿÿÿÿ
+D	php:S6600]"/Remove the parentheses from this "return" call.(ÆÖÜ„
+K	php:S6600¿"5Remove the parentheses from this "require_once" call.(éûãØ
+K	php:S6600Ê"5Remove the parentheses from this "require_once" call.(ãª„Ç
+K	php:S6600Ë"5Remove the parentheses from this "require_once" call.(Ûäµ¸
+Ephp:S121š"0Add curly braces around the nested statement(s).(åûİ¼
+a	php:S4833X"LReplace "include" with namespace import mechanism through the "use" keyword.(ß·†“
+f	php:S4833g"LReplace "include" with namespace import mechanism through the "use" keyword.(­›ñÆøÿÿÿÿ
+f	php:S4833p"LReplace "include" with namespace import mechanism through the "use" keyword.(­›ñÆøÿÿÿÿ
+f	php:S4833u"LReplace "include" with namespace import mechanism through the "use" keyword.(‚ÕÊÿÿÿÿÿ
+a	php:S4833v"LReplace "include" with namespace import mechanism through the "use" keyword.(ù…ø¤
+f	php:S4833w"LReplace "include" with namespace import mechanism through the "use" keyword.(Œ˜ÒÅşÿÿÿÿ
+`	php:S4833x"LReplace "include" with namespace import mechanism through the "use" keyword.(‡/
+f	php:S4833{"LReplace "include" with namespace import mechanism through the "use" keyword.(Œ‘¿Åûÿÿÿÿ
+b	php:S4833”"LReplace "require" with namespace import mechanism through the "use" keyword.(ñÚüã
+g	php:S4833•"LReplace "require" with namespace import mechanism through the "use" keyword.(ùû¶©şÿÿÿÿ
+g	php:S4833–"LReplace "require" with namespace import mechanism through the "use" keyword.(“—£ ûÿÿÿÿ
+g	php:S4833¿"QReplace "require_once" with namespace import mechanism through the "use" keyword.(éûãØ
+g	php:S4833Ê"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ãª„Ç
+g	php:S4833Ë"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ûäµ¸

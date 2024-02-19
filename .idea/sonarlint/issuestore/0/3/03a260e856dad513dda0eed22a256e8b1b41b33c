@@ -1,0 +1,14 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103"KSplit this 202 characters long line (which is greater than 120 authorized).(€¢×øÿÿÿÿ
+dphp:S103"KSplit this 151 characters long line (which is greater than 120 authorized).(Àøàøÿÿÿÿ
+_php:S103."KSplit this 163 characters long line (which is greater than 120 authorized).(…Üé˜
+_php:S1031"KSplit this 214 characters long line (which is greater than 120 authorized).(ëý×£
+dphp:S1036"KSplit this 155 characters long line (which is greater than 120 authorized).(Ï÷âûÿÿÿÿ
+_php:S1038"KSplit this 176 characters long line (which is greater than 120 authorized).(Ý‘Èê
+_php:S103>"KSplit this 187 characters long line (which is greater than 120 authorized).(ºŒ£Ú
+^php:S103B"KSplit this 173 characters long line (which is greater than 120 authorized).(Ó°ª
+3php:S113"'Add a new line at the end of this file.
+Dphp:S121>"0Add curly braces around the nested statement(s).(ºŒ£Ú
+Dphp:S121>"0Add curly braces around the nested statement(s).(ºŒ£Ú
+Cphp:S121B"0Add curly braces around the nested statement(s).(Ó°ª

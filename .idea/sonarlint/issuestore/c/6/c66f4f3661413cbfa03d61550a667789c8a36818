@@ -1,0 +1,32 @@
+
+Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8ý™¶†Ü1
+fphp:S103"KSplit this 172 characters long line (which is greater than 120 authorized).(íø¹²8”¤¹†Ü1
+fphp:S103"KSplit this 182 characters long line (which is greater than 120 authorized).(ý¯à8”¤¹†Ü1
+kphp:S103"KSplit this 187 characters long line (which is greater than 120 authorized).(¨ª„ûÿÿÿÿ8”¤¹†Ü1
+ephp:S103"KSplit this 188 characters long line (which is greater than 120 authorized).(Œß§8”¤¹†Ü1
+kphp:S103"KSplit this 197 characters long line (which is greater than 120 authorized).( ¨ÆÍøÿÿÿÿ8”¤¹†Ü1
+fphp:S103"KSplit this 132 characters long line (which is greater than 120 authorized).(œûûè8•¤¹†Ü1
+fphp:S103"KSplit this 129 characters long line (which is greater than 120 authorized).(ÖŠ¾8•¤¹†Ü1
+fphp:S103"KSplit this 150 characters long line (which is greater than 120 authorized).(×ÅÜ8•¤¹†Ü1
+kphp:S103"KSplit this 147 characters long line (which is greater than 120 authorized).(‘£áËùÿÿÿÿ8•¤¹†Ü1
+o	php:S1192"SDefine a constant instead of duplicating this literal " class="pt-active"" 5 times.(íø¹²8•¤¹†Ü1
+B	php:S2003"&Replace "include" with "include_once".(‰À²‘8•¤¹†Ü1
+B	php:S2003%"&Replace "include" with "include_once".(ÿæÿ8•¤¹†Ü1
+G	php:S2003'"&Replace "include" with "include_once".(‰î†öùÿÿÿÿ8•¤¹†Ü1
+G	php:S2003)"&Replace "include" with "include_once".(­Ñö…üÿÿÿÿ8•¤¹†Ü1
+B	php:S2003+"&Replace "include" with "include_once".(× ¢Ä8•¤¹†Ü1
+G	php:S2003-"&Replace "include" with "include_once".(Ä³âüýÿÿÿÿ8•¤¹†Ü1
+G	php:S2003/"&Replace "include" with "include_once".(Öôèžýÿÿÿÿ8•¤¹†Ü1
+G	php:S20031"&Replace "include" with "include_once".(†¼‘†øÿÿÿÿ8•¤¹†Ü1
+A	php:S20033"&Replace "include" with "include_once".(ž¯š>8•¤¹†Ü1
+A	php:S2003="&Replace "include" with "include_once".(Å–ò8•¤¹†Ü1
+h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(‰À²‘8•¤¹†Ü1
+h	php:S4833%"LReplace "include" with namespace import mechanism through the "use" keyword.(ÿæÿ8•¤¹†Ü1
+m	php:S4833'"LReplace "include" with namespace import mechanism through the "use" keyword.(‰î†öùÿÿÿÿ8•¤¹†Ü1
+m	php:S4833)"LReplace "include" with namespace import mechanism through the "use" keyword.(­Ñö…üÿÿÿÿ8–¤¹†Ü1
+h	php:S4833+"LReplace "include" with namespace import mechanism through the "use" keyword.(× ¢Ä8–¤¹†Ü1
+m	php:S4833-"LReplace "include" with namespace import mechanism through the "use" keyword.(Ä³âüýÿÿÿÿ8–¤¹†Ü1
+m	php:S4833/"LReplace "include" with namespace import mechanism through the "use" keyword.(Öôèžýÿÿÿÿ8–¤¹†Ü1
+m	php:S48331"LReplace "include" with namespace import mechanism through the "use" keyword.(†¼‘†øÿÿÿÿ8–¤¹†Ü1
+g	php:S48333"LReplace "include" with namespace import mechanism through the "use" keyword.(ž¯š>8–¤¹†Ü1
+g	php:S4833="LReplace "include" with namespace import mechanism through the "use" keyword.(Å–ò8–¤¹†Ü1

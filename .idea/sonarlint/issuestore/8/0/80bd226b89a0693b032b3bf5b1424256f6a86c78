@@ -1,0 +1,142 @@
+
+_php:S1036"KSplit this 151 characters long line (which is greater than 120 authorized).(ÚÛœ
+_php:S103e"KSplit this 151 characters long line (which is greater than 120 authorized).(ÚÛœ
+`php:S103¿"KSplit this 151 characters long line (which is greater than 120 authorized).(ÚÛœ
+`php:S103™"KSplit this 151 characters long line (which is greater than 120 authorized).(ÚÛœ
+`php:S103Í"KSplit this 151 characters long line (which is greater than 120 authorized).(ÚÛœ
+ephp:S103˜"KSplit this 148 characters long line (which is greater than 120 authorized).(ÂÄèûÿÿÿÿ
+`php:S103º"KSplit this 151 characters long line (which is greater than 120 authorized).(ÚÛœ
+`php:S103Ò"KSplit this 131 characters long line (which is greater than 120 authorized).(Ö£›Ù
+ephp:S103Ó"KSplit this 138 characters long line (which is greater than 120 authorized).(¡í€úÿÿÿÿ
+`php:S103ƒ"KSplit this 151 characters long line (which is greater than 120 authorized).(ÚÛœ
+`php:S103Ü"KSplit this 151 characters long line (which is greater than 120 authorized).(ÚÛœ
+`php:S103µ"KSplit this 151 characters long line (which is greater than 120 authorized).(ÚÛœ
+`php:S103µ"KSplit this 151 characters long line (which is greater than 120 authorized).(ÚÛœ
+aphp:S103¨"LSplit this 1290 characters long line (which is greater than 120 authorized).(»ªùı
+ephp:S103©"KSplit this 931 characters long line (which is greater than 120 authorized).(·¶†×üÿÿÿÿ
+`php:S103ª"LSplit this 1545 characters long line (which is greater than 120 authorized).(Úåñt
+aphp:S103«"LSplit this 1617 characters long line (which is greater than 120 authorized).(«ÙóÖ
+_php:S103¬"KSplit this 909 characters long line (which is greater than 120 authorized).(ÜŠ³m
+fphp:S103­"LSplit this 2681 characters long line (which is greater than 120 authorized).(£Èç«øÿÿÿÿ
+`php:S103®"KSplit this 988 characters long line (which is greater than 120 authorized).(çª€¶
+aphp:S103¯"LSplit this 1619 characters long line (which is greater than 120 authorized).(’Ë»§
+fphp:S103°"LSplit this 2391 characters long line (which is greater than 120 authorized).(ÿ†º¬şÿÿÿÿ
+aphp:S103±"LSplit this 1599 characters long line (which is greater than 120 authorized).(æ©ã‡
+`php:S103²"KSplit this 723 characters long line (which is greater than 120 authorized).(­Â˜
+xphp:S101"dRename class "Google_OperationsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(éó³
+zphp:S101["aRename class "Google_KernelsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.( õ´‘ıÿÿÿÿ
+tphp:S101"_Rename class "Google_DisksServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(±³…®
+xphp:S101é"cRename class "Google_SnapshotsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(³×™ç
+tphp:S101Ã"_Rename class "Google_ZonesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ØŸí·
+xphp:S101÷"cRename class "Google_InstancesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(•œ«ğ
+{php:S101ø"fRename class "Google_MachineTypesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ø›ô
+tphp:S101­"`Rename class "Google_ImagesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ù…¬
+}php:S101†"cRename class "Google_FirewallsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(—ÄÒôúÿÿÿÿ
+wphp:S101†"bRename class "Google_NetworksServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ø‰§á
+wphp:S101ß"bRename class "Google_ProjectsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‹óË
+nphp:S101‘"YRename class "Google_ComputeService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ü—Ìî
+lphp:S101·"WRename class "Google_AccessConfig" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„…µˆ
+lphp:S101Ö"WRename class "Google_AttachedDisk" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(²¦äí
+dphp:S101Š"ORename class "Google_Disk" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‘áºã
+mphp:S101á"SRename class "Google_DiskList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(å°©€øÿÿÿÿ
+mphp:S101Š	"SRename class "Google_Firewall" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(­ë•–şÿÿÿÿ
+ophp:S101İ	"ZRename class "Google_FirewallAllowed" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ô¿îÉ
+qphp:S101î	"WRename class "Google_FirewallList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¾Ã‰ıÿÿÿÿ
+ephp:S101—
+"PRename class "Google_Image" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÇÏŒ
+qphp:S101ä
+"\Rename class "Google_ImageDiskSnapshot" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Âåéá
+iphp:S101î
+"TRename class "Google_ImageList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ú Âş
+qphp:S101—"WRename class "Google_ImageRawDisk" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(—Åöøÿÿÿÿ
+mphp:S101¯"SRename class "Google_Instance" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Î‚Ö»şÿÿÿÿ
+lphp:S101­"WRename class "Google_InstanceList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(å…ã
+fphp:S101Ö"QRename class "Google_Kernel" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(•ïàŒ
+jphp:S101ƒ"URename class "Google_KernelList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Şõæˆ
+pphp:S101¬"VRename class "Google_MachineType" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ñß‹Æûÿÿÿÿ
+~php:S101”"dRename class "Google_MachineTypeEphemeralDisks" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Öéàøÿÿÿÿ
+tphp:S101"ZRename class "Google_MachineTypeList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Õ„ş¤ıÿÿÿÿ
+mphp:S101Ç"SRename class "Google_Metadata" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ú°»ÿÿÿÿÿ
+rphp:S101Û"XRename class "Google_MetadataItems" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(õ×ûÕøÿÿÿÿ
+lphp:S101ì"RRename class "Google_Network" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(çÂ ”ÿÿÿÿÿ
+pphp:S101§"[Rename class "Google_NetworkInterface" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ü¼¸æ
+kphp:S101Ğ"VRename class "Google_NetworkList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÿ£Ê
+nphp:S101ù"TRename class "Google_Operation" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(áÃÒıÿÿÿÿ
+sphp:S101ƒ"YRename class "Google_OperationError" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¤ñ€àüÿÿÿÿ
+tphp:S101"_Rename class "Google_OperationErrorErrors" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ø€ßŒ
+rphp:S101¨"XRename class "Google_OperationList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(òƒõøÿÿÿÿ
+lphp:S101Ñ"RRename class "Google_Project" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‚½Ûùÿÿÿÿ
+rphp:S101˜"XRename class "Google_ProjectQuotas" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ô‚½ºÿÿÿÿÿ
+sphp:S101°"YRename class "Google_ServiceAccount" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(çÀäùüÿÿÿÿ
+mphp:S101È"SRename class "Google_Snapshot" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÍÈªîùÿÿÿÿ
+lphp:S101‘"WRename class "Google_SnapshotList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(«¶ª
+dphp:S101º"ORename class "Google_Zone" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Œ•óä
+hphp:S101ÿ"SRename class "Google_ZoneList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(÷ÜÆ¯
+{php:S101¨"aRename class "Google_ZoneMaintenanceWindows" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‹¾¦ıÿÿÿÿ
+jphp:S116ã"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•ìµˆ
+nphp:S116ä"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+lphp:S116‘	"WRename this field "$__allowedType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(’¼½ä
+pphp:S116’	"[Rename this field "$__allowedDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ê¶’˜
+nphp:S116Ş	"TRename this field "$IPProtocol" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(³ñ…ûşÿÿÿÿ
+iphp:S116ğ	"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(³Š¨'
+nphp:S116ñ	"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+lphp:S116š
+"WRename this field "$__rawDiskType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(§ğÓØ
+pphp:S116›
+"[Rename this field "$__rawDiskDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ş†Œ€
+pphp:S116
+"\Rename this field "$__diskSnapshotType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(’š‘	
+zphp:S116Ÿ
+"`Rename this field "$__diskSnapshotDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(´ÏˆØùÿÿÿÿ
+jphp:S116ğ
+"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¬Ä£¬
+nphp:S116ñ
+"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+ophp:S116·"URename this field "$__disksType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(÷ÆÉ¬ıÿÿÿÿ
+sphp:S116¸"YRename this field "$__disksDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(…Á¢¡ùÿÿÿÿ
+yphp:S116¼"_Rename this field "$__serviceAccountsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(˜¬­‹şÿÿÿÿ
+xphp:S116½"cRename this field "$__serviceAccountsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ü¶ô
+vphp:S116¿"aRename this field "$__networkInterfacesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(É‰êÀ
+php:S116À"eRename this field "$__networkInterfacesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‰–“‰úÿÿÿÿ
+rphp:S116Å"XRename this field "$__metadataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ò«Á ûÿÿÿÿ
+vphp:S116Æ"\Rename this field "$__metadataDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÙîšŠşÿÿÿÿ
+ophp:S116¯"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½«€Áüÿÿÿÿ
+nphp:S116°"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+ophp:S116…"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(›÷”œúÿÿÿÿ
+nphp:S116†"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+rphp:S116°"^Rename this field "$__ephemeralDisksType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ù…|
+wphp:S116±"bRename this field "$__ephemeralDisksDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ëƒ‘Ü
+iphp:S116 "URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(êôÊ{
+nphp:S116¡"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+ophp:S116È"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(êğîúÿÿÿÿ
+nphp:S116É"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+mphp:S116ï"SRename this field "$IPv4Range" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¹¾±ùÿÿÿÿ
+rphp:S116©"]Rename this field "$__accessConfigsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•Š¬Ç
+vphp:S116ª"aRename this field "$__accessConfigsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ƒ‚æ…
+iphp:S116Ò"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(£“¦n
+nphp:S116Ó"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+ophp:S116€"URename this field "$__errorType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(«®Ï³ıÿÿÿÿ
+sphp:S116"YRename this field "$__errorDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(™¬Ñşÿÿÿÿ
+pphp:S116„"VRename this field "$__errorsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‘Å¦ºøÿÿÿÿ
+tphp:S116…"ZRename this field "$__errorsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İ‚ĞÖıÿÿÿÿ
+jphp:S116ª"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(—§µ
+nphp:S116«"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+€php:S116Ô"fRename this field "$__commonInstanceMetadataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(â‰Êâşÿÿÿÿ
+php:S116Õ"jRename this field "$__commonInstanceMetadataDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“ÃúÑ
+pphp:S116Ø"VRename this field "$__quotasType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(áó¼Ìúÿÿÿÿ
+ophp:S116Ù"ZRename this field "$__quotasDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ü™ôæ
+iphp:S116“"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†ÙÕ 
+nphp:S116”"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+wphp:S116¿"bRename this field "$__maintenanceWindowsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½•—
+{php:S116À"fRename this field "$__maintenanceWindowsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Øâ­ˆ
+ophp:S116"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Î§»¡úÿÿÿÿ
+nphp:S116‚"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+tphp:S117à	"ZRename this parameter "$IPProtocol" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(ÈÛ¾ğıÿÿÿÿ
+nphp:S117"YRename this parameter "$IPv4Range" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(Ÿñí—
+q	php:S1488N"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+s	php:S1488í"]Immediately return this expression instead of assigning it to the temporary variable "$data".(ºáÁĞ
+}	php:S1448Š"gClass "Google_Disk" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(‘áºã
+†	php:S1448Š	"kClass "Google_Firewall" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(­ë•–şÿÿÿÿ
+†	php:S1448¯"kClass "Google_Instance" has 32 methods, which is greater than 20 authorized. Split it into smaller classes.(Î‚Ö»şÿÿÿÿ
+‰	php:S1448¬"nClass "Google_MachineType" has 28 methods, which is greater than 20 authorized. Split it into smaller classes.(Ñß‹Æûÿÿÿÿ
+‡	php:S1448ù"lClass "Google_Operation" has 38 methods, which is greater than 20 authorized. Split it into smaller classes.(áÃÒıÿÿÿÿ

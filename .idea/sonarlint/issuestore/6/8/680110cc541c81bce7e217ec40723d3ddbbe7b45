@@ -1,0 +1,10 @@
+
+iphp:S101"PRename class "Google_Utils" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(î¼™—ûÿÿÿÿ
+Q	php:S11246"7Reorder the modifiers to comply with the PSR2 standard.(Ý¿žêúÿÿÿÿ
+;	php:S14818"'Remove this unused "$d" local variable.(À€°+
+G	php:S6600<"-Remove the parentheses from this "case" call.(”¯¤ ÿÿÿÿÿ
+B	php:S6600A"-Remove the parentheses from this "case" call.(ã”¸Ë
+B	php:S6600G"-Remove the parentheses from this "case" call.(Äï˜
+G	php:S6600M"-Remove the parentheses from this "case" call.(•ÍæÁûÿÿÿÿ
+G	php:S6600S"-Remove the parentheses from this "case" call.(žÿÃÔùÿÿÿÿ
+G	php:S6600Y"-Remove the parentheses from this "case" call.(·Éÿ¿ùÿÿÿÿ

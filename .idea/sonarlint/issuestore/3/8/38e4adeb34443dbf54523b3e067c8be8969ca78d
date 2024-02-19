@@ -1,0 +1,11 @@
+
+O	php:S1135±"4Complete the task associated to this "TODO" comment.(µùÆÁþÿÿÿÿ
+Z	php:S1131x"@Remove the useless trailing whitespaces at the end of this line.(æÀö€øÿÿÿÿ
+dphp:S103q"KSplit this 132 characters long line (which is greater than 120 authorized).(ìý¤Äùÿÿÿÿ
+jphp:S101"QRename class "Google_OAuth2" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ñŠ³Ÿúÿÿÿÿ
+b	php:S1784ì"LExplicitly mention the visibility of this method "verifySignedJwtWithCerts".(Ï´ö‘
+{	php:S1488»"`Immediately return this expression instead of assigning it to the temporary variable "$expired".(¨æ§Õüÿÿÿÿ
+C	php:S1481ƒ"-Remove this unused "$keyName" local variable.(Š·±–
+k	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(­ó•‰ùÿÿÿÿ
+k	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(æ‘æËùÿÿÿÿ
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ÖëÝã

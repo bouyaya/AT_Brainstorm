@@ -1,0 +1,112 @@
+
+r%Web:ItemTagNotWithinContainerTagCheck9"<Surround this <li> item tag by a <ul> or <ol> container one.(Ôæ‰Ìøÿÿÿÿ
+r%Web:ItemTagNotWithinContainerTagCheck:"<Surround this <li> item tag by a <ul> or <ol> container one.(à†Ø‰üÿÿÿÿ
+IWeb:AvoidCommentedOutCodeCheckY"Remove this commented out code.(ÆíØé
+HWeb:ImgWithoutAltCheckÓ"%Add an "alt" attribute to this image.(ÄÊæ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103N"KSplit this 161 characters long line (which is greater than 120 authorized).(Ù€¦èüÿÿÿÿ
+^php:S103^"KSplit this 170 characters long line (which is greater than 120 authorized).(ü¶Â1
+dphp:S103e"KSplit this 241 characters long line (which is greater than 120 authorized).(Ö¨ÊÏüÿÿÿÿ
+dphp:S103k"KSplit this 234 characters long line (which is greater than 120 authorized).(Õ˜¶Çüÿÿÿÿ
+_php:S103r"KSplit this 157 characters long line (which is greater than 120 authorized).(œÍŒƒ
+_php:S103t"KSplit this 130 characters long line (which is greater than 120 authorized).(­ò‡ñ
+^php:S103z"KSplit this 177 characters long line (which is greater than 120 authorized).(ĞÄƒ:
+dphp:S103{"KSplit this 161 characters long line (which is greater than 120 authorized).(”´ßğşÿÿÿÿ
+dphp:S103"KSplit this 149 characters long line (which is greater than 120 authorized).(úÇÚÊùÿÿÿÿ
+ephp:S103ƒ"KSplit this 143 characters long line (which is greater than 120 authorized).(Æœè¡úÿÿÿÿ
+`php:S103‰"KSplit this 158 characters long line (which is greater than 120 authorized).(ìòêÂ
+_php:S103Œ"KSplit this 172 characters long line (which is greater than 120 authorized).(ôÂ‰@
+ephp:S103‘"KSplit this 140 characters long line (which is greater than 120 authorized).(èèÌÿÿÿÿÿ
+`php:S103”"KSplit this 168 characters long line (which is greater than 120 authorized).(Ù“„Ë
+_php:S103™"KSplit this 153 characters long line (which is greater than 120 authorized).(Ò·îw
+`php:S103œ"KSplit this 199 characters long line (which is greater than 120 authorized).(ª¢¶ó
+ephp:S103°"KSplit this 121 characters long line (which is greater than 120 authorized).(—…Çûÿÿÿÿ
+`php:S103±"KSplit this 127 characters long line (which is greater than 120 authorized).(æÄƒ»
+ephp:S103²"KSplit this 132 characters long line (which is greater than 120 authorized).(¤ÇÅŒıÿÿÿÿ
+ephp:S103´"KSplit this 138 characters long line (which is greater than 120 authorized).(ğ©™‡ıÿÿÿÿ
+ephp:S103µ"KSplit this 132 characters long line (which is greater than 120 authorized).(¤úÁÿüÿÿÿÿ
+`php:S103·"KSplit this 130 characters long line (which is greater than 120 authorized).(ãü–
+`php:S103¸"KSplit this 121 characters long line (which is greater than 120 authorized).(Ç€¤
+ephp:S103º"KSplit this 124 characters long line (which is greater than 120 authorized).(ßÉâÆÿÿÿÿÿ
+`php:S103½"KSplit this 122 characters long line (which is greater than 120 authorized).(£æ¾ˆ
+`php:S103¾"KSplit this 124 characters long line (which is greater than 120 authorized).( ©ì
+`php:S103Ä"KSplit this 123 characters long line (which is greater than 120 authorized).(–ÁÚ
+ephp:S103Ë"KSplit this 179 characters long line (which is greater than 120 authorized).(ÎßŞúÿÿÿÿ
+`php:S103Ï"KSplit this 175 characters long line (which is greater than 120 authorized).(éœºŞ
+ephp:S103Ô"KSplit this 155 characters long line (which is greater than 120 authorized).(Àíşÿÿÿÿ
+ephp:S103Ş"KSplit this 163 characters long line (which is greater than 120 authorized).(€ÅŠùÿÿÿÿ
+ephp:S103ß"KSplit this 131 characters long line (which is greater than 120 authorized).(ÛôÉıÿÿÿÿ
+ephp:S103á"KSplit this 136 characters long line (which is greater than 120 authorized).(ÂÆ¥Ëıÿÿÿÿ
+ephp:S103â"KSplit this 153 characters long line (which is greater than 120 authorized).(çÏãüÿÿÿÿ
+ephp:S103å"KSplit this 174 characters long line (which is greater than 120 authorized).(­ÔÖ¶ûÿÿÿÿ
+ephp:S103í"KSplit this 198 characters long line (which is greater than 120 authorized).(ëñî‰ıÿÿÿÿ
+ephp:S103ñ"KSplit this 186 characters long line (which is greater than 120 authorized).(èéããşÿÿÿÿ
+`php:S103ò"KSplit this 177 characters long line (which is greater than 120 authorized).(˜»Íè
+ephp:S103ö"KSplit this 179 characters long line (which is greater than 120 authorized).(µÒÕŠüÿÿÿÿ
+ephp:S103ø"KSplit this 162 characters long line (which is greater than 120 authorized).(«ª„ùşÿÿÿÿ
+ephp:S103ù"KSplit this 162 characters long line (which is greater than 120 authorized).(¯İ¶Çùÿÿÿÿ
+ephp:S103ú"KSplit this 162 characters long line (which is greater than 120 authorized).(¥¦î„üÿÿÿÿ
+`php:S103û"KSplit this 162 characters long line (which is greater than 120 authorized).(‰Ñ¼ø
+`php:S103ü"KSplit this 162 characters long line (which is greater than 120 authorized).(ÂÉÛ—
+`php:S103†"KSplit this 204 characters long line (which is greater than 120 authorized).(Â¢›†
+_php:S103Š"KSplit this 198 characters long line (which is greater than 120 authorized).(îüí(
+`php:S103"KSplit this 198 characters long line (which is greater than 120 authorized).(•á¨²
+`php:S103—"KSplit this 184 characters long line (which is greater than 120 authorized).(˜†¿Â
+ephp:S103"KSplit this 185 characters long line (which is greater than 120 authorized).(üÖ§ıÿÿÿÿ
+ephp:S103 "KSplit this 166 characters long line (which is greater than 120 authorized).(çİ›ıøÿÿÿÿ
+ephp:S103«"KSplit this 180 characters long line (which is greater than 120 authorized).(‰°Îüÿÿÿÿ
+ephp:S103°"KSplit this 187 characters long line (which is greater than 120 authorized).(Ãö‡¤şÿÿÿÿ
+`php:S103·"KSplit this 201 characters long line (which is greater than 120 authorized).(¾ æ®
+`php:S103¸"KSplit this 137 characters long line (which is greater than 120 authorized).(×é¹·
+`php:S103º"KSplit this 244 characters long line (which is greater than 120 authorized).(™«–ÿ
+ephp:S103È"KSplit this 187 characters long line (which is greater than 120 authorized).(Ãö‡¤şÿÿÿÿ
+`php:S103Ï"KSplit this 158 characters long line (which is greater than 120 authorized).(ıÈÖø
+`php:S103Ñ"KSplit this 215 characters long line (which is greater than 120 authorized).(ì¨á
+`php:S103Ó"KSplit this 185 characters long line (which is greater than 120 authorized).(ÄÊæ
+ephp:S103á"KSplit this 121 characters long line (which is greater than 120 authorized).(åë¤Ëúÿÿÿÿ
+`php:S103–"KSplit this 146 characters long line (which is greater than 120 authorized).(“ÛÚß
+`php:S103™"KSplit this 177 characters long line (which is greater than 120 authorized).(¸«Ëù
+ephp:S103±"KSplit this 124 characters long line (which is greater than 120 authorized).(ú“Ô¤şÿÿÿÿ
+`php:S103²"KSplit this 137 characters long line (which is greater than 120 authorized).(¹ÀÈ¼
+`php:S103³"KSplit this 139 characters long line (which is greater than 120 authorized).(ÁŒò
+ephp:S103´"KSplit this 257 characters long line (which is greater than 120 authorized).( ŸÖ—ıÿÿÿÿ
+ephp:S103µ"KSplit this 157 characters long line (which is greater than 120 authorized).(Ã¬¯£øÿÿÿÿ
+ephp:S103»"KSplit this 124 characters long line (which is greater than 120 authorized).(ú“Ô¤şÿÿÿÿ
+`php:S103¼"KSplit this 137 characters long line (which is greater than 120 authorized).(¹ÀÈ¼
+`php:S103½"KSplit this 139 characters long line (which is greater than 120 authorized).(í¤Š±
+`php:S103¾"KSplit this 257 characters long line (which is greater than 120 authorized).(–Ç„È
+`php:S103¿"KSplit this 157 characters long line (which is greater than 120 authorized).(œ¾×‰
+3php:S113"'Add a new line at the end of this file.
+e	php:S1192Ä"ODefine a constant instead of duplicating this literal "SELECT * FROM " 4 times.(–ÁÚ
+@	php:S2003"&Replace "include" with "include_once".(ˆ¿ğ‰ıÿÿÿÿ
+;	php:S2003"&Replace "include" with "include_once".(ı´ä¤
+;	php:S2003÷"&Replace "include" with "include_once".(ˆ½˜r
+<	php:S2003€"&Replace "include" with "include_once".(Ìİ¢É
+A	php:S2003‰"&Replace "include" with "include_once".(¿’ûÛøÿÿÿÿ
+<	php:S2003â"&Replace "include" with "include_once".(ı´ä¤
+p	php:S3973Å"ZUse curly braces or indentation to denote the code conditionally executed by this "while".(¤œÜ‡
+G	php:S6600:"-Remove the parentheses from this "echo" call.(à†Ø‰üÿÿÿÿ
+B	php:S6600Y"-Remove the parentheses from this "echo" call.(ÆíØé
+A	php:S6600^"-Remove the parentheses from this "echo" call.(ü¶Â1
+G	php:S6600e"-Remove the parentheses from this "echo" call.(Ö¨ÊÏüÿÿÿÿ
+G	php:S6600k"-Remove the parentheses from this "echo" call.(Õ˜¶Çüÿÿÿÿ
+B	php:S6600r"-Remove the parentheses from this "echo" call.(œÍŒƒ
+A	php:S6600z"-Remove the parentheses from this "echo" call.(ĞÄƒ:
+G	php:S6600"-Remove the parentheses from this "echo" call.(úÇÚÊùÿÿÿÿ
+C	php:S6600‰"-Remove the parentheses from this "echo" call.(ìòêÂ
+H	php:S6600‘"-Remove the parentheses from this "echo" call.(èèÌÿÿÿÿÿ
+B	php:S6600™"-Remove the parentheses from this "echo" call.(Ò·îw
+H	php:S6600ö"-Remove the parentheses from this "echo" call.(µÒÕŠüÿÿÿÿ
+C	php:S6600†"-Remove the parentheses from this "echo" call.(Â¢›†
+B	php:S6600Š"-Remove the parentheses from this "echo" call.(îüí(
+C	php:S6600"-Remove the parentheses from this "echo" call.(•á¨²
+C	php:S6600—"-Remove the parentheses from this "echo" call.(˜†¿Â
+H	php:S6600"-Remove the parentheses from this "echo" call.(üÖ§ıÿÿÿÿ
+C	php:S6600º"-Remove the parentheses from this "echo" call.(™«–ÿ
+C	php:S6600–"-Remove the parentheses from this "echo" call.(“ÛÚß
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ˆ¿ğ‰ıÿÿÿÿ
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ı´ä¤
+a	php:S4833÷"LReplace "include" with namespace import mechanism through the "use" keyword.(ˆ½˜r
+b	php:S4833€"LReplace "include" with namespace import mechanism through the "use" keyword.(Ìİ¢É
+g	php:S4833‰"LReplace "include" with namespace import mechanism through the "use" keyword.(¿’ûÛøÿÿÿÿ
+b	php:S4833â"LReplace "include" with namespace import mechanism through the "use" keyword.(ı´ä¤

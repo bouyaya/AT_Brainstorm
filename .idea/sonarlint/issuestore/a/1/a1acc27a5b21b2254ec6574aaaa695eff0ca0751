@@ -1,0 +1,29 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103k"KSplit this 122 characters long line (which is greater than 120 authorized).(Ìô€İ
+dphp:S103o"KSplit this 142 characters long line (which is greater than 120 authorized).(˜èÊ‹ùÿÿÿÿ
+_php:S103s"KSplit this 171 characters long line (which is greater than 120 authorized).(¾¿İ‡
+ephp:S103‹"KSplit this 196 characters long line (which is greater than 120 authorized).(Ã„„Âúÿÿÿÿ
+iphp:S100"URename function "get_user_agent" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÙØ°õ
+fphp:S100
+"MRename function "get_ip" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ëš˜Äúÿÿÿÿ
+aphp:S100"MRename function "get_os" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İÿ¢Ê
+fphp:S100E"RRename function "get_browser" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿ¶ËÇ
+ephp:S100e"QRename function "get_device" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İ ½
+6	php:S1110s"!Remove these useless parentheses.(¾¿İ‡
+_	php:S3358‹"DExtract this nested ternary operation into an independent statement.(Ã„„Âúÿÿÿÿ
+Q	php:S1793"<Replace this "else if" keyword sequence by "elseif" keyword.(ìùõè
+V	php:S1793"<Replace this "else if" keyword sequence by "elseif" keyword.(şÉĞ½úÿÿÿÿ
+V	php:S1793"<Replace this "else if" keyword sequence by "elseif" keyword.(“’¯¶ÿÿÿÿÿ
+Q	php:S1793"<Replace this "else if" keyword sequence by "elseif" keyword.(şÏÓ
+V	php:S1793"<Replace this "else if" keyword sequence by "elseif" keyword.(Ä¦âĞşÿÿÿÿ
+R	php:S1793”"<Replace this "else if" keyword sequence by "elseif" keyword.(ÃÑ¼µ
+Iphp:S121"0Add curly braces around the nested statement(s).(„¶áìøÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(Ä¦âĞşÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(şÏÓ
+Iphp:S121"0Add curly braces around the nested statement(s).(“’¯¶ÿÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(şÉĞ½úÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(ìùõè
+Iphp:S121"0Add curly braces around the nested statement(s).(ŠÓà¬ıÿÿÿÿ
+,	php:S2010s"Replace "or" with "||".(¾¿İ‡
+,	php:S2010s"Replace "or" with "||".(¾¿İ‡

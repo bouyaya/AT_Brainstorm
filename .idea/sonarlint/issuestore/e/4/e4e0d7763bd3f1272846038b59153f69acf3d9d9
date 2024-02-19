@@ -1,0 +1,8 @@
+
+_php:S103L"KSplit this 379 characters long line (which is greater than 120 authorized).(§ĞÅê
+vphp:S101"bRename class "Google_WebfontsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¹å¢­
+sphp:S101?"ZRename class "Google_WebfontsService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ìÎıÊûÿÿÿÿ
+fphp:S101Q"RRename class "Google_Webfont" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„Ê¨Ë
+jphp:S101p"VRename class "Google_WebfontList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(½×¼
+nphp:S116q"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(œ•Ú©øÿÿÿÿ
+mphp:S116r"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ

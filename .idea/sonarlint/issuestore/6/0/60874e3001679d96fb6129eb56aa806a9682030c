@@ -1,0 +1,11 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103"KSplit this 141 characters long line (which is greater than 120 authorized).(ÒÍ ´üÿÿÿÿ
+dphp:S103"KSplit this 146 characters long line (which is greater than 120 authorized).(áÂºıÿÿÿÿ
+dphp:S103
+"KSplit this 197 characters long line (which is greater than 120 authorized).(ÊÂ²Æşÿÿÿÿ
+_php:S103"KSplit this 149 characters long line (which is greater than 120 authorized).(Ì»–ü
+3php:S113"'Add a new line at the end of this file.
+G	php:S6600"-Remove the parentheses from this "echo" call.(ÒÍ ´üÿÿÿÿ
+G	php:S6600"-Remove the parentheses from this "echo" call.(áÂºıÿÿÿÿ
+B	php:S6600"-Remove the parentheses from this "echo" call.(Ì»–ü

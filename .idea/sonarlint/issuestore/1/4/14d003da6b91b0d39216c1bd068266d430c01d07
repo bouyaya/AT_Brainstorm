@@ -1,0 +1,10 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103"KSplit this 128 characters long line (which is greater than 120 authorized).(‡Á–†
+dphp:S103 "KSplit this 131 characters long line (which is greater than 120 authorized).(Ïò„²ûÿÿÿÿ
+l	php:S1192 "RDefine a constant instead of duplicating this literal "<div class="p-4">" 3 times.(Ïò„²ûÿÿÿÿ
+a	php:S1192 "GDefine a constant instead of duplicating this literal "</div>" 3 times.(Ïò„²ûÿÿÿÿ
+@	php:S2003"&Replace "include" with "include_once".(öïûúüÿÿÿÿ
+;	php:S2003+"&Replace "include" with "include_once".(‰°‹è
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(öïûúüÿÿÿÿ
+a	php:S4833+"LReplace "include" with namespace import mechanism through the "use" keyword.(‰°‹è

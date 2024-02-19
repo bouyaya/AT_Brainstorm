@@ -1,0 +1,15 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+`php:S103É"KSplit this 189 characters long line (which is greater than 120 authorized).(’İ‚Ñ
+_php:S103Í"KSplit this 207 characters long line (which is greater than 120 authorized).(¥­
+`php:S103Õ"KSplit this 122 characters long line (which is greater than 120 authorized).(õÀÖ®
+`php:S103Ö"KSplit this 125 characters long line (which is greater than 120 authorized).(Ä³¦‘
+ephp:S103×"KSplit this 121 characters long line (which is greater than 120 authorized).(”şğøøÿÿÿÿ
+ephp:S103î"KSplit this 281 characters long line (which is greater than 120 authorized).(Ó¬„Åşÿÿÿÿ
+`php:S103œ"KSplit this 147 characters long line (which is greater than 120 authorized).(©„¡Ÿ
+`php:S103Ÿ"KSplit this 165 characters long line (which is greater than 120 authorized).(øÍÛ›
+«	php:S2681"•This statement will not be executed conditionally; only the first statement of this 2-statement block will be. The rest will execute unconditionally.(ö¦¼
+@	php:S2003"&Replace "include" with "include_once".(®¯÷öıÿÿÿÿ
+Iphp:S121	"0Add curly braces around the nested statement(s).(ú°Ñªıÿÿÿÿ
+Iphp:S121"0Add curly braces around the nested statement(s).(Œ´Ã¢şÿÿÿÿ
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(®¯÷öıÿÿÿÿ

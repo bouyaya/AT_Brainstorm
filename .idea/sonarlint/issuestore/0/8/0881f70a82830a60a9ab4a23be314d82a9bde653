@@ -1,0 +1,160 @@
+
+ephp:S103¥"KSplit this 121 characters long line (which is greater than 120 authorized).(ö«úÀûÿÿÿÿ
+ephp:S103¦"KSplit this 140 characters long line (which is greater than 120 authorized).(òƒ æşÿÿÿÿ
+`php:S103"LSplit this 2714 characters long line (which is greater than 120 authorized).(µ˜¡M
+fphp:S103"LSplit this 1623 characters long line (which is greater than 120 authorized).(¬®ÿÄùÿÿÿÿ
+`php:S103"LSplit this 1437 characters long line (which is greater than 120 authorized).(Ìèd
+aphp:S103"LSplit this 1649 characters long line (which is greater than 120 authorized).(ÅÊëô
+`php:S103‘"KSplit this 942 characters long line (which is greater than 120 authorized).(¡·üĞ
+`php:S103’"KSplit this 821 characters long line (which is greater than 120 authorized).(ÙÎø£
+aphp:S103“"LSplit this 1818 characters long line (which is greater than 120 authorized).(€ Ì«
+aphp:S103”"LSplit this 1000 characters long line (which is greater than 120 authorized).(ê¡â÷
+`php:S103•"KSplit this 544 characters long line (which is greater than 120 authorized).(ÅŞóœ
+`php:S103–"KSplit this 736 characters long line (which is greater than 120 authorized).(ºàÌ±
+`php:S103—"KSplit this 334 characters long line (which is greater than 120 authorized).(ğ¬×Ú
+ephp:S103˜"KSplit this 336 characters long line (which is greater than 120 authorized).(‹î¢–üÿÿÿÿ
+`php:S103™"KSplit this 316 characters long line (which is greater than 120 authorized).(™‹§ì
+aphp:S103š"LSplit this 1230 characters long line (which is greater than 120 authorized).(À“§³
+sphp:S101"_Rename class "Google_VotesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(æèÅ
+xphp:S101”"cRename class "Google_ResponsesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ûÜ›™
+xphp:S101Ó"^Rename class "Google_TagsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£¾ä¿ûÿÿÿÿ
+uphp:S101”"`Rename class "Google_SeriesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Í†ßñ
+€php:S101û"kRename class "Google_SeriesSubmissionsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(åì“Ï
+ƒphp:S101¢"iRename class "Google_SeriesResponsesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(½Ñíèıÿÿÿÿ
+zphp:S101Ç"`Rename class "Google_TopicsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(®¦Òüÿÿÿÿÿ
+…php:S101¡"kRename class "Google_TopicsSubmissionsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„ä¶¸ÿÿÿÿÿ
+ƒphp:S101É"iRename class "Google_ModeratorGlobalServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‹‰Êşÿÿÿÿ
+„php:S101Ö"oRename class "Google_ModeratorGlobalSeriesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(îëÉ²
+wphp:S101÷"bRename class "Google_ProfilesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(»›ü’
+|php:S101·"bRename class "Google_FeaturedServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(½òèÉüÿÿÿÿ
+‚php:S101Ä"hRename class "Google_FeaturedSeriesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(œÊöŞøÿÿÿÿ
+wphp:S101á"bRename class "Google_MyrecentServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ğ¼»ı
+}php:S101î"hRename class "Google_MyrecentSeriesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ç°ö»
+vphp:S101‹"\Rename class "Google_MyServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿·êÕşÿÿÿÿ
+wphp:S101˜"bRename class "Google_MySeriesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ËÒó‡
+php:S101µ"eRename class "Google_SubmissionsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(å€÷øÿÿÿÿ
+ophp:S101ó"[Rename class "Google_ModeratorService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(äÉÈ+
+~php:S101Ÿ"iRename class "Google_ModeratorTopicsResourcePartial" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯Ë¿¼
+…php:S101«"kRename class "Google_ModeratorTopicsResourcePartialId" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¸©ÿ¸üÿÿÿÿ
+‚php:S101¼"hRename class "Google_ModeratorVotesResourcePartial" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ãç´Ìûÿÿÿÿ
+lphp:S101Í"RRename class "Google_Profile" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŞêÒåùÿÿÿÿ
+rphp:S101é"]Rename class "Google_ProfileAttribution" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ä¤ñŠ
+uphp:S101Š"`Rename class "Google_ProfileAttributionGeo" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(äß¹¶
+nphp:S101¢"TRename class "Google_ProfileId" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(À¸Ø°ùÿÿÿÿ
+kphp:S101¬"QRename class "Google_Series" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(÷Ô‚ûùÿÿÿÿ
+nphp:S101‚	"YRename class "Google_SeriesCounters" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ñĞŒÙ
+mphp:S101¶	"SRename class "Google_SeriesId" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(øôú ÿÿÿÿÿ
+ophp:S101À	"URename class "Google_SeriesList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Öª‹üÿÿÿÿ
+kphp:S101Ô	"VRename class "Google_SeriesRules" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(÷Ç­¶
+{php:S101é	"aRename class "Google_SeriesRulesSubmissions" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿ÅßÔşÿÿÿÿ
+uphp:S101ú	"[Rename class "Google_SeriesRulesVotes" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(“ò‰‘øÿÿÿÿ
+ophp:S101‹
+"URename class "Google_Submission" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(™Ó“¸ûÿÿÿÿ
+uphp:S101û
+"`Rename class "Google_SubmissionAttribution" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Œ±óß
+rphp:S101“"]Rename class "Google_SubmissionCounters" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯äµ´
+rphp:S101«"XRename class "Google_SubmissionGeo" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ôÄÌõüÿÿÿÿ
+qphp:S101Ã"WRename class "Google_SubmissionId" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‘Ó…±ûÿÿÿÿ
+sphp:S101Ô"YRename class "Google_SubmissionList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(õ¸ƒöûÿÿÿÿ
+|php:S101è"gRename class "Google_SubmissionParentSubmissionId" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¾¥è×
+{php:S101ù"aRename class "Google_SubmissionTranslations" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Œëµüÿÿÿÿ
+hphp:S101Š"NRename class "Google_Tag" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(â€ºùÿÿÿÿ
+jphp:S101¤"PRename class "Google_TagId" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(î¨µúÿÿÿÿ
+lphp:S101¼"RRename class "Google_TagList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.( ù‹™ùÿÿÿÿ
+ephp:S101Ğ"PRename class "Google_Topic" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(´Á…¯
+rphp:S101“"XRename class "Google_TopicCounters" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ô­åïúÿÿÿÿ
+gphp:S101À"RRename class "Google_TopicId" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¥Ï©ß
+iphp:S101Ñ"TRename class "Google_TopicList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(»ƒ¶
+jphp:S101å"URename class "Google_TopicRules" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ôÌî†
+uphp:S101ú"`Rename class "Google_TopicRulesSubmissions" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(™î—¿
+tphp:S101‹"ZRename class "Google_TopicRulesVotes" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(­•ş²úÿÿÿÿ
+iphp:S101œ"ORename class "Google_Vote" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£„‡ôşÿÿÿÿ
+fphp:S101½"QRename class "Google_VoteId" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(’»â¶
+hphp:S101Î"SRename class "Google_VoteList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(îøØŠ
+qphp:S116ø"\Rename this field "$series_submissions" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ğ’ŒÌ
+tphp:S116ù"ZRename this field "$series_responses" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ÿ´¡ôùÿÿÿÿ
+vphp:S116û"\Rename this field "$topics_submissions" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(«ç²ùşÿÿÿÿ
+qphp:S116ü"WRename this field "$global_series" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(åİ‡±ûÿÿÿÿ
+sphp:S116ş"YRename this field "$featured_series" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÑÔÂõúÿÿÿÿ
+sphp:S116ÿ"YRename this field "$myrecent_series" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(º±¸ğûÿÿÿÿ
+mphp:S116€"SRename this field "$my_series" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Âåˆáÿÿÿÿÿ
+lphp:S116 "RRename this field "$__idType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(õüÏÿÿÿÿÿ
+pphp:S116¡"VRename this field "$__idDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Äñ»ıÿÿÿÿ
+uphp:S116Ï"[Rename this field "$__attributionType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¨æ•Óşÿÿÿÿ
+tphp:S116Ğ"_Rename this field "$__attributionDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(”Ş£´
+lphp:S116Ò"RRename this field "$__idType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(âáôüşÿÿÿÿ
+pphp:S116Ó"VRename this field "$__idDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Äñ»ıÿÿÿÿ
+mphp:S116ê"SRename this field "$__geoType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(èã¤úÿÿÿÿ
+lphp:S116ë"WRename this field "$__geoDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ŒÙ±ô
+jphp:S116¯"URename this field "$__rulesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ğ»»ï
+nphp:S116°"YRename this field "$__rulesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.( ÑÇà
+gphp:S116¸"RRename this field "$__idType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Î£ç
+pphp:S116¹"VRename this field "$__idDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Äñ»ıÿÿÿÿ
+mphp:S116»"XRename this field "$__countersType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ô¬ÉÚ
+qphp:S116¼"\Rename this field "$__countersDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ØÈ­Ñ
+ophp:S116Á	"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·öÎûÿÿÿÿ
+nphp:S116Â	"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+jphp:S116Õ	"URename this field "$__votesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“œÀ‡
+mphp:S116Ö	"YRename this field "$__votesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÉúÚI
+pphp:S116Ø	"[Rename this field "$__submissionsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ú¸ùÚ
+sphp:S116Ù	"_Rename this field "$__submissionsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ìÀ@
+uphp:S116
+"[Rename this field "$__attributionType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ïÇ¢ôûÿÿÿÿ
+tphp:S116
+"_Rename this field "$__attributionDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(”Ş£´
+pphp:S116’
+"VRename this field "$__topicsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(˜ùÓ´øÿÿÿÿ
+tphp:S116“
+"ZRename this field "$__topicsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÜÛÔøÿÿÿÿ
+qphp:S116–
+"\Rename this field "$__translationsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(€Áøë
+uphp:S116—
+"`Rename this field "$__translationsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(š‘´ö
+|php:S116™
+"bRename this field "$__parentSubmissionIdType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°ƒÏ©ÿÿÿÿÿ
+€php:S116š
+"fRename this field "$__parentSubmissionIdDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¦µóËşÿÿÿÿ
+nphp:S116œ
+"TRename this field "$__voteType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°¿ÉÓùÿÿÿÿ
+mphp:S116
+"XRename this field "$__voteDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(®·®œ
+mphp:S116 
+"SRename this field "$__geoType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ı‹Â—øÿÿÿÿ
+lphp:S116¡
+"WRename this field "$__geoDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ŒÙ±ô
+gphp:S116£
+"RRename this field "$__idType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Á­÷¥
+pphp:S116¤
+"VRename this field "$__idDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Äñ»ıÿÿÿÿ
+mphp:S116¦
+"XRename this field "$__countersType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‰ƒÂÓ
+qphp:S116§
+"\Rename this field "$__countersDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ØÈ­Ñ
+jphp:S116Õ"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(©ÍØ‹
+nphp:S116Ö"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+lphp:S116"RRename this field "$__idType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ŒŒøğÿÿÿÿÿ
+pphp:S116"VRename this field "$__idDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Äñ»ıÿÿÿÿ
+ophp:S116½"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ø±ÓÑüÿÿÿÿ
+nphp:S116¾"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+ophp:S116Ó"URename this field "$__rulesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(’ï“¢ıÿÿÿÿ
+nphp:S116Ô"YRename this field "$__rulesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.( ÑÇà
+wphp:S116Ö"bRename this field "$__featuredSubmissionType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ôæÉ
+zphp:S116×"fRename this field "$__featuredSubmissionDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(à¹Ÿl
+rphp:S116Ú"XRename this field "$__countersType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ª ‹‰øÿÿÿÿ
+qphp:S116Û"\Rename this field "$__countersDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ØÈ­Ñ
+lphp:S116İ"RRename this field "$__idType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†´´¥úÿÿÿÿ
+pphp:S116Ş"VRename this field "$__idDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Äñ»ıÿÿÿÿ
+jphp:S116Ò"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¶ Áè
+nphp:S116Ó"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+jphp:S116æ"URename this field "$__votesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(à«‘ó
+mphp:S116ç"YRename this field "$__votesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÉúÚI
+ophp:S116é"[Rename this field "$__submissionsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÑÙ¾
+sphp:S116ê"_Rename this field "$__submissionsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ìÀ@
+gphp:S116Ÿ"RRename this field "$__idType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÜŸ‰–
+pphp:S116 "VRename this field "$__idDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Äñ»ıÿÿÿÿ
+ophp:S116Ï"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(”Ş°÷ûÿÿÿÿ
+nphp:S116Ğ"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+r	php:S1488‡"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+„	php:S1448¬"iClass "Google_Series" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(÷Ô‚ûùÿÿÿÿ
+ˆ	php:S1448‹
+"mClass "Google_Submission" has 26 methods, which is greater than 20 authorized. Split it into smaller classes.(™Ó“¸ûÿÿÿÿ

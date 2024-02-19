@@ -1,0 +1,3 @@
+
+jphp:S101"VRename class "Google_HttpRequest" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(öŸ¡æ
+ƒ	php:S1448"nClass "Google_HttpRequest" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(öŸ¡æ

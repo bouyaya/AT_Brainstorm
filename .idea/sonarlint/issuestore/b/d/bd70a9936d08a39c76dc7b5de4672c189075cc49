@@ -1,0 +1,25 @@
+
+HWeb:TableWithoutCaptionCheck" Add a description to this table.(º˜–Æ
+GWeb:ImgWithoutAltCheck3"%Add an "alt" attribute to this image.(›à—ğ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103 "KSplit this 143 characters long line (which is greater than 120 authorized).(‚ôß•üÿÿÿÿ
+dphp:S103'"KSplit this 147 characters long line (which is greater than 120 authorized).(»ì™ûşÿÿÿÿ
+^php:S103-"KSplit this 145 characters long line (which is greater than 120 authorized).(À¤É
+_php:S1033"KSplit this 145 characters long line (which is greater than 120 authorized).(›à—ğ
+dphp:S1037"KSplit this 132 characters long line (which is greater than 120 authorized).(‘é­€ÿÿÿÿÿ
+_php:S103C"KSplit this 188 characters long line (which is greater than 120 authorized).(ˆ†Ü
+dphp:S103E"KSplit this 147 characters long line (which is greater than 120 authorized).(‘œåéøÿÿÿÿ
+_php:S103F"KSplit this 157 characters long line (which is greater than 120 authorized).(ãòÎâ
+_php:S103H"KSplit this 152 characters long line (which is greater than 120 authorized).(èƒå¶
+_php:S103J"KSplit this 172 characters long line (which is greater than 120 authorized).(ïèß
+_php:S103K"KSplit this 146 characters long line (which is greater than 120 authorized).(ãÂ³·
+dphp:S103L"KSplit this 155 characters long line (which is greater than 120 authorized).(±Î–üÿÿÿÿ
+dphp:S103T"KSplit this 215 characters long line (which is greater than 120 authorized).(‹•¾ûÿÿÿÿ
+_php:S103^"KSplit this 252 characters long line (which is greater than 120 authorized).(øÀÑü
+3php:S113"'Add a new line at the end of this file.
+Y	php:S3358^"DExtract this nested ternary operation into an independent statement.(øÀÑü
+@	php:S2003"&Replace "include" with "include_once".(ˆ¿ğ‰ıÿÿÿÿ
+<	php:S2003˜"&Replace "include" with "include_once".(ı´ä¤
+o	php:S3973~"ZUse curly braces or indentation to denote the code conditionally executed by this "while".(ŸñËÁ
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ˆ¿ğ‰ıÿÿÿÿ
+b	php:S4833˜"LReplace "include" with namespace import mechanism through the "use" keyword.(ı´ä¤

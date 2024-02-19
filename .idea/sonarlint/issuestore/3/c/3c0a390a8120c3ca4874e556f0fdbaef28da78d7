@@ -1,0 +1,17 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103,"KSplit this 195 characters long line (which is greater than 120 authorized).(¨ª·½
+^php:S103/"KSplit this 195 characters long line (which is greater than 120 authorized).(‘‰Ä
+_php:S1032"KSplit this 192 characters long line (which is greater than 120 authorized).(‡Ì“‡
+dphp:S1034"KSplit this 214 characters long line (which is greater than 120 authorized).(µ›×Şúÿÿÿÿ
+_php:S1036"KSplit this 200 characters long line (which is greater than 120 authorized).(«êÃ®
+dphp:S1038"KSplit this 198 characters long line (which is greater than 120 authorized).(áÿêÁıÿÿÿÿ
+_php:S103?"KSplit this 162 characters long line (which is greater than 120 authorized).(ø˜ˆö
+_php:S103B"KSplit this 162 characters long line (which is greater than 120 authorized).(¿¡Ö“
+dphp:S103H"KSplit this 253 characters long line (which is greater than 120 authorized).(ÛÙÛûÿÿÿÿ
+_php:S103•"KSplit this 130 characters long line (which is greater than 120 authorized).(”¦ä-
+ephp:S103™"KSplit this 165 characters long line (which is greater than 120 authorized).(¦¬ÈŸûÿÿÿÿ
+ephp:S103à"KSplit this 133 characters long line (which is greater than 120 authorized).(×Â¦àøÿÿÿÿ
+f	php:S1192*"LDefine a constant instead of duplicating this literal "Get Started" 3 times.(İÎİÓøÿÿÿÿ
+u	php:S1192Ì"_Define a constant instead of duplicating this literal "Statistics for the last 7 days" 3 times.(†èç
+o	php:S1192Í"YDefine a constant instead of duplicating this literal "Statistics for this year" 3 times.(öôÅ²

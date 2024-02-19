@@ -1,0 +1,20 @@
+
+ephp:S103"KSplit this 337 characters long line (which is greater than 120 authorized).(“÷‰Ûüÿÿÿÿ
+`php:S103"KSplit this 370 characters long line (which is greater than 120 authorized).(ë¢¦ë
+`php:S103"KSplit this 636 characters long line (which is greater than 120 authorized).(ş»‹Ì
+wphp:S101"cRename class "Google_LanguagesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(âˆˆß
+}php:S1018"dRename class "Google_DetectionsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Í®ËÍüÿÿÿÿ
+zphp:S101V"fRename class "Google_TranslationsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(§¦ÄÁ
+tphp:S101"[Rename class "Google_TranslateService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(æ¡¼ıÿÿÿÿÿ
+vphp:S101•"aRename class "Google_DetectionsListResponse" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÚŒ»Î
+wphp:S101¢"bRename class "Google_DetectionsResourceItems" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(—û†‰
+zphp:S101º"`Rename class "Google_LanguagesListResponse" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(˜õ¾âûÿÿÿÿ
+vphp:S101Ç"\Rename class "Google_LanguagesResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(•ÜÁàúÿÿÿÿ
+xphp:S101Ø"cRename class "Google_TranslationsListResponse" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‡õñô
+yphp:S101å"_Rename class "Google_TranslationsResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¤éëùÿÿÿÿ
+ophp:S116–"ZRename this field "$__detectionsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(õ¬‘
+xphp:S116—"^Rename this field "$__detectionsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(šˆÑùÿÿÿÿ
+nphp:S116»"YRename this field "$__languagesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Èî¾
+wphp:S116¼"]Rename this field "$__languagesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ì ùÿÿÿÿ
+vphp:S116Ù"\Rename this field "$__translationsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ò””¹øÿÿÿÿ
+uphp:S116Ú"`Rename this field "$__translationsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(š‘´ö

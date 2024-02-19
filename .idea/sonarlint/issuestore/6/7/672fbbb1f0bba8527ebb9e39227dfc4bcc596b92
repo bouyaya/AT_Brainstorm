@@ -1,0 +1,93 @@
+
+dphp:S103."KSplit this 156 characters long line (which is greater than 120 authorized).(Ã™¶»ùÿÿÿÿ
+dphp:S103q"KSplit this 132 characters long line (which is greater than 120 authorized).(¿êÜşÿÿÿÿ
+`php:S103—"LSplit this 4365 characters long line (which is greater than 120 authorized).(µ…İ
+ephp:S103ç"KSplit this 127 characters long line (which is greater than 120 authorized).(şëÃÛûÿÿÿÿ
+ephp:S103†
+"KSplit this 135 characters long line (which is greater than 120 authorized).(¡ùÿÿÿÿÿ
+ephp:S103‡
+"KSplit this 121 characters long line (which is greater than 120 authorized).(Ş÷Ú™úÿÿÿÿ
+{php:S101"bRename class "Google_ProductsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ØşÎÆşÿÿÿÿ
+nphp:S101Š"ZRename class "Google_ShoppingService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯˜¥
+fphp:S101œ"RRename class "Google_Product" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(•İ9
+gphp:S101á"SRename class "Google_Products" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(–±7
+sphp:S101"YRename class "Google_ProductsFacets" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(äÙÏ©øÿÿÿÿ
+uphp:S101Æ"`Rename class "Google_ProductsFacetsBuckets" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Áî—Æ
+rphp:S101ó"]Rename class "Google_ProductsPromotions" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(óíîÓ
+ƒphp:S101³"iRename class "Google_ProductsPromotionsCustomFields" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(×äö’ÿÿÿÿÿ
+pphp:S101Ä"[Rename class "Google_ProductsSpelling" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(íÉÕŒ
+nphp:S101Î"YRename class "Google_ProductsStores" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Á²ºß
+€php:S101‚"fRename class "Google_ShoppingModelCategoryJsonV1" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ö‰çøÿÿÿÿ
+}php:S101¢"cRename class "Google_ShoppingModelDebugJsonV1" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ãôÚæúÿÿÿÿ
+„php:S101Ù"oRename class "Google_ShoppingModelDebugJsonV1BackendTimes" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(º¥–ş
+zphp:S101ø"eRename class "Google_ShoppingModelProductJsonV1" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¢Ôá¶
+‰php:S101‡"oRename class "Google_ShoppingModelProductJsonV1Attributes" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÇåàÌùÿÿÿÿ
+…php:S101­"kRename class "Google_ShoppingModelProductJsonV1Author" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£²¢çùÿÿÿÿ
+…php:S101¾"kRename class "Google_ShoppingModelProductJsonV1Images" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ç´¤çşÿÿÿÿ
+Šphp:S101Ù"uRename class "Google_ShoppingModelProductJsonV1ImagesThumbnails" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(şŞÍ—
+ˆphp:S101ø"nRename class "Google_ShoppingModelProductJsonV1Internal4" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‡ı¿úÿÿÿÿ
+Šphp:S101‰	"pRename class "Google_ShoppingModelProductJsonV1Inventories" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(á‘Ñ‰ûÿÿÿÿ
+‡php:S101õ	"mRename class "Google_ShoppingModelProductJsonV1Variants" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(êÌÌ¡úÿÿÿÿ
+‡php:S101
+"mRename class "Google_ShoppingModelRecommendationsJsonV1" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÉÓÃºşÿÿÿÿ
+™php:S101•
+"Rename class "Google_ShoppingModelRecommendationsJsonV1RecommendationList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÕË¹Éÿÿÿÿÿ
+lphp:S116Ÿ"WRename this field "$__productType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×ãµÎ
+pphp:S116 "[Rename this field "$__productDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(’úÂ
+yphp:S116£"_Rename this field "$__recommendationsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İÒˆŞúÿÿÿÿ
+}php:S116¤"cRename this field "$__recommendationsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ğ–Ï­ûÿÿÿÿ
+jphp:S116¦"URename this field "$__debugType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(®àŸº
+sphp:S116§"YRename this field "$__debugDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(üôîÍûÿÿÿÿ
+tphp:S116ª"ZRename this field "$__categoriesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†ÂŸ–úÿÿÿÿ
+xphp:S116«"^Rename this field "$__categoriesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Š¿ñóüÿÿÿÿ
+tphp:S116â"ZRename this field "$__promotionsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÕªÑÌúÿÿÿÿ
+xphp:S116ã"^Rename this field "$__promotionsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ü©…æıÿÿÿÿ
+pphp:S116ç"VRename this field "$__storesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Úì…‰ÿÿÿÿÿ
+tphp:S116è"ZRename this field "$__storesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(À±ËÏşÿÿÿÿ
+ophp:S116ë"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(… ¤‰ûÿÿÿÿ
+nphp:S116ì"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+kphp:S116î"VRename this field "$__facetsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ş³¦À
+tphp:S116ï"ZRename this field "$__facetsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(æğê…ıÿÿÿÿ
+php:S116ù"gRename this field "$__categoryRecommendationsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Œ´Öéÿÿÿÿÿ
+€php:S116ú"kRename this field "$__categoryRecommendationsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×„Ç¥
+jphp:S116ü"URename this field "$__debugType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(®àŸº
+sphp:S116ı"YRename this field "$__debugDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(üôîÍûÿÿÿÿ
+mphp:S116ÿ"XRename this field "$__spellingType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¬”âµ
+vphp:S116€"\Rename this field "$__spellingDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(©‹¬èûÿÿÿÿ
+tphp:S116„"ZRename this field "$__categoriesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†ÂŸ–úÿÿÿÿ
+xphp:S116…"^Rename this field "$__categoriesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Š¿ñóüÿÿÿÿ
+lphp:S116“"WRename this field "$__bucketsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‰êªÂ
+uphp:S116”"[Rename this field "$__bucketsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(˜¾Î¾øÿÿÿÿ
+lphp:S116ô"WRename this field "$__productType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×ãµÎ
+pphp:S116õ"[Rename this field "$__productDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(’úÂ
+vphp:S116û"\Rename this field "$__customFieldsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(àÔ’®ÿÿÿÿÿ
+uphp:S116ü"`Rename this field "$__customFieldsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(óâı–
+vphp:S116©"\Rename this field "$__backendTimesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ğª™¸ıÿÿÿÿ
+zphp:S116ª"`Rename this field "$__backendTimesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ØˆÛÇşÿÿÿÿ
+kphp:S116û"VRename this field "$__imagesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ø¸¨È
+ophp:S116ü"ZRename this field "$__imagesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(€»Ö
+uphp:S116ş"[Rename this field "$__inventoriesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(£Ìãûøÿÿÿÿ
+tphp:S116ÿ"_Rename this field "$__inventoriesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿ–áŒ
+kphp:S116"VRename this field "$__authorType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(œßù‘
+tphp:S116‚"ZRename this field "$__authorDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(û—°•øÿÿÿÿ
+sphp:S116"YRename this field "$__internal4Type" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ø¥Š‚ıÿÿÿÿ
+rphp:S116"]Rename this field "$__internal4DataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ƒ˜•§
+nphp:S116”"ZRename this field "$__attributesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°ºˆ
+sphp:S116•"^Rename this field "$__attributesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(„Ïæí
+rphp:S116˜"XRename this field "$__variantsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×÷îÜúÿÿÿÿ
+qphp:S116™"\Rename this field "$__variantsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(áò–À
+tphp:S116Á"ZRename this field "$__thumbnailsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İ«êùÿÿÿÿ
+sphp:S116Â"^Rename this field "$__thumbnailsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(š¬üø
+lphp:S116ö	"WRename this field "$__variantType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÍÇ´å
+pphp:S116÷	"[Rename this field "$__variantDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×Ÿ†
+|php:S116‚
+"bRename this field "$__recommendationListType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ò¼Ö²øÿÿÿÿ
+{php:S116ƒ
+"fRename this field "$__recommendationListDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.( ºÒÁ
+lphp:S116–
+"WRename this field "$__productType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×ãµÎ
+pphp:S116—
+"[Rename this field "$__productDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(’úÂ
+€	php:S1448á"kClass "Google_Products" has 42 methods, which is greater than 20 authorized. Split it into smaller classes.(–±7
+“	php:S1448ø"}Class "Google_ShoppingModelProductJsonV1" has 70 methods, which is greater than 20 authorized. Split it into smaller classes.(¢Ôá¶
+¤	php:S1448‰	"ˆClass "Google_ShoppingModelProductJsonV1Inventories" has 30 methods, which is greater than 20 authorized. Split it into smaller classes.(á‘Ñ‰ûÿÿÿÿ

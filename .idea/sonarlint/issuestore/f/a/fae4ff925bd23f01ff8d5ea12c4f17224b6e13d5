@@ -1,0 +1,5 @@
+
+ophp:S101"VRename class "Google_PemVerifier" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(½óÏÿÿÿÿÿ
+Y	php:S1784""DExplicitly mention the visibility of this constructor "__construct".(îÉâ—
+W	php:S1784,"BExplicitly mention the visibility of this destructor "__destruct".(Ô±á“
+O	php:S1784;":Explicitly mention the visibility of this method "verify".(˜¢º×

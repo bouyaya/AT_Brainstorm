@@ -1,0 +1,49 @@
+
+_php:S103"KSplit this 141 characters long line (which is greater than 120 authorized).(á£ë™
+_php:S103O"KSplit this 437 characters long line (which is greater than 120 authorized).(€öå
+ophp:S100”"ZRename function "setAssociated_media" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(úãîù
+tphp:S100˜"ZRename function "getAssociated_media" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(„¦âìüÿÿÿÿ
+zphp:S101"aRename class "Google_MomentsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(œŒòøÿÿÿÿ
+vphp:S101A"]Rename class "Google_PlusMomentsService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(æî œøÿÿÿÿ
+hphp:S101T"TRename class "Google_ItemScope" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(€‡ãå
+fphp:S101ü"QRename class "Google_Moment" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Õ †Æ
+jphp:S101¯"URename class "Google_MomentVerb" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(êóï¼
+kphp:S116Y"WRename this field "$__addressType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(´ÑÃ×
+tphp:S116Z"[Rename this field "$__addressDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·œ‡äùÿÿÿÿ
+tphp:S116b"[Rename this field "$__contributorType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(å„çşÿÿÿÿ
+sphp:S116c"_Rename this field "$__contributorDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ˆâ‡
+rphp:S116h"YRename this field "$__attendeesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¿Ù›úÿÿÿÿ
+qphp:S116i"]Rename this field "$__attendeesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(€·±Ù
+jphp:S116k"VRename this field "$__authorType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(îÃÌç
+sphp:S116l"ZRename this field "$__authorDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÓÅ¶ûÿÿÿÿ
+yphp:S116n"`Rename this field "$__associated_mediaType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ë¶–½ÿÿÿÿÿ
+wphp:S116o"dRename this field "$__associated_mediaDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(©Ÿâ
+
+nphp:S116p"ZRename this field "$associated_media" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(šÅñò
+kphp:S116u"XRename this field "$__locationType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(´ƒÔ 
+uphp:S116v"\Rename this field "$__locationDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(´Àº´şÿÿÿÿ
+qphp:S116y"XRename this field "$__byArtistType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ïÀúÿÿÿÿ
+uphp:S116z"\Rename this field "$__byArtistDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ôø ’ûÿÿÿÿ
+sphp:S116€"^Rename this field "$__partOfTVSeriesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(—€Šê
+|php:S116"bRename this field "$__partOfTVSeriesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÏÕ¼¬ûÿÿÿÿ
+lphp:S116‰"WRename this field "$__inAlbumType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(–î›È
+pphp:S116Š"[Rename this field "$__inAlbumDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢øÕğ
+mphp:S116"SRename this field "$__geoType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¨±Ğüÿÿÿÿ
+lphp:S116"WRename this field "$__geoDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ŒÙ±ô
+jphp:S116”"URename this field "$__aboutType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(î¥ü
+sphp:S116•"YRename this field "$__aboutDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ìíÄËúÿÿÿÿ
+ophp:S116™"ZRename this field "$__performersType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÌÌé
+xphp:S116š"^Rename this field "$__performersDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•İ¶Íúÿÿÿÿ
+sphp:S116Ÿ"YRename this field "$__thumbnailType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‡á¡åıÿÿÿÿ
+rphp:S116 "]Rename this field "$__thumbnailDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(òô½Š
+qphp:S116¤"\Rename this field "$__reviewRatingType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ãìï‹
+tphp:S116¥"`Rename this field "$__reviewRatingDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(™ËÓl
+ophp:S116§"URename this field "$__audioType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‰Åïçıÿÿÿÿ
+sphp:S116¨"YRename this field "$__audioDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‘›¡úÿÿÿÿÿ
+kphp:S116ÿ"VRename this field "$__targetType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·—Š
+nphp:S116€"ZRename this field "$__targetDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ı»©
+nphp:S116‚"TRename this field "$__verbType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(™«³øÿÿÿÿ
+mphp:S116ƒ"XRename this field "$__verbDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(§‹Ã†
+pphp:S116…"VRename this field "$__resultType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•ÁÖ°ùÿÿÿÿ
+tphp:S116†"ZRename this field "$__resultDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ëšµ˜øÿÿÿÿ
+‚	php:S1448T"mClass "Google_ItemScope" has 110 methods, which is greater than 20 authorized. Split it into smaller classes.(€‡ãå

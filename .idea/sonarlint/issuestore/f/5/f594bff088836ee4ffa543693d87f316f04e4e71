@@ -1,0 +1,12 @@
+
+dphp:S103L"KSplit this 136 characters long line (which is greater than 120 authorized).(€­È¦şÿÿÿÿ
+dphp:S103a"KSplit this 136 characters long line (which is greater than 120 authorized).(€­È¦şÿÿÿÿ
+fphp:S103Á"LSplit this 3279 characters long line (which is greater than 120 authorized).(º•«ãøÿÿÿÿ
+…php:S101"lRename class "Google_LicenseAssignmentsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Àí£¬ıÿÿÿÿ
+uphp:S101´"[Rename class "Google_LicensingService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(äÜûÿÿÿÿ
+qphp:S101Æ"\Rename class "Google_LicenseAssignment" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(§ş“±
+wphp:S101ó"bRename class "Google_LicenseAssignmentInsert" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(õû„à
+zphp:S101ı"`Rename class "Google_LicenseAssignmentList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(–ÂÆ ıÿÿÿÿ
+jphp:S116ÿ"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(÷«×
+nphp:S116€"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+r	php:S1488¡"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@

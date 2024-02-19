@@ -1,0 +1,33 @@
+
+dphp:S103#"KSplit this 133 characters long line (which is greater than 120 authorized).(Š ´Äøÿÿÿÿ
+_php:S103$"KSplit this 169 characters long line (which is greater than 120 authorized).(€êûµ
+_php:S103Z"KSplit this 135 characters long line (which is greater than 120 authorized).(‡üşÃ
+dphp:S103["KSplit this 171 characters long line (which is greater than 120 authorized).(àŒóÒøÿÿÿÿ
+_php:S103n"KSplit this 157 characters long line (which is greater than 120 authorized).(‘¥Ş¹
+dphp:S103o"KSplit this 132 characters long line (which is greater than 120 authorized).(¿í¿‡ÿÿÿÿÿ
+_php:S103p"KSplit this 189 characters long line (which is greater than 120 authorized).(ŒÉƒÕ
+^php:S103q"KSplit this 177 characters long line (which is greater than 120 authorized).(ˆ§Œz
+dphp:S103s"KSplit this 135 characters long line (which is greater than 120 authorized).(Ò™ÅÁşÿÿÿÿ
+_php:S103u"KSplit this 177 characters long line (which is greater than 120 authorized).(¸­Â¸
+dphp:S103v"KSplit this 130 characters long line (which is greater than 120 authorized).(š…Æ¸øÿÿÿÿ
+dphp:S103w"KSplit this 157 characters long line (which is greater than 120 authorized).(îôæÃıÿÿÿÿ
+aphp:S103È"LSplit this 3502 characters long line (which is greater than 120 authorized).(Æ§ìü
+aphp:S103É"LSplit this 1901 characters long line (which is greater than 120 authorized).(¥‡ßº
+sphp:S101"_Rename class "Google_TasksServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÖöÑ‹
+xphp:S101Á"cRename class "Google_TasklistsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(•‚¡
+lphp:S101º"WRename class "Google_TasksService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¨¨²”
+iphp:S101Î"ORename class "Google_Task" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£×üÿÿÿÿ
+iphp:S101½"TRename class "Google_TaskLinks" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(«·Š®
+mphp:S101Õ"SRename class "Google_TaskList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¹Ê›ıùÿÿÿÿ
+nphp:S101‚"TRename class "Google_TaskLists" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ƒñßıûÿÿÿÿ
+ephp:S101¤"PRename class "Google_Tasks" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(«‡’³
+jphp:S116Ó"URename this field "$__linksType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ëÓÔ
+nphp:S116Ô"YRename this field "$__linksDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¯ŠÎ
+jphp:S116„"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ó„ ÿ
+nphp:S116…"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+iphp:S116¦"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(äøö
+nphp:S116§"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+w	php:S1488N"]Immediately return this expression instead of assigning it to the temporary variable "$data".(ïµ‡Ëøÿÿÿÿ
+r	php:S1488´"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488§"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+‚	php:S1448Î"gClass "Google_Task" has 30 methods, which is greater than 20 authorized. Split it into smaller classes.(£×üÿÿÿÿ

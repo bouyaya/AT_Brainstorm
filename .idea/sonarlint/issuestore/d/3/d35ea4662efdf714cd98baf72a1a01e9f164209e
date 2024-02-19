@@ -1,0 +1,53 @@
+
+r%Web:ItemTagNotWithinContainerTagCheck8"<Surround this <li> item tag by a <ul> or <ol> container one.(Ôæ‰Ìøÿÿÿÿ
+m%Web:ItemTagNotWithinContainerTagCheck9"<Surround this <li> item tag by a <ul> or <ol> container one.(ï ¾
+LWeb:ImgWithoutAltCheckU"%Add an "alt" attribute to this image.(ÅüÑÁşÿÿÿÿ
+HWeb:ImgWithoutAltCheck‰"%Add an "alt" attribute to this image.(“ÀÉ
+Xphp:S105"EReplace all tab characters in this file by sequences of white-spaces.8ßöš‡Ü1
+ephp:S103/"KSplit this 149 characters long line (which is greater than 120 authorized).(äœé8àöš‡Ü1
+fphp:S103?"KSplit this 154 characters long line (which is greater than 120 authorized).(ôùì8àöš‡Ü1
+kphp:S103Q"KSplit this 169 characters long line (which is greater than 120 authorized).(¨ƒ£ìşÿÿÿÿ8àöš‡Ü1
+fphp:S103R"KSplit this 174 characters long line (which is greater than 120 authorized).(Şô‰ª8àöš‡Ü1
+fphp:S103S"KSplit this 176 characters long line (which is greater than 120 authorized).(‰ı’™8áöš‡Ü1
+kphp:S103T"KSplit this 151 characters long line (which is greater than 120 authorized).(«İŞÒùÿÿÿÿ8áöš‡Ü1
+kphp:S103U"KSplit this 318 characters long line (which is greater than 120 authorized).(ÅüÑÁşÿÿÿÿ8áöš‡Ü1
+kphp:S103]"KSplit this 123 characters long line (which is greater than 120 authorized).(œÌÑÉÿÿÿÿÿ8áöš‡Ü1
+kphp:S103b"KSplit this 122 characters long line (which is greater than 120 authorized).(ëÿËùøÿÿÿÿ8âöš‡Ü1
+fphp:S103n"KSplit this 159 characters long line (which is greater than 120 authorized).(’ó¾è8âöš‡Ü1
+kphp:S103u"KSplit this 162 characters long line (which is greater than 120 authorized).(•”˜ûşÿÿÿÿ8âöš‡Ü1
+lphp:S103…"KSplit this 169 characters long line (which is greater than 120 authorized).(¨ƒ£ìşÿÿÿÿ8âöš‡Ü1
+gphp:S103†"KSplit this 174 characters long line (which is greater than 120 authorized).(Şô‰ª8âöš‡Ü1
+gphp:S103‡"KSplit this 176 characters long line (which is greater than 120 authorized).(‰ı’™8ãöš‡Ü1
+lphp:S103ˆ"KSplit this 151 characters long line (which is greater than 120 authorized).(«İŞÒùÿÿÿÿ8ãöš‡Ü1
+gphp:S103‰"KSplit this 400 characters long line (which is greater than 120 authorized).(“ÀÉ8ãöš‡Ü1
+gphp:S103"KSplit this 121 characters long line (which is greater than 120 authorized).(–ÁÚ8äöš‡Ü1
+lphp:S103˜"KSplit this 153 characters long line (which is greater than 120 authorized).(Àíşÿÿÿÿ8çöš‡Ü1
+lphp:S103¿"KSplit this 125 characters long line (which is greater than 120 authorized).(ú“Ô¤şÿÿÿÿ8éöš‡Ü1
+gphp:S103À"KSplit this 138 characters long line (which is greater than 120 authorized).(¹ÀÈ¼8ëöš‡Ü1
+gphp:S103Á"KSplit this 140 characters long line (which is greater than 120 authorized).(ÁŒò8ìöš‡Ü1
+gphp:S103Â"KSplit this 269 characters long line (which is greater than 120 authorized).(É’ì8íöš‡Ü1
+fphp:S103Ã"KSplit this 169 characters long line (which is greater than 120 authorized).(°÷Ä_8íöš‡Ü1
+lphp:S103É"KSplit this 125 characters long line (which is greater than 120 authorized).(ú“Ô¤şÿÿÿÿ8îöš‡Ü1
+gphp:S103Ê"KSplit this 138 characters long line (which is greater than 120 authorized).(¹ÀÈ¼8îöš‡Ü1
+gphp:S103Ë"KSplit this 140 characters long line (which is greater than 120 authorized).(í¤Š±8îöš‡Ü1
+lphp:S103Ì"KSplit this 269 characters long line (which is greater than 120 authorized).(ĞùÖ±ùÿÿÿÿ8îöš‡Ü1
+gphp:S103Í"KSplit this 169 characters long line (which is greater than 120 authorized).(”µàá8îöš‡Ü1
+lphp:S103Ş"KSplit this 184 characters long line (which is greater than 120 authorized).(³œ¤¶ıÿÿÿÿ8îöš‡Ü1
+:php:S113"'Add a new line at the end of this file.8îöš‡Ü1
+p	php:S1192"ODefine a constant instead of duplicating this literal "SELECT * FROM " 5 times.(­üœŠúÿÿÿÿ8ïöš‡Ü1
+h	php:S1192"LDefine a constant instead of duplicating this literal "/footer.php" 3 times.(ı´ä¤8ğöš‡Ü1
+K	php:S1066"/Merge this if statement with the enclosing one.(¿îğë8ğöš‡Ü1
+G	php:S2003"&Replace "include" with "include_once".(ˆ¿ğ‰ıÿÿÿÿ8ñöš‡Ü1
+B	php:S2003"&Replace "include" with "include_once".(ı´ä¤8ñöš‡Ü1
+B	php:S2003*"&Replace "include" with "include_once".(ı´ä¤8ñöš‡Ü1
+C	php:S2003‘"&Replace "include" with "include_once".(ı´ä¤8ñöš‡Ü1
+s	php:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(¿îğë8òöš‡Ü1
+w	php:S3973"ZUse curly braces or indentation to denote the code conditionally executed by this "while".(€ßÅš8òöš‡Ü1
+I	php:S6600k"-Remove the parentheses from this "echo" call.(””àÿ8òöš‡Ü1
+I	php:S6600n"-Remove the parentheses from this "echo" call.(’ó¾è8òöš‡Ü1
+J	php:S6600 "-Remove the parentheses from this "echo" call.(””àÿ8óöš‡Ü1
+J	php:S6600£"-Remove the parentheses from this "echo" call.(êÉÔ†8óöš‡Ü1
+m	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ˆ¿ğ‰ıÿÿÿÿ8óöš‡Ü1
+h	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ı´ä¤8óöš‡Ü1
+h	php:S4833*"LReplace "include" with namespace import mechanism through the "use" keyword.(ı´ä¤8óöš‡Ü1
+i	php:S4833‘"LReplace "include" with namespace import mechanism through the "use" keyword.(ı´ä¤8óöš‡Ü1

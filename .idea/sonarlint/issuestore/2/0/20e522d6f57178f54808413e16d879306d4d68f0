@@ -1,0 +1,17 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103"KSplit this 123 characters long line (which is greater than 120 authorized).(™È”ã
+^php:S103"KSplit this 177 characters long line (which is greater than 120 authorized).(¦¥ÀR
+dphp:S103"KSplit this 132 characters long line (which is greater than 120 authorized).(¨—ùãÿÿÿÿÿ
+_php:S103*"KSplit this 123 characters long line (which is greater than 120 authorized).(™È”ã
+_php:S103/"KSplit this 240 characters long line (which is greater than 120 authorized).(¹µœ
+dphp:S103N"KSplit this 185 characters long line (which is greater than 120 authorized).(ïªÓªùÿÿÿÿ
+dphp:S103P"KSplit this 185 characters long line (which is greater than 120 authorized).(üç‰µüÿÿÿÿ
+dphp:S103R"KSplit this 149 characters long line (which is greater than 120 authorized).(·ïóƒüÿÿÿÿ
+dphp:S103S"KSplit this 134 characters long line (which is greater than 120 authorized).(Ú¹ÜÍùÿÿÿÿ
+3php:S113"'Add a new line at the end of this file.
+d	php:S1192"ODefine a constant instead of duplicating this literal "SELECT * FROM " 3 times.(™È”ã
+o	php:S3973I"ZUse curly braces or indentation to denote the code conditionally executed by this "while".(Ÿ£™
+A	php:S6600"-Remove the parentheses from this "echo" call.(¦¥ÀR
+B	php:S6600/"-Remove the parentheses from this "echo" call.(¹µœ
+G	php:S6600R"-Remove the parentheses from this "echo" call.(·ïóƒüÿÿÿÿ

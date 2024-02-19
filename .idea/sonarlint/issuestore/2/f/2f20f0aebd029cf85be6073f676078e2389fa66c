@@ -1,0 +1,5 @@
+
+_php:S103M"KSplit this 520 characters long line (which is greater than 120 authorized).(Û°æ«
+wphp:S101"^Rename class "Google_TextServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„Ê¿úÿÿÿÿ
+nphp:S101@"ZRename class "Google_FreebaseService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(“Åó¯
+uphp:S101Q"\Rename class "Google_ContentserviceGet" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¥¥çõüÿÿÿÿ

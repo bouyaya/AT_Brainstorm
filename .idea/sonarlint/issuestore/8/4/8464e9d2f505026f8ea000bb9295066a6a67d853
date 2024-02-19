@@ -1,0 +1,35 @@
+
+dphp:S103t"KSplit this 369 characters long line (which is greater than 120 authorized).(ÂğÊùÿÿÿÿ
+_php:S103u"KSplit this 375 characters long line (which is greater than 120 authorized).(ºĞşÜ
+hphp:S100‚"SRename function "setIssued_to" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(æé›ı
+hphp:S100…"SRename function "getIssued_to" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ş¨Šû
+kphp:S100ˆ"QRename function "setUser_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(œšÒÿÿÿÿÿ
+kphp:S100‹"QRename function "getUser_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ØÃß¡ıÿÿÿÿ
+nphp:S100"TRename function "setExpires_in" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(È­Œ›ÿÿÿÿÿ
+nphp:S100‘"TRename function "getExpires_in" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¶˜Ê€şÿÿÿÿ
+ophp:S100”"URename function "setAccess_type" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“Öæüûÿÿÿÿ
+ophp:S100—"URename function "getAccess_type" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(”¤ÿŠúÿÿÿÿ
+rphp:S100¬"XRename function "setVerified_email" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¯ß÷úÿÿÿÿ
+rphp:S100¯"XRename function "getVerified_email" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(´ªˆ„ıÿÿÿÿ
+ophp:S100Á"URename function "setFamily_name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(éŠŒüÿÿÿÿ
+ophp:S100Ä"URename function "getFamily_name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÔÒÖãşÿÿÿÿ
+iphp:S100ñ"TRename function "setGiven_name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ŠŒ¼è
+nphp:S100ô"TRename function "getGiven_name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(›¯¬Ÿøÿÿÿÿ
+rphp:S100ƒ"XRename function "setVerified_email" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¯ß÷úÿÿÿÿ
+rphp:S100†"XRename function "getVerified_email" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(´ªˆ„ıÿÿÿÿ
+{php:S101"bRename class "Google_UserinfoServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¹È˜ìşÿÿÿÿ
+}php:S1016"dRename class "Google_UserinfoV2ServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(”Æÿıÿÿÿÿ
+php:S101C"fRename class "Google_UserinfoV2MeServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(±ºÓ¤üÿÿÿÿ
+qphp:S101f"XRename class "Google_Oauth2Service" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(İ¸Ëüÿÿÿÿ
+hphp:S101y"TRename class "Google_Tokeninfo" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(­„Ê÷
+mphp:S101´"SRename class "Google_Userinfo" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¨º†÷üÿÿÿÿ
+qphp:S116h"XRename this field "$userinfo_v2_me" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‚¼ÊÂùÿÿÿÿ
+gphp:S116z"SRename this field "$issued_to" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ä¥ãÈ
+ephp:S116{"QRename this field "$user_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÓÑèí
+hphp:S116|"TRename this field "$expires_in" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¬ºÂÑ
+nphp:S116}"URename this field "$access_type" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ˆ·èüÿÿÿÿ
+mphp:S116"XRename this field "$verified_email" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°âñ¦
+jphp:S116µ"URename this field "$family_name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(£à„
+iphp:S116½"TRename this field "$given_name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(øÕ‹
+mphp:S116À"XRename this field "$verified_email" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°âñ¦
+†	php:S1448´"kClass "Google_Userinfo" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(¨º†÷üÿÿÿÿ

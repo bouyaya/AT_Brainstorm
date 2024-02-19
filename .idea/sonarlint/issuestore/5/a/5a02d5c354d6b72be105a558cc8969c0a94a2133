@@ -1,0 +1,28 @@
+
+`php:S103²"KSplit this 205 characters long line (which is greater than 120 authorized).(úú†ª
+`php:S103³"KSplit this 132 characters long line (which is greater than 120 authorized).(¼±­Ï
+ephp:S103ò"KSplit this 640 characters long line (which is greater than 120 authorized).(¯€ï¿ÿÿÿÿÿ
+aphp:S103ó"LSplit this 1270 characters long line (which is greater than 120 authorized).(óÛàÈ
+fphp:S103ô"LSplit this 1232 characters long line (which is greater than 120 authorized).(æÅÒÍøÿÿÿÿ
+~php:S101"eRename class "Google_DirectDealsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(…Òşùÿÿÿÿ
+vphp:S101G"bRename class "Google_AccountsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(î¹Í¾
+xphp:S101™"cRename class "Google_CreativesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‹Æ¯
+{php:S101ã"aRename class "Google_AdexchangebuyerService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Œ·æˆşÿÿÿÿ
+gphp:S101ù"RRename class "Google_Account" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†­ÆË
+uphp:S101©"`Rename class "Google_AccountBidderLocation" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¹Õ‘á
+qphp:S101º"WRename class "Google_AccountsList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(´Û£—üÿÿÿÿ
+hphp:S101Î"SRename class "Google_Creative" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ô†Š‡
+rphp:S101È"XRename class "Google_CreativesList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ë®¯ıÿÿÿÿ
+jphp:S101ã"URename class "Google_DirectDeal" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(š¡ ©
+tphp:S101¥"ZRename class "Google_DirectDealsList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ã“”ëıÿÿÿÿ
+rphp:S116ü"^Rename this field "$__bidderLocationType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ª¿Á
+wphp:S116ı"bRename this field "$__bidderLocationDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(»€Šª
+jphp:S116»"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¡«–
+nphp:S116¼"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+ophp:S116Ø"URename this field "$HTMLSnippet" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÜÎˆ¾şÿÿÿÿ
+jphp:S116Ê"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ü¥†ç
+nphp:S116Ë"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+uphp:S116§"[Rename this field "$__directDealsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(é‹Å…ùÿÿÿÿ
+yphp:S116¨"_Rename this field "$__directDealsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(±ãÛÎüÿÿÿÿ
+uphp:S117–"[Rename this parameter "$HTMLSnippet" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(ü¹åûÿÿÿÿ
+	php:S1448Î"kClass "Google_Creative" has 34 methods, which is greater than 20 authorized. Split it into smaller classes.(ô†Š‡

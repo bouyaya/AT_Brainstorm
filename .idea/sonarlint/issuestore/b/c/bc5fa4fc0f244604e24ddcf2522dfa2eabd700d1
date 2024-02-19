@@ -1,0 +1,80 @@
+
+`php:S103›"KSplit this 168 characters long line (which is greater than 120 authorized).(ÖŠÅÒ
+`php:S103¯"KSplit this 168 characters long line (which is greater than 120 authorized).(ÖŠÅÒ
+ephp:S103÷"KSplit this 195 characters long line (which is greater than 120 authorized).(›¾ƒ®ùÿÿÿÿ
+ephp:S103Œ"KSplit this 195 characters long line (which is greater than 120 authorized).(›¾ƒ®ùÿÿÿÿ
+fphp:S103Æ"LSplit this 2461 characters long line (which is greater than 120 authorized).(ü”ûìùÿÿÿÿ
+ephp:S103Ç"KSplit this 962 characters long line (which is greater than 120 authorized).(çšŞÿÿÿÿÿ
+`php:S103È"LSplit this 2566 characters long line (which is greater than 120 authorized).(õ²Ñz
+fphp:S103É"LSplit this 2603 characters long line (which is greater than 120 authorized).(½ƒÇ¹şÿÿÿÿ
+aphp:S103Ê"LSplit this 2032 characters long line (which is greater than 120 authorized).(–Ñà
+yphp:S101"`Rename class "Google_ColumnServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÚŒ·¯üÿÿÿÿ
+tphp:S101’"_Rename class "Google_QueryServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(à€Úˆ
+tphp:S101Ç"_Rename class "Google_StyleServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(÷¯¿ƒ
+wphp:S101¿"bRename class "Google_TemplateServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(§¥·«
+yphp:S101·"_Rename class "Google_TableServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¼¤Áÿÿÿÿÿ
+xphp:S101µ"^Rename class "Google_FusiontablesService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÇÎÈ±úÿÿÿÿ
+kphp:S101Ï"QRename class "Google_Bucket" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÀÎîÆşÿÿÿÿ
+kphp:S101ü"QRename class "Google_Column" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(”äáàùÿÿÿÿ
+pphp:S101¤"[Rename class "Google_ColumnBaseColumn" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(½«Ÿ™
+ophp:S101µ"URename class "Google_ColumnList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(È´Ò˜ùÿÿÿÿ
+mphp:S101×"SRename class "Google_Geometry" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ì§Ö±ùÿÿÿÿ
+dphp:S101ğ"ORename class "Google_Line" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(äÑ°¹
+iphp:S101‚"TRename class "Google_LineStyle" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÆéË§
+ephp:S101¬"PRename class "Google_Point" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Óã¿
+iphp:S101¾"URename class "Google_PointStyle" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£™´
+gphp:S101Ñ"RRename class "Google_Polygon" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¼û’¯
+kphp:S101ã"WRename class "Google_PolygonStyle" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(åàK
+kphp:S101¤"VRename class "Google_Sqlresponse" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Á¹Õ£
+rphp:S101¾"XRename class "Google_StyleFunction" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(™Ğµµÿÿÿÿÿ
+zphp:S101â"`Rename class "Google_StyleFunctionGradient" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(àÑÀÔùÿÿÿÿ
+€php:S101ı"fRename class "Google_StyleFunctionGradientColors" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¬µ®Éúÿÿÿÿ
+lphp:S101"WRename class "Google_StyleSetting" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(›ÁœÖ
+pphp:S101Ï"[Rename class "Google_StyleSettingList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(²ÑÜÂ
+ephp:S101ñ"PRename class "Google_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(»œ­³
+iphp:S101¾	"TRename class "Google_TableList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÓóŠè
+mphp:S101Ù	"SRename class "Google_Template" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Æ¼Òÿüÿÿÿÿ
+qphp:S101
+"WRename class "Google_TemplateList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(äÏò¥øÿÿÿÿ
+ophp:S116"ZRename this field "$__baseColumnType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‹‹óø
+xphp:S116‚"^Rename this field "$__baseColumnDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(øŸ­½ÿÿÿÿÿ
+ophp:S116·"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Õ•çóüÿÿÿÿ
+nphp:S116¸"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+wphp:S116„"bRename this field "$__strokeWeightStylerType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÉôãÈ
+zphp:S116…"fRename this field "$__strokeWeightStylerDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ó–´]
+{php:S116‰"aRename this field "$__strokeColorStylerType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(©â‡œşÿÿÿÿ
+php:S116Š"eRename this field "$__strokeColorStylerDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‹ÙĞøÿÿÿÿ
+tphp:S116¿"ZRename this field "$__iconStylerType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(äˆËÀûÿÿÿÿ
+sphp:S116À"^Rename this field "$__iconStylerDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ø¹ï›
+{php:S116ä"aRename this field "$__strokeColorStylerType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(©â‡œşÿÿÿÿ
+php:S116å"eRename this field "$__strokeColorStylerDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‹ÙĞøÿÿÿÿ
+wphp:S116é"bRename this field "$__strokeWeightStylerType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÉôãÈ
+zphp:S116ê"fRename this field "$__strokeWeightStylerDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ó–´]
+yphp:S116ì"_Rename this field "$__fillColorStylerType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ïËÅëúÿÿÿÿ
+}php:S116í"cRename this field "$__fillColorStylerDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Æ¼±áÿÿÿÿÿ
+rphp:S116¿"XRename this field "$__gradientType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(åºæÇüÿÿÿÿ
+qphp:S116À"\Rename this field "$__gradientDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ùóÀ¦
+qphp:S116Ã"WRename this field "$__bucketsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿ…›Áûÿÿÿÿ
+uphp:S116Ä"[Rename this field "$__bucketsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(˜¾Î¾øÿÿÿÿ
+pphp:S116ä"VRename this field "$__colorsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†î£Îúÿÿÿÿ
+tphp:S116å"ZRename this field "$__colorsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(á –‚ıÿÿÿÿ
+wphp:S116"]Rename this field "$__markerOptionsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Û˜ÇÉùÿÿÿÿ
+{php:S116"aRename this field "$__markerOptionsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ìÿ±óıÿÿÿÿ
+xphp:S116”"^Rename this field "$__polygonOptionsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÆÚª’ÿÿÿÿÿ
+wphp:S116•"bRename this field "$__polygonOptionsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(æ¶Œ¿
+yphp:S116˜"_Rename this field "$__polylineOptionsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(š¬Ä—ûÿÿÿÿ
+xphp:S116™"cRename this field "$__polylineOptionsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ÿó¶¡
+jphp:S116Ñ"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ƒ„Øú
+nphp:S116Ò"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+qphp:S116ú"WRename this field "$__columnsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(­¼ÉÚÿÿÿÿÿ
+pphp:S116û"[Rename this field "$__columnsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ø’†Ç
+jphp:S116À	"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.( Ñêÿ
+nphp:S116Á	"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+jphp:S116
+"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(˜®˜¡
+nphp:S116‘
+"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+r	php:S1488…"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488²"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488ª"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488¢"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@

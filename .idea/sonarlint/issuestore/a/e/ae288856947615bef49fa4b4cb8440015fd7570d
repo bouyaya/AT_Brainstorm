@@ -1,0 +1,82 @@
+
+_php:S1034"KSplit this 197 characters long line (which is greater than 120 authorized).(‚²‘Ë
+dphp:S103f"KSplit this 195 characters long line (which is greater than 120 authorized).(‘ˆ¤¯úÿÿÿÿ
+ephp:S103Ğ"KSplit this 229 characters long line (which is greater than 120 authorized).(úİ»Ôøÿÿÿÿ
+ephp:S103Ñ"KSplit this 143 characters long line (which is greater than 120 authorized).(’€Ø‚øÿÿÿÿ
+ephp:S103ã"KSplit this 193 characters long line (which is greater than 120 authorized).(ÓÊ½Ûùÿÿÿÿ
+ephp:S103"KSplit this 128 characters long line (which is greater than 120 authorized).(é«íÁúÿÿÿÿ
+ephp:S103¾"KSplit this 195 characters long line (which is greater than 120 authorized).(‘ˆ¤¯úÿÿÿÿ
+ephp:S103õ"KSplit this 229 characters long line (which is greater than 120 authorized).(úİ»Ôøÿÿÿÿ
+ephp:S103ö"KSplit this 143 characters long line (which is greater than 120 authorized).(’€Ø‚øÿÿÿÿ
+`php:S103¿"KSplit this 200 characters long line (which is greater than 120 authorized).(ôÚ–»
+fphp:S103ª"LSplit this 1338 characters long line (which is greater than 120 authorized).(¡ÛÁ¯øÿÿÿÿ
+`php:S103«"KSplit this 779 characters long line (which is greater than 120 authorized).(‘’Ğê
+fphp:S103¬"LSplit this 1023 characters long line (which is greater than 120 authorized).(¹ìÆØûÿÿÿÿ
+fphp:S103­"LSplit this 1021 characters long line (which is greater than 120 authorized).(€ì‚áøÿÿÿÿ
+ephp:S103®"KSplit this 699 characters long line (which is greater than 120 authorized).(•æßıúÿÿÿÿ
+fphp:S103¯"LSplit this 3607 characters long line (which is greater than 120 authorized).(şÍÜøÿÿÿÿ
+`php:S103°"KSplit this 998 characters long line (which is greater than 120 authorized).(‘áŠ¾
+fphp:S103±"LSplit this 1139 characters long line (which is greater than 120 authorized).(Ö¥é§ÿÿÿÿÿ
+fphp:S103²"LSplit this 2559 characters long line (which is greater than 120 authorized).(¹Ìãîøÿÿÿÿ
+~php:S101"eRename class "Google_UrlchannelsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(õ´İÀıÿÿÿÿ
+|php:S101^"cRename class "Google_AdclientsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Î½˜Âıÿÿÿÿ
+‡php:S101"mRename class "Google_AssociationsessionsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Å»Ï©ıÿÿÿÿ
+vphp:S101Ä"aRename class "Google_ReportsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†³î¤
+wphp:S101í"bRename class "Google_AccountsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(î¹Í¾
+~php:S101œ"iRename class "Google_AccountsAdunitsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(õî×É
+…php:S101µ"kRename class "Google_AccountsAdclientsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿áøÄûÿÿÿÿ
+ƒphp:S101è"iRename class "Google_AccountsReportsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(âÏïÑüÿÿÿÿ
+}php:S101’"hRename class "Google_CustomchannelsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‡¡ê§
+wphp:S101•"]Rename class "Google_AdsensehostService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(äË›üıÿÿÿÿ
+gphp:S101·"RRename class "Google_Account" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†­ÆË
+mphp:S101Ö"SRename class "Google_Accounts" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¼ŠÇ¾ûÿÿÿÿ
+hphp:S101ñ"SRename class "Google_AdClient" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‹¥ûÄ
+nphp:S101—"TRename class "Google_AdClients" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ùû“áùÿÿÿÿ
+fphp:S101¹"QRename class "Google_AdCode" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(»ğÈ
+gphp:S101Ê"RRename class "Google_AdStyle" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ş¬øµ
+rphp:S101í"XRename class "Google_AdStyleColors" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(÷õà¬üÿÿÿÿ
+kphp:S101“"VRename class "Google_AdStyleFont" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(«ìô®
+kphp:S101¤"QRename class "Google_AdUnit" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ïßûŸøÿÿÿÿ
+}php:S101å"cRename class "Google_AdUnitContentAdsSettings" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(½ãâäúÿÿÿÿ
+‰php:S101ÿ"oRename class "Google_AdUnitContentAdsSettingsBackupOption" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÑÎ¾çúÿÿÿÿ
+ƒphp:S101—"iRename class "Google_AdUnitMobileContentAdsSettings" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(À’Ùğÿÿÿÿÿ
+gphp:S101¶"RRename class "Google_AdUnits" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯È•¼
+wphp:S101Ø"]Rename class "Google_AssociationSession" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(çÜÕæşÿÿÿÿ
+mphp:S101š	"XRename class "Google_CustomChannel" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŠëÑÄ
+sphp:S101¹	"YRename class "Google_CustomChannels" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(óé®–øÿÿÿÿ
+kphp:S101Û	"QRename class "Google_Report" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(œÕãúÿÿÿÿ
+mphp:S101’
+"XRename class "Google_ReportHeaders" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(µ¡ş
+ophp:S101ª
+"URename class "Google_UrlChannel" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ñ“àşÿÿÿÿ
+kphp:S101Â
+"VRename class "Google_UrlChannels" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ñ©‹
+ophp:S116›"ZRename this field "$accounts_adunits" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¡è¯…
+qphp:S116œ"\Rename this field "$accounts_adclients" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¨ÆáØ
+tphp:S116"ZRename this field "$accounts_reports" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•»–¦şÿÿÿÿ
+jphp:S116×"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¡«–
+nphp:S116Ø"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+jphp:S116™"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İ»Ü
+nphp:S116š"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+pphp:S116Ì"VRename this field "$__colorsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(æªÖ›ûÿÿÿÿ
+ophp:S116Í"ZRename this field "$__colorsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Î†ñå
+iphp:S116Ï"TRename this field "$__fontType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ó€¨
+rphp:S116Ğ"XRename this field "$__fontDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Õ¢Èªûÿÿÿÿ
+|php:S116©"bRename this field "$__contentAdsSettingsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×ñ»×şÿÿÿÿ
+{php:S116ª"fRename this field "$__contentAdsSettingsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×ªŒ
+}php:S116­"hRename this field "$__mobileContentAdsSettingsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ôÒ¡
+php:S116®"lRename this field "$__mobileContentAdsSettingsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(®İµ¹
+uphp:S116°"[Rename this field "$__customStyleType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(÷øŠÉÿÿÿÿÿ
+yphp:S116±"_Rename this field "$__customStyleDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ìèÚ¹üÿÿÿÿ
+qphp:S116ç"\Rename this field "$__backupOptionType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“Ú”
+zphp:S116è"`Rename this field "$__backupOptionDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ı§Çøÿÿÿÿ
+jphp:S116¸"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(²ã©ª
+nphp:S116¹"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+ophp:S116»	"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ğó»¿ùÿÿÿÿ
+nphp:S116¼	"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+lphp:S116à	"WRename this field "$__headersType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(æ£º¢
+uphp:S116á	"[Rename this field "$__headersDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ø‚öÅÿÿÿÿÿ
+jphp:S116Ä
+"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ó¼‹†
+nphp:S116Å
+"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ

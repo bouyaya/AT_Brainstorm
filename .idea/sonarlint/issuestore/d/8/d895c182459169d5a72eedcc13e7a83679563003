@@ -1,0 +1,25 @@
+
+lphp:S100¡"RRename function "client_send" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(éèşÿÿÿÿ
+ephp:S100	"PRename function "get_lines" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¨Úîµ
+X	php:S1142À"=This method has 15 returns, which is more than the 3 allowed.(ÁÄ¦©şÿÿÿÿ
+R	php:S1142¥"<This method has 4 returns, which is more than the 3 allowed.(ûîßŠ
+W	php:S1142×"<This method has 5 returns, which is more than the 3 allowed.(Òÿ»Ïøÿÿÿÿ
+kphp:S116w"RRename this field "$do_debug" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ûş™–şÿÿÿÿ
+ophp:S116"URename this field "$Debugoutput" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ï”—™şÿÿÿÿ
+fphp:S116˜"QRename this field "$do_verp" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ˆÛ®à
+kphp:S116£"QRename this field "$Timeout" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¿¾Êìøÿÿÿÿ
+hphp:S116«"SRename this field "$Timelimit" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ï—¹
+€php:S116´"fRename this field "$smtp_transaction_id_patterns" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ì¯”Àûÿÿÿÿ
+|php:S116Ä"bRename this field "$last_smtp_transaction_id" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(í½ë£ÿÿÿÿÿ
+hphp:S116Ë"SRename this field "$smtp_conn" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¦Ãî
+hphp:S116ß"SRename this field "$helo_rply" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(»ß¸
+ophp:S116ë"URename this field "$server_caps" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Œú“•ùÿÿÿÿ
+nphp:S116ò"TRename this field "$last_reply" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·”ñüıÿÿÿÿ
+iphp:S117Ä"URename this parameter "$OAuth" to match the regular expression ^[a-z_][a-zA-Z0-9_]*$.(õ‰­
+o	php:S3776À"TRefactor this function to reduce its Cognitive Complexity from 41 to the 15 allowed.(ÁÄ¦©şÿÿÿÿ
+o	php:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(àô•áüÿÿÿÿ
+o	php:S3776˜"TRefactor this function to reduce its Cognitive Complexity from 23 to the 15 allowed.(ù½ƒ ûÿÿÿÿ
+a	php:S1192“	"FDefine a constant instead of duplicating this literal " sec)" 3 times.(ï¯•äüÿÿÿÿ
+O	php:S3801×"4Refactor this function to use "return" consistently.(Òÿ»Ïøÿÿÿÿ
+u	php:S1448"`Class "SMTP" has 38 methods, which is greater than 20 authorized. Split it into smaller classes.(¦ÄåŸ
+-	php:S2010÷"Replace "or" with "||".(©ÓÃ±

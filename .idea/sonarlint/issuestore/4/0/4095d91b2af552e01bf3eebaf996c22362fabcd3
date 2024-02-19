@@ -1,0 +1,7 @@
+
+mphp:S101"TRename class "Google_FileCache" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Èª‚äøÿÿÿÿ
+`	php:S1192%"FDefine a constant instead of duplicating this literal ".lock" 3 times.(êÓÄ¨ûÿÿÿÿ
+I	php:S1066."/Merge this if statement with the enclosing one.(³¡’Úùÿÿÿÿ
+D	php:S1066,"/Merge this if statement with the enclosing one.(ß¿·¦
+I	php:S1066c"/Merge this if statement with the enclosing one.(³¢­¢øÿÿÿÿ
+D	php:S1066t"/Merge this if statement with the enclosing one.(ß¿·¦

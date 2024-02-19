@@ -1,0 +1,23 @@
+
+fphp:S103«"LSplit this 1565 characters long line (which is greater than 120 authorized).(¤ÁæÔúÿÿÿÿ
+ephp:S103¬"KSplit this 483 characters long line (which is greater than 120 authorized).(ƒÃ˜øÿÿÿÿ
+{php:S101"gRename class "Google_TrainedmodelsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Şˆß¨
+yphp:S101x"fRename class "Google_HostedmodelsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(³á<
+qphp:S101"\Rename class "Google_PredictionService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£„ßˆ
+jphp:S101±"PRename class "Google_Input" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(™ÿ¬ãıÿÿÿÿ
+ophp:S101½"URename class "Google_InputInput" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¶€‹¬ûÿÿÿÿ
+fphp:S101È"QRename class "Google_Output" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÀèŸË
+qphp:S101ø"\Rename class "Google_OutputOutputMulti" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Óˆíò
+hphp:S101‰"SRename class "Google_Training" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(’‚æî
+yphp:S101×"_Rename class "Google_TrainingDataAnalysis" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ùä˜¹øÿÿÿÿ
+qphp:S101â"\Rename class "Google_TrainingModelInfo" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(õıØÆ
+fphp:S101"QRename class "Google_Update" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(É¯ö„
+iphp:S116²"URename this field "$__inputType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“óµb
+sphp:S116³"YRename this field "$__inputDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(–©Âúÿÿÿÿ
+pphp:S116Ì"[Rename this field "$__outputMultiType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ô·ïÅ
+sphp:S116Í"_Rename this field "$__outputMultiDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(»ÖÓ1
+vphp:S116"\Rename this field "$__dataAnalysisType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ƒíÅıÿÿÿÿ
+uphp:S116"`Rename this field "$__dataAnalysisDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•ÈÔŞ
+nphp:S116‘"YRename this field "$__modelInfoType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Œ“«Š
+wphp:S116’"]Rename this field "$__modelInfoDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Îÿ„´şÿÿÿÿ
+q	php:S1488k"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@

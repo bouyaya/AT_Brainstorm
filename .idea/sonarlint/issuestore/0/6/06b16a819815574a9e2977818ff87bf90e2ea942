@@ -1,0 +1,11 @@
+
+MWeb:TableWithoutCaptionCheck	" Add a description to this table.(¼ëùÏşÿÿÿÿ
+GWeb:ImgWithoutAltCheck$"%Add an "alt" attribute to this image.(ïÃê”
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103"KSplit this 150 characters long line (which is greater than 120 authorized).(®º·€
+dphp:S103"KSplit this 126 characters long line (which is greater than 120 authorized).(Ğ®´‰ùÿÿÿÿ
+_php:S103"KSplit this 147 characters long line (which is greater than 120 authorized).(Œä·Î
+_php:S103)"KSplit this 156 characters long line (which is greater than 120 authorized).(â¹Ã÷
+dphp:S1031"KSplit this 152 characters long line (which is greater than 120 authorized).(Æã›øÿÿÿÿ
+dphp:S1032"KSplit this 154 characters long line (which is greater than 120 authorized).(ßß­¹ıÿÿÿÿ
+3php:S113"'Add a new line at the end of this file.

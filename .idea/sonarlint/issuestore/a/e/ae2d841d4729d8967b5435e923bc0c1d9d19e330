@@ -1,0 +1,177 @@
+
+dphp:S103,"KSplit this 179 characters long line (which is greater than 120 authorized).(É ì¦üÿÿÿÿ
+_php:S1030"KSplit this 158 characters long line (which is greater than 120 authorized).(ù×Ø„
+_php:S103O"KSplit this 168 characters long line (which is greater than 120 authorized).(¹€š¾
+_php:S103n"KSplit this 159 characters long line (which is greater than 120 authorized).(£Ô²‰
+`php:S103Š"KSplit this 170 characters long line (which is greater than 120 authorized).(Š‡¬¿
+`php:S103‹"KSplit this 190 characters long line (which is greater than 120 authorized).(€¬˜™
+`php:S103Œ"KSplit this 170 characters long line (which is greater than 120 authorized).(ÅÙœñ
+`php:S103"KSplit this 156 characters long line (which is greater than 120 authorized).(ˆØ £
+ephp:S103¬"KSplit this 182 characters long line (which is greater than 120 authorized).(¸¨ø¾ÿÿÿÿÿ
+ephp:S103­"KSplit this 202 characters long line (which is greater than 120 authorized).(„¯øéûÿÿÿÿ
+`php:S103±"KSplit this 158 characters long line (which is greater than 120 authorized).(ù×Ø„
+`php:S103Û"KSplit this 145 characters long line (which is greater than 120 authorized).(Çıüâ
+`php:S103Ü"KSplit this 138 characters long line (which is greater than 120 authorized).(±±à
+_php:S103İ"KSplit this 133 characters long line (which is greater than 120 authorized).(œõ÷[
+ephp:S103Ş"KSplit this 180 characters long line (which is greater than 120 authorized).(ÚÖÖÿÿÿÿÿ
+ephp:S103â"KSplit this 131 characters long line (which is greater than 120 authorized).(Ù‚ŒÇùÿÿÿÿ
+`php:S103ã"KSplit this 126 characters long line (which is greater than 120 authorized).(Ê‰­ê
+`php:S103ä"KSplit this 158 characters long line (which is greater than 120 authorized).(ù×Ø„
+ephp:S103å"KSplit this 123 characters long line (which is greater than 120 authorized).(Ö¿şÓúÿÿÿÿ
+`php:S103"KSplit this 145 characters long line (which is greater than 120 authorized).(Çıüâ
+`php:S103‚"KSplit this 138 characters long line (which is greater than 120 authorized).(±±à
+_php:S103ƒ"KSplit this 133 characters long line (which is greater than 120 authorized).(œõ÷[
+ephp:S103„"KSplit this 145 characters long line (which is greater than 120 authorized).(ŒÁ¸äúÿÿÿÿ
+ephp:S103ˆ"KSplit this 127 characters long line (which is greater than 120 authorized).(Ô ıìûÿÿÿÿ
+`php:S103Š"KSplit this 158 characters long line (which is greater than 120 authorized).(ù×Ø„
+ephp:S103¼"KSplit this 665 characters long line (which is greater than 120 authorized).(Û‡˜ãøÿÿÿÿ
+`php:S103½"KSplit this 543 characters long line (which is greater than 120 authorized).(´ò°š
+`php:S103¾"KSplit this 543 characters long line (which is greater than 120 authorized).(àŠÊü
+`php:S103¿"KSplit this 814 characters long line (which is greater than 120 authorized).(ùåãî
+ephp:S103À"KSplit this 740 characters long line (which is greater than 120 authorized).(í¸øüÿÿÿÿ
+ephp:S103Á"KSplit this 927 characters long line (which is greater than 120 authorized).(®é´£üÿÿÿÿ
+`php:S103Â"KSplit this 973 characters long line (which is greater than 120 authorized).(«Î¦³
+jphp:S100‚"URename function "setMax_results" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ãìú›
+ophp:S100…"URename function "getMax_results" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ûâß°úÿÿÿÿ
+nphp:S100•"TRename function "setStart_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(åÉ¶ƒüÿÿÿÿ
+nphp:S100˜"TRename function "getStart_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(çò·×ıÿÿÿÿ
+ophp:S100›"URename function "setStart_index" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‚¿œøÿÿÿÿ
+jphp:S100"URename function "getStart_index" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Œø»‚
+lphp:S100º"RRename function "setEnd_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÍæÎËÿÿÿÿÿ
+gphp:S100½"RRename function "getEnd_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(–ÍÓï
+jphp:S100ñ	"URename function "setMax_results" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ãìú›
+ophp:S100ô	"URename function "getMax_results" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ûâß°úÿÿÿÿ
+nphp:S100„
+"TRename function "setStart_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(åÉ¶ƒüÿÿÿÿ
+nphp:S100‡
+"TRename function "getStart_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(çò·×ıÿÿÿÿ
+ophp:S100Š
+"URename function "setStart_index" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‚¿œøÿÿÿÿ
+jphp:S100
+"URename function "getStart_index" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Œø»‚
+lphp:S100©
+"RRename function "setEnd_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÍæÎËÿÿÿÿÿ
+gphp:S100¬
+"RRename function "getEnd_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(–ÍÓï
+xphp:S101"dRename class "Google_ManagementServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ûØëÌ
+…php:S101&"qRename class "Google_ManagementWebpropertiesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(û…¹¨
+…php:S101F"lRename class "Google_ManagementSegmentsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Í€íˆúÿÿÿÿ
+…php:S101e"lRename class "Google_ManagementAccountsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¡˜ “øÿÿÿÿ
+ƒphp:S101„"iRename class "Google_ManagementGoalsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†àÓøøÿÿÿÿ
+†php:S101¦"lRename class "Google_ManagementProfilesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ù×Àøÿÿÿÿ
+xphp:S101È"^Rename class "Google_DataServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(––ÃÚùÿÿÿÿ
+{php:S101Õ"aRename class "Google_DataMcfServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ğÒÍäüÿÿÿÿ
+zphp:S101û"`Rename class "Google_DataGaServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‡ïÆôÿÿÿÿÿ
+pphp:S101©"[Rename class "Google_AnalyticsService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¶ÁÏÛ
+gphp:S101Ç"RRename class "Google_Account" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†­ÆË
+pphp:S101ı"[Rename class "Google_AccountChildLink" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯ãŒ¡
+mphp:S101"SRename class "Google_Accounts" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¼ŠÇ¾ûÿÿÿÿ
+kphp:S101Ì"QRename class "Google_GaData" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Õğ•Çüÿÿÿÿ
+xphp:S101²"^Rename class "Google_GaDataColumnHeaders" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ş¿³±şÿÿÿÿ
+vphp:S101Ê"\Rename class "Google_GaDataProfileInfo" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¸ñÊ¾ÿÿÿÿÿ
+pphp:S101÷"VRename class "Google_GaDataQuery" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(îÁ¡ùÿÿÿÿ
+dphp:S101Â"ORename class "Google_Goal" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(™Éè„
+pphp:S101Í"[Rename class "Google_GoalEventDetails" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(´¨×é
+php:S101á"jRename class "Google_GoalEventDetailsEventConditions" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(à„åê
+nphp:S101‡"YRename class "Google_GoalParentLink" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¡ùÂä
+xphp:S101˜"dRename class "Google_GoalUrlDestinationDetails" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(…±Ñ4
+~php:S101Á"iRename class "Google_GoalUrlDestinationDetailsSteps" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(©îÅ¸
+}php:S101Ù"cRename class "Google_GoalVisitNumPagesDetails" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Üƒæİÿÿÿÿÿ
+php:S101ê"eRename class "Google_GoalVisitTimeOnSiteDetails" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ë³Õÿúÿÿÿÿ
+ephp:S101û"PRename class "Google_Goals" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(°Äè
+gphp:S101¹"RRename class "Google_McfData" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ÿ€ø
+tphp:S101¡	"_Rename class "Google_McfDataColumnHeaders" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(÷ø²
+wphp:S101¹	"]Rename class "Google_McfDataProfileInfo" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Œ™Ôùÿÿÿÿ
+qphp:S101æ	"WRename class "Google_McfDataQuery" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†éÌ†ÿÿÿÿÿ
+pphp:S101±
+"VRename class "Google_McfDataRows" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(–ğè¨ıÿÿÿÿ
+}php:S101Å
+"iRename class "Google_McfDataRowsConversionPathValue" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(°Úf
+lphp:S101Ö
+"RRename class "Google_Profile" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŞêÒåùÿÿÿÿ
+pphp:S101Ô"[Rename class "Google_ProfileChildLink" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(åèÁ×
+pphp:S101å"\Rename class "Google_ProfileParentLink" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÁÍÈ
+mphp:S101ö"SRename class "Google_Profiles" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯Ä†ãşÿÿÿÿ
+lphp:S101´"RRename class "Google_Segment" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(åÕêûÿÿÿÿ
+mphp:S101ï"SRename class "Google_Segments" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(“Äòøûÿÿÿÿ
+rphp:S101­"XRename class "Google_Webproperties" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÚÌ€üùÿÿÿÿ
+pphp:S101ë"VRename class "Google_Webproperty" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(±ºô¿şÿÿÿÿ
+yphp:S101¿"_Rename class "Google_WebpropertyChildLink" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Œª§Ëûÿÿÿÿ
+uphp:S101Ğ"`Rename class "Google_WebpropertyParentLink" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(šå“ö
+wphp:S116ª"bRename this field "$management_webproperties" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°©è†
+rphp:S116«"]Rename this field "$management_segments" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‚ë’¹
+rphp:S116¬"]Rename this field "$management_accounts" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Â‹Ôµ
+nphp:S116­"ZRename this field "$management_goals" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Şº¼^
+wphp:S116®"]Rename this field "$management_profiles" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ºİ Õşÿÿÿÿ
+gphp:S116¯"RRename this field "$data_mcf" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¨ô¡Ï
+fphp:S116°"QRename this field "$data_ga" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(’÷Ü’
+sphp:S116Ì"YRename this field "$__childLinkType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(èÇŒ–ûÿÿÿÿ
+rphp:S116Í"]Rename this field "$__childLinkDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Êš‡Ã
+jphp:S116‘"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¡«–
+nphp:S116’"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+jphp:S116Õ"URename this field "$__queryType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÚÌÍ
+sphp:S116Ö"YRename this field "$__queryDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(–Åƒ‰ùÿÿÿÿ
+uphp:S116Ù"[Rename this field "$__profileInfoType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Æ·°šùÿÿÿÿ
+tphp:S116Ú"_Rename this field "$__profileInfoDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ûè¡¼
+rphp:S116Ü"]Rename this field "$__columnHeadersType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(»ÿëË
+{php:S116İ"aRename this field "$__columnHeadersDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÙÄçéşÿÿÿÿ
+ophp:S116ø"URename this field "$max_results" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÖÊ—¸ûÿÿÿÿ
+nphp:S116û"TRename this field "$start_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Úá¢şÿÿÿÿ
+ophp:S116ü"URename this field "$start_index" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ªÆ¿ùÿÿÿÿ
+gphp:S116"RRename this field "$end_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(³Û¶í
+{php:S116Ä"fRename this field "$__visitTimeOnSiteDetailsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(›Ä¶Ñ
+„php:S116Å"jRename this field "$__visitTimeOnSiteDetailsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Â–à¨ùÿÿÿÿ
+zphp:S116É"eRename this field "$__urlDestinationDetailsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(™œØƒ
+~php:S116Ê"iRename this field "$__urlDestinationDetailsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÃŠó
+yphp:S116Î"dRename this field "$__visitNumPagesDetailsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(£Î‘
+}php:S116Ï"hRename this field "$__visitNumPagesDetailsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(à÷˜
+vphp:S116Ò"\Rename this field "$__eventDetailsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ş¸‰²øÿÿÿÿ
+uphp:S116Ó"`Rename this field "$__eventDetailsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(™¸˜ø
+tphp:S116Ø"ZRename this field "$__parentLinkType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(äşÛûıÿÿÿÿ
+sphp:S116Ù"^Rename this field "$__parentLinkDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(îÔíã
+yphp:S116Î"_Rename this field "$__eventConditionsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•üî²ûÿÿÿÿ
+xphp:S116Ï"cRename this field "$__eventConditionsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·×¼¦
+jphp:S116œ"URename this field "$__stepsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‹ÒŞ¤
+mphp:S116"YRename this field "$__stepsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(úîÅ
+jphp:S116ş"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(îÈâÏ
+nphp:S116ÿ"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+nphp:S116»"TRename this field "$__rowsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÃòÈğùÿÿÿÿ
+rphp:S116¼"XRename this field "$__rowsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿÄÂôùÿÿÿÿ
+ophp:S116Ä"URename this field "$__queryType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¹©ö³ùÿÿÿÿ
+sphp:S116Å"YRename this field "$__queryDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(–Åƒ‰ùÿÿÿÿ
+pphp:S116È"[Rename this field "$__profileInfoType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(øğê
+tphp:S116É"_Rename this field "$__profileInfoDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ûè¡¼
+rphp:S116Ë"]Rename this field "$__columnHeadersType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(·¸õá
+{php:S116Ì"aRename this field "$__columnHeadersDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÙÄçéşÿÿÿÿ
+ophp:S116ç	"URename this field "$max_results" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÖÊ—¸ûÿÿÿÿ
+nphp:S116ê	"TRename this field "$start_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Úá¢şÿÿÿÿ
+ophp:S116ë	"URename this field "$start_index" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ªÆ¿ùÿÿÿÿ
+gphp:S116ğ	"RRename this field "$end_date" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(³Û¶í
+}php:S116³
+"cRename this field "$__conversionPathValueType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ŠÇ®ìıÿÿÿÿ
+|php:S116´
+"gRename this field "$__conversionPathValueDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(’ƒœÕ
+nphp:S116á
+"YRename this field "$__childLinkType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(³ùØÙ
+rphp:S116â
+"]Rename this field "$__childLinkDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Êš‡Ã
+tphp:S116æ
+"ZRename this field "$__parentLinkType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†“‚úÿÿÿÿ
+sphp:S116ç
+"^Rename this field "$__parentLinkDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(îÔíã
+ophp:S116ù"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(­º´¸ûÿÿÿÿ
+nphp:S116ú"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+iphp:S116ò"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ß§ºd
+nphp:S116ó"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+jphp:S116°"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¼™¹
+nphp:S116±"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+sphp:S116ò"YRename this field "$__childLinkType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÓÊ¹¡ûÿÿÿÿ
+rphp:S116ó"]Rename this field "$__childLinkDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Êš‡Ã
+ophp:S116õ"ZRename this field "$__parentLinkType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ãûğ˜
+sphp:S116ö"^Rename this field "$__parentLinkDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(îÔíã
+„	php:S1448Ì"iClass "Google_GaData" has 26 methods, which is greater than 20 authorized. Split it into smaller classes.(Õğ•Çüÿÿÿÿ
+}	php:S1448Â"gClass "Google_Goal" has 36 methods, which is greater than 20 authorized. Split it into smaller classes.(™Éè„
+€	php:S1448¹"jClass "Google_McfData" has 26 methods, which is greater than 20 authorized. Split it into smaller classes.(Ÿ€ø
+…	php:S1448Ö
+"jClass "Google_Profile" has 34 methods, which is greater than 20 authorized. Split it into smaller classes.(ŞêÒåùÿÿÿÿ
+‰	php:S1448ë"nClass "Google_Webproperty" has 22 methods, which is greater than 20 authorized. Split it into smaller classes.(±ºô¿şÿÿÿÿ

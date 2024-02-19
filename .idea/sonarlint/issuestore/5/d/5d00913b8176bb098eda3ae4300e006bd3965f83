@@ -1,0 +1,31 @@
+
+dphp:S103p"KSplit this 971 characters long line (which is greater than 120 authorized).(íÌ÷¿úÿÿÿÿ
+pphp:S101"]Rename class "Google_UrlServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(™àt
+rphp:S101c"^Rename class "Google_UrlshortenerService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯Õ¯
+uphp:S101u"\Rename class "Google_AnalyticsSnapshot" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(À³Ëüøÿÿÿÿ
+uphp:S101®"[Rename class "Google_AnalyticsSummary" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(áÄ­Òùÿÿÿÿ
+kphp:S101Ş"VRename class "Google_StringCount" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„¥¬°
+hphp:S101ï"NRename class "Google_Url" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(è²ªçúÿÿÿÿ
+jphp:S101"URename class "Google_UrlHistory" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿İ£î
+rphp:S116w"YRename this field "$__countriesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(íŸ£‹ûÿÿÿÿ
+vphp:S116x"]Rename this field "$__countriesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¸˜—ƒşÿÿÿÿ
+rphp:S116z"YRename this field "$__platformsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Êˆ‡°úÿÿÿÿ
+vphp:S116{"]Rename this field "$__platformsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(—Û‹áúÿÿÿÿ
+lphp:S116}"XRename this field "$__browsersType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(˜ò¡’
+uphp:S116~"\Rename this field "$__browsersDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ß›®Æûÿÿÿÿ
+sphp:S116€"YRename this field "$__referrersType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÜŠïüÿÿÿÿ
+rphp:S116"]Rename this field "$__referrersDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ƒ‹˜á
+iphp:S116¯"TRename this field "$__weekType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°€Ö’
+rphp:S116°"XRename this field "$__weekDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(æôàúÿÿÿÿ
+qphp:S116²"WRename this field "$__allTimeType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‡‡¤‹ûÿÿÿÿ
+pphp:S116³"[Rename this field "$__allTimeDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ú—ºŒ
+rphp:S116µ"XRename this field "$__twoHoursType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(„Ÿëüÿÿÿÿ
+qphp:S116¶"\Rename this field "$__twoHoursDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÑÄÇ™
+mphp:S116¸"SRename this field "$__dayType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Â¹‡İÿÿÿÿÿ
+qphp:S116¹"WRename this field "$__dayDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(±Ê õøÿÿÿÿ
+ophp:S116»"URename this field "$__monthType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ªŠŞ¢şÿÿÿÿ
+sphp:S116¼"YRename this field "$__monthDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÅÅíÖûÿÿÿÿ
+mphp:S116ó"YRename this field "$__analyticsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“ ÿ%
+wphp:S116ô"]Rename this field "$__analyticsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¶“õÕüÿÿÿÿ
+ophp:S116 "URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¤Åû«şÿÿÿÿ
+nphp:S116¡"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ

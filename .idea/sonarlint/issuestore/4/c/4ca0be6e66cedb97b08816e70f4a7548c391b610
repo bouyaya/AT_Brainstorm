@@ -1,0 +1,12 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103"KSplit this 172 characters long line (which is greater than 120 authorized).(ñç»„
+dphp:S1036"KSplit this 144 characters long line (which is greater than 120 authorized).(¡¤ÍÍıÿÿÿÿ
+_php:S1037"KSplit this 140 characters long line (which is greater than 120 authorized).(ò¨ß
+_php:S1038"KSplit this 136 characters long line (which is greater than 120 authorized).(£Ë‹
+dphp:S103<"KSplit this 140 characters long line (which is greater than 120 authorized).(¼Š¤òûÿÿÿÿ
+dphp:S103c"KSplit this 270 characters long line (which is greater than 120 authorized).(¢‰ØÆüÿÿÿÿ
+3php:S113"'Add a new line at the end of this file.
+d	php:S1192"JDefine a constant instead of duplicating this literal "<a href="" 3 times.(¼åÈŠùÿÿÿÿ
+;	php:S2003s"&Replace "include" with "include_once".(¼õŒü
+a	php:S4833s"LReplace "include" with namespace import mechanism through the "use" keyword.(¼õŒü

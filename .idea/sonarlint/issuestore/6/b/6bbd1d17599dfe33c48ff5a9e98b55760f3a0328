@@ -1,0 +1,11 @@
+
+nphp:S101"ZRename class "Google_MediaFileUpload" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(†ÄŠ¥
+R	php:S1142¢"<This method has 6 returns, which is more than the 3 allowed.(‰ïŠú
+3php:S113"'Add a new line at the end of this file.
+?	php:S1125µ")Remove the literal "false" boolean value.(Â—Ì¶
+?	php:S1125µ")Remove the literal "false" boolean value.(Â—Ì¶
+D	php:S1125¾")Remove the literal "false" boolean value.(§†‚–ùÿÿÿÿ
+D	php:S1125Ç")Remove the literal "false" boolean value.(üøü˜øÿÿÿÿ
+C	php:S1125ï"(Remove the literal "true" boolean value.(¹à¡ˆûÿÿÿÿ
+B	php:S1481á",Remove this unused "$result" local variable.(ù±Šñ
+Ephp:S121Ž"0Add curly braces around the nested statement(s).(“ðì

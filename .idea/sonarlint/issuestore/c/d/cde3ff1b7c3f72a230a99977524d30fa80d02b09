@@ -1,0 +1,126 @@
+
+Z	php:S1131_"@Remove the useless trailing whitespaces at the end of this line.(ÈıˆÓùÿÿÿÿ
+Z	php:S1131`"@Remove the useless trailing whitespaces at the end of this line.(ãàœ‰üÿÿÿÿ
+U	php:S1131a"@Remove the useless trailing whitespaces at the end of this line.(µ‘Ú
+U	php:S1131{"@Remove the useless trailing whitespaces at the end of this line.(ºÆ‚
+[	php:S1131…"@Remove the useless trailing whitespaces at the end of this line.(õòÃ­üÿÿÿÿ
+V	php:S1131†"@Remove the useless trailing whitespaces at the end of this line.(ÃËì¾
+V	php:S1131œ"@Remove the useless trailing whitespaces at the end of this line.(»ÆÙ
+[	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(‚‘™€ùÿÿÿÿ
+[	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(ÂÓÈèùÿÿÿÿ
+[	php:S1131Ÿ"@Remove the useless trailing whitespaces at the end of this line.(§ÆÖÿÿÿÿÿ
+V	php:S1131±"@Remove the useless trailing whitespaces at the end of this line.(°©÷
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S100-"PRename function "to_string" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(°Õç»
+hphp:S100B"ORename function "get_name" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(äÈÄ‹şÿÿÿÿ
+jphp:S100N"VRename function "build_signature" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ïôò–
+ophp:S100X"VRename function "check_signature" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(û¼ì¬ÿÿÿÿÿ
+rphp:S100®"XRename function "fetch_public_cert" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ëù—šüÿÿÿÿ
+mphp:S100´"YRename function "fetch_private_cert" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¹ıĞ
+gphp:S100ó"SRename function "from_request" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿÀ°.
+xphp:S100¦"^Rename function "from_consumer_and_token" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ÿ£Æèúÿÿÿÿ
+nphp:S100´"TRename function "set_parameter" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ï£Ûıÿÿÿÿ
+iphp:S100Ã"TRename function "get_parameter" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(±ü’õ
+jphp:S100Ç"URename function "get_parameters" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ü™Ú 
+pphp:S100Ë"VRename function "unset_parameter" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(µÜÿ†úÿÿÿÿ
+xphp:S100Ó"^Rename function "get_signable_parameters" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¿×ÅÜÿÿÿÿÿ
+zphp:S100ç"`Rename function "get_signature_base_string" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿä“÷ıÿÿÿÿ
+vphp:S100ö"aRename function "get_normalized_http_method" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‰êç£
+xphp:S100ş"^Rename function "get_normalized_http_url" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×¦Øéúÿÿÿÿ
+bphp:S100’"MRename function "to_url" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(óëÓ
+lphp:S100"RRename function "to_postdata" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Š¿ÉÕÿÿÿÿÿ
+ephp:S100¥"PRename function "to_header" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×‘Ïã
+mphp:S100Â"SRename function "sign_request" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ìàº‹ÿÿÿÿÿ
+pphp:S100Ì"VRename function "build_signature" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¾ÌÄœûÿÿÿÿ
+nphp:S100Ô"YRename function "generate_timestamp" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(åçÂ›
+ophp:S100Û"URename function "generate_nonce" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ëª‹ùÿÿÿÿ
+uphp:S100î"[Rename function "add_signature_method" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(â¡Ñ³ùÿÿÿÿ
+ophp:S100ù"ZRename function "fetch_request_token" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ÿí•Õ
+mphp:S100"YRename function "fetch_access_token" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(îŸ™x
+jphp:S100¢"URename function "verify_request" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Æ±ø‰
+gphp:S100®"RRename function "get_version" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(è÷«
+pphp:S100¾"[Rename function "get_signature_method" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ş¿¶ğ
+mphp:S100Ö"SRename function "get_consumer" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ò§ÿıÿÿÿÿ
+jphp:S100ç"PRename function "get_token" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(õÃÉÔıÿÿÿÿ
+pphp:S100ö"VRename function "check_signature" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(«Ø“ıûÿÿÿÿ
+pphp:S100"VRename function "check_timestamp" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÌáÙëıÿÿÿÿ
+lphp:S100¢"RRename function "check_nonce" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(üÑ»·ÿÿÿÿÿ
+kphp:S100·"VRename function "lookup_consumer" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ëÇñÙ
+mphp:S100»"SRename function "lookup_token" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¦÷„ıÿÿÿÿ
+mphp:S100¿"SRename function "lookup_nonce" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Í«…óøÿÿÿÿ
+rphp:S100Ã"XRename function "new_request_token" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ûÛÑÍûÿÿÿÿ
+qphp:S100Ç"WRename function "new_access_token" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Õ×áêüÿÿÿÿ
+rphp:S100Ñ"XRename function "urlencode_rfc3986" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(øóéŒÿÿÿÿÿ
+rphp:S100ã"XRename function "urldecode_rfc3986" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½Õ¯ƒùÿÿÿÿ
+mphp:S100ê"SRename function "split_header" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(£š¥Íıÿÿÿÿ
+gphp:S100€"RRename function "get_headers" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ñîÕ
+qphp:S100°"WRename function "parse_parameters" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•‚æûÿÿÿÿ
+qphp:S100Í"WRename function "build_http_query" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†­šÄÿÿÿÿÿ
+{php:S101e"bRename class "OAuthSignatureMethod_HMAC_SHA1" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÃûÛÄÿÿÿÿÿ
+vphp:S101"bRename class "OAuthSignatureMethod_PLAINTEXT" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(—·ŞØ
+vphp:S101£"aRename class "OAuthSignatureMethod_RSA_SHA1" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„È˜
+Y	php:S1784"DExplicitly mention the visibility of this constructor "__construct".(Ü¤ê˜
+X	php:S1784">Explicitly mention the visibility of this method "__toString".(ÒòÈºşÿÿÿÿ
+^	php:S1784$"DExplicitly mention the visibility of this constructor "__construct".(×“€¼ÿÿÿÿÿ
+R	php:S1784-"=Explicitly mention the visibility of this method "to_string".(°Õç»
+X	php:S17844">Explicitly mention the visibility of this method "__toString".(ÒòÈºşÿÿÿÿ
+V	php:S1784f"<Explicitly mention the visibility of this method "get_name".(­÷æïøÿÿÿÿ
+_	php:S1784ç"DExplicitly mention the visibility of this constructor "__construct".(ª˜¯Ñúÿÿÿÿ
+Z	php:S1784ê"DExplicitly mention the visibility of this constructor "__construct".(·ñ“®
+Y	php:S1784·"CExplicitly mention the visibility of this method "lookup_consumer".(ëÇñÙ
+[	php:S1784»"@Explicitly mention the visibility of this method "lookup_token".(¦÷„ıÿÿÿÿ
+[	php:S1784¿"@Explicitly mention the visibility of this method "lookup_nonce".(Í«…óøÿÿÿÿ
+`	php:S1784Ã"EExplicitly mention the visibility of this method "new_request_token".(ûÛÑÍûÿÿÿÿ
+_	php:S1784Ç"DExplicitly mention the visibility of this method "new_access_token".(Õ×áêüÿÿÿÿ
+>	php:S1781")Write this "NULL" constant in lower case.(Ü¤ê˜
+D	php:S1781ç")Write this "NULL" constant in lower case.(ª˜¯Ñúÿÿÿÿ
+>	php:S1781ó")Write this "NULL" constant in lower case.(ÿÀ°.
+>	php:S1781ó")Write this "NULL" constant in lower case.(ÿÀ°.
+>	php:S1781ó")Write this "NULL" constant in lower case.(ÿÀ°.
+D	php:S1781¦")Write this "NULL" constant in lower case.(Ÿ£Æèúÿÿÿÿ
+D	php:S1781ÿ")Write this "NULL" constant in lower case.(ô×€Ÿøÿÿÿÿ
+A	php:S1781‹"&Write this "AS" keyword in lower case.(ê€½üÿÿÿÿ
+jphp:S116à"URename this field "$http_method" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(è›Ó
+lphp:S116á"RRename this field "$http_url" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(®©‹‰ÿÿÿÿÿ
+ophp:S116ã"URename this field "$base_string" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Àÿ¸Æùÿÿÿÿ
+nphp:S116å"TRename this field "$POST_INPUT" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢ïåùÿÿÿÿ
+wphp:S116ä"]Rename this field "$timestamp_threshold" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ñì­—ûÿÿÿÿ
+uphp:S116æ"[Rename this field "$signature_methods" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ëœ¥øÿÿÿÿÿ
+nphp:S116è"TRename this field "$data_store" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¶òğşÿÿÿÿ
+±	php:S2681­"•This statement will not be executed conditionally; only the first statement of this 3-statement block will be. The rest will execute unconditionally.(àı¦ÿÿÿÿÿ
+R	php:S1124®"7Reorder the modifiers to comply with the PSR2 standard.(ëù—šüÿÿÿÿ
+L	php:S1124´"7Reorder the modifiers to comply with the PSR2 standard.(¹ıĞ
+x	php:S1488Í"bImmediately return this expression instead of assigning it to the temporary variable "$signature".(ü‹–ë
+}	php:S1488…"bImmediately return this expression instead of assigning it to the temporary variable "$new_token".(şİÁÈùÿÿÿÿ
+}	php:S1488š"bImmediately return this expression instead of assigning it to the temporary variable "$new_token".(––Èûÿÿÿÿ
+F	php:S1481­"+Remove this unused "$total" local variable.(àı¦ÿÿÿÿÿ
+C	php:S1481Á"(Remove this unused "$ok" local variable.(Ø±¤óúÿÿÿÿ
+K	php:S1172·"5Remove the unused function parameter "$consumer_key".(ëÇñÙ
+L	php:S1172»"1Remove the unused function parameter "$consumer".(¦÷„ıÿÿÿÿ
+N	php:S1172»"3Remove the unused function parameter "$token_type".(¦÷„ıÿÿÿÿ
+I	php:S1172»".Remove the unused function parameter "$token".(¦÷„ıÿÿÿÿ
+L	php:S1172¿"1Remove the unused function parameter "$consumer".(Í«…óøÿÿÿÿ
+I	php:S1172¿".Remove the unused function parameter "$token".(Í«…óøÿÿÿÿ
+I	php:S1172¿".Remove the unused function parameter "$nonce".(Í«…óøÿÿÿÿ
+M	php:S1172¿"2Remove the unused function parameter "$timestamp".(Í«…óøÿÿÿÿ
+L	php:S1172Ã"1Remove the unused function parameter "$consumer".(ûÛÑÍûÿÿÿÿ
+L	php:S1172Ã"1Remove the unused function parameter "$callback".(ûÛÑÍûÿÿÿÿ
+I	php:S1172Ç".Remove the unused function parameter "$token".(Õ×áêüÿÿÿÿ
+L	php:S1172Ç"1Remove the unused function parameter "$consumer".(Õ×áêüÿÿÿÿ
+L	php:S1172Ç"1Remove the unused function parameter "$verifier".(Õ×áêüÿÿÿÿ
+o	php:S3973ª"YUse curly braces or indentation to denote the code conditionally executed by this "else".(ÔÍØ
+W	php:S1793Ô"<Replace this "else if" keyword sequence by "elseif" keyword.(‹¡¿¼şÿÿÿÿ
+Jphp:S121¬"0Add curly braces around the nested statement(s).(şñÁÿÿÿÿÿ
+Ephp:S121ª"0Add curly braces around the nested statement(s).(ÔÍØ
+Jphp:S121¯"0Add curly braces around the nested statement(s).(¼›ÁÙüÿÿÿÿ
+Jphp:S121‘"0Add curly braces around the nested statement(s).(Ç†Àøÿÿÿÿ
+Jphp:S121£"0Add curly braces around the nested statement(s).(³¥µÔıÿÿÿÿ
+Ephp:S121—"0Add curly braces around the nested statement(s).(ìÊ¿
+Jphp:S121™"0Add curly braces around the nested statement(s).(¸ÆÌĞüÿÿÿÿ
+Dphp:S121±"0Add curly braces around the nested statement(s).(³‘?
+Ephp:S121Î"0Add curly braces around the nested statement(s).(×¤¸Ç
+2	php:S2010è"Replace "or" with "||".(éÿŠüÿÿÿÿ
+2	php:S2010÷"Replace "or" with "||".(©óúşüÿÿÿÿ
+,	php:S2010ü"Replace "or" with "||".(¶‹¬!
+2	php:S2010§"Replace "or" with "||".(éÿŠüÿÿÿÿ
+2	php:S2010†"Replace "or" with "||".(¤§‚øÿÿÿÿ

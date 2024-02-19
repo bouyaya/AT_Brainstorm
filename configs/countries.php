@@ -1,0 +1,5 @@
+<?php
+$countries = [
+
+	'DZ' => 'Algeria',
+];

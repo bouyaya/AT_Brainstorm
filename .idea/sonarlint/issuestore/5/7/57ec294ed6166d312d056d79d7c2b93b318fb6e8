@@ -1,0 +1,12 @@
+
+fphp:S103º"LSplit this 1449 characters long line (which is greater than 120 authorized).(à½Êıÿÿÿÿ
+fphp:S103»"LSplit this 1667 characters long line (which is greater than 120 authorized).(¤ÜÕäùÿÿÿÿ
+‚php:S101"iRename class "Google_CurrentLocationServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Õ”¬Şûÿÿÿÿ
+{php:S101T"bRename class "Google_LocationServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŠÊ½Èøÿÿÿÿ
+ophp:S101¬"ZRename class "Google_LatitudeService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Š ˆ´
+mphp:S101À"SRename class "Google_Location" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(œß„ûÿÿÿÿ
+lphp:S101‰"WRename class "Google_LocationFeed" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(õç×Ş
+jphp:S116Š"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(­€Õÿ
+nphp:S116‹"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+q	php:S1488G"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488™"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@

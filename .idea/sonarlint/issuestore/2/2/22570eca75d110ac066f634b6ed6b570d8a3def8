@@ -1,0 +1,44 @@
+
+U	php:S1131"@Remove the useless trailing whitespaces at the end of this line.(µ‹µ²
+U	php:S1131M"@Remove the useless trailing whitespaces at the end of this line.(½üÁš
+Z	php:S1131~"@Remove the useless trailing whitespaces at the end of this line.(©é™¥úÿÿÿÿ
+W	php:S1784-"BExplicitly mention the visibility of this method "accessTokenURL".(ÕÅ¸º
+]	php:S1784."CExplicitly mention the visibility of this method "authenticateURL".(öé¼ıÿÿÿÿ
+U	php:S1784/"@Explicitly mention the visibility of this method "authorizeURL".(±Êû
+]	php:S17840"CExplicitly mention the visibility of this method "requestTokenURL".(¶ùÑüÿÿÿÿ
+\	php:S17845"BExplicitly mention the visibility of this method "lastStatusCode".(Ö¬§šüÿÿÿÿ
+Y	php:S17846"?Explicitly mention the visibility of this method "lastAPICall".(ö³´“ûÿÿÿÿ
+^	php:S1784;"DExplicitly mention the visibility of this constructor "__construct".(£‘Èùÿÿÿÿ
+X	php:S1784K"CExplicitly mention the visibility of this method "getRequestToken".(ïïİ©
+X	php:S1784Y"CExplicitly mention the visibility of this method "getAuthorizeURL".(ƒçï“
+\	php:S1784m"BExplicitly mention the visibility of this method "getAccessToken".(ıˆÃÅùÿÿÿÿ
+V	php:S1784"AExplicitly mention the visibility of this method "getXAuthToken".(şêÑÍ
+L	php:S1784"7Explicitly mention the visibility of this method "get".( ˆö
+S	php:S1784˜"8Explicitly mention the visibility of this method "post".(‘ù¤´ÿÿÿÿÿ
+P	php:S1784£":Explicitly mention the visibility of this method "delete".(¢‡Çß
+[	php:S1784®"@Explicitly mention the visibility of this method "oAuthRequest".(µ“ËÀÿÿÿÿÿ
+S	php:S1784Á"8Explicitly mention the visibility of this method "http".(ÄÒˆâûÿÿÿÿ
+X	php:S1784è"=Explicitly mention the visibility of this method "getHeader".(“„¢ıÿÿÿÿ
+c	php:S1301´"MReplace this "switch" statement with "if" statements to increase readability.(³ßõñ
+c	php:S1301Î"MReplace this "switch" statement with "if" statements to increase readability.(³ßõñ
+D	php:S1781"*Write this "FALSE" constant in lower case.(–­µŞüÿÿÿÿ
+C	php:S1781")Write this "TRUE" constant in lower case.(È—°¶ùÿÿÿÿ
+C	php:S1781;")Write this "NULL" constant in lower case.(£‘Èùÿÿÿÿ
+C	php:S1781;")Write this "NULL" constant in lower case.(£‘Èùÿÿÿÿ
+C	php:S1781A")Write this "NULL" constant in lower case.(¤‘Ò¥ÿÿÿÿÿ
+>	php:S1781Y")Write this "TRUE" constant in lower case.(ƒçï“
+D	php:S1781Á")Write this "NULL" constant in lower case.(ÄÒˆâûÿÿÿÿ
+?	php:S1781È")Write this "TRUE" constant in lower case.(ãµÕÆ
+E	php:S1781Ì"*Write this "FALSE" constant in lower case.(ä°¦´ùÿÿÿÿ
+D	php:S1781Ğ")Write this "TRUE" constant in lower case.(Ùæ‚Âùÿÿÿÿ
+lphp:S116"SRename this field "$http_code" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(á¢´Úüÿÿÿÿ
+qphp:S116"XRename this field "$ssl_verifypeer" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(–­µŞüÿÿÿÿ
+nphp:S116"URename this field "$decode_json" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(È—°¶ùÿÿÿÿ
+lphp:S116!"SRename this field "$http_info" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(æ®…•ÿÿÿÿÿ
+F	php:S1172è"+Remove the unused function parameter "$ch".(“„¢ıÿÿÿÿ
+J	php:S6600
+"5Remove the parentheses from this "require_once" call.(ªß£¤
+3php:S125%"Remove this commented out code.(¦’§¾
+f	php:S4833
+"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ªß£¤
+Lphp:S131Î"7Add a "case default" clause to this "switch" statement.(³ßõñ

@@ -1,0 +1,6 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+@	php:S2003"&Replace "include" with "include_once".(‘å›¡üÿÿÿÿ
+@	php:S2003"&Replace "include" with "include_once".(×ß¸½ùÿÿÿÿ
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(‘å›¡üÿÿÿÿ
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(×ß¸½ùÿÿÿÿ

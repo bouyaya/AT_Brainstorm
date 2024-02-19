@@ -1,0 +1,108 @@
+
+_php:S103#"KSplit this 160 characters long line (which is greater than 120 authorized).(üÌ­º
+`php:S103‰"KSplit this 160 characters long line (which is greater than 120 authorized).(üÌ­º
+ephp:S103"KSplit this 157 characters long line (which is greater than 120 authorized).(ÛŞ˜ıÿÿÿÿ
+`php:S103§"KSplit this 160 characters long line (which is greater than 120 authorized).(üÌ­º
+ephp:S103­"KSplit this 157 characters long line (which is greater than 120 authorized).(ÛŞ˜ıÿÿÿÿ
+`php:S103Ö"KSplit this 160 characters long line (which is greater than 120 authorized).(üÌ­º
+ephp:S103‡"KSplit this 128 characters long line (which is greater than 120 authorized).(ÇÈµíøÿÿÿÿ
+fphp:S103˜"LSplit this 6779 characters long line (which is greater than 120 authorized).(±÷ßüıÿÿÿÿ
+`php:S103™"KSplit this 705 characters long line (which is greater than 120 authorized).(’ƒÏ„
+ephp:S103š"KSplit this 549 characters long line (which is greater than 120 authorized).(¥î÷¨ıÿÿÿÿ
+aphp:S103›"LSplit this 1781 characters long line (which is greater than 120 authorized).(şòóš
+aphp:S103œ"LSplit this 2312 characters long line (which is greater than 120 authorized).(¥æ×•
+fphp:S103"LSplit this 1281 characters long line (which is greater than 120 authorized).(Ù£»ıÿÿÿÿ
+fphp:S103"LSplit this 2009 characters long line (which is greater than 120 authorized).(³¹Şøÿÿÿÿ
+fphp:S103Ÿ"LSplit this 2813 characters long line (which is greater than 120 authorized).(Î‰Æıÿÿÿÿ
+sphp:S101"_Rename class "Google_FilesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Üµ£¾
+yphp:S101ÿ"_Rename class "Google_AboutServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ĞñÜşøÿÿÿÿ
+xphp:S101 "^Rename class "Google_AppsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Øœƒ©ùÿÿÿÿ
+{php:S101Î"aRename class "Google_ParentsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(É¨Æºıÿÿÿÿ
+}php:S101"cRename class "Google_RevisionsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ùÜ·£üÿÿÿÿ
+vphp:S101€"aRename class "Google_ChangesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Î•à†
+wphp:S101´"bRename class "Google_ChildrenServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(íØæ¨
+zphp:S101‡"eRename class "Google_PermissionsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(›¸¾·
+kphp:S101„"WRename class "Google_DriveService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(æàÊC
+ephp:S101¤"PRename class "Google_About" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ƒ­ŠŒ
+|php:S101´"bRename class "Google_AboutAdditionalRoleInfo" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(…©äûÿÿÿÿ
+php:S101È"jRename class "Google_AboutAdditionalRoleInfoRoleSets" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ƒ‚›ü
+wphp:S101Ú"]Rename class "Google_AboutExportFormats" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(€Í³ÿûÿÿÿÿ
+mphp:S101ì"XRename class "Google_AboutFeatures" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(öş±
+wphp:S101ı"]Rename class "Google_AboutImportFormats" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(±åÄ˜ûÿÿÿÿ
+xphp:S101"^Rename class "Google_AboutMaxUploadSizes" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(àíï—úÿÿÿÿ
+hphp:S101 "NRename class "Google_App" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿šŒøüÿÿÿÿ
+hphp:S101“	"SRename class "Google_AppIcons" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(éÌ±«
+gphp:S101«	"RRename class "Google_AppList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(×š¥Õ
+fphp:S101Í	"QRename class "Google_Change" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ù‰Ã
+ophp:S101ü	"URename class "Google_ChangeList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(„î¨ııÿÿÿÿ
+iphp:S101³
+"TRename class "Google_ChildList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿È©
+sphp:S101ã
+"YRename class "Google_ChildReference" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(œ´òÿÿÿÿÿ
+nphp:S101‚"TRename class "Google_DriveFile" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ûÇù„ùÿÿÿÿ
+€php:S101ø"fRename class "Google_DriveFileImageMediaMetadata" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¸ºøûÿÿÿÿ
+ƒphp:S101™"nRename class "Google_DriveFileImageMediaMetadataLocation" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(©­€¢
+vphp:S101±"aRename class "Google_DriveFileIndexableText" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Í‡ÔŸ
+tphp:S101»"ZRename class "Google_DriveFileLabels" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŠÖşûÿÿÿÿ
+mphp:S101á"SRename class "Google_FileList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÔÙ¿éûÿÿÿÿ
+jphp:S101‘"URename class "Google_ParentList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‰¾­í
+tphp:S101³"ZRename class "Google_ParentReference" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(©Ú´ÿÿÿÿÿ
+ophp:S101Ù"URename class "Google_Permission" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ëƒÕ­ùÿÿÿÿ
+nphp:S101±"YRename class "Google_PermissionList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(µšà
+hphp:S101Ó"SRename class "Google_Revision" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(òñ®˜
+qphp:S101Í"WRename class "Google_RevisionList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ê¹¦Ãşÿÿÿÿ
+rphp:S116¦"XRename this field "$__featuresType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(»©èøùÿÿÿÿ
+qphp:S116§"\Rename this field "$__featuresDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÅÆº·
+xphp:S116«"^Rename this field "$__maxUploadSizesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÆÕ›¹ûÿÿÿÿ
+|php:S116¬"bRename this field "$__maxUploadSizesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(•÷¤îûÿÿÿÿ
+vphp:S116°"bRename this field "$__additionalRoleInfoType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(’Á[
+€php:S116±"fRename this field "$__additionalRoleInfoDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÆÜ¨ úÿÿÿÿ
+rphp:S116´"]Rename this field "$__importFormatsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(º†´
+{php:S116µ"aRename this field "$__importFormatsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(”ô‘Ïøÿÿÿÿ
+rphp:S116»"]Rename this field "$__exportFormatsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‚çªº
+{php:S116¼"aRename this field "$__exportFormatsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ûï¼ÿÿÿÿÿ
+rphp:S116µ"XRename this field "$__roleSetsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(„åßÃşÿÿÿÿ
+qphp:S116¶"\Rename this field "$__roleSetsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ü¨…è
+iphp:S116¥"URename this field "$__iconsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(£™¶
+nphp:S116¦"YRename this field "$__iconsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Û¢ù
+jphp:S116¬	"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(æÇÄ€
+nphp:S116­	"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+nphp:S116Ğ	"TRename this field "$__fileType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÀÕè»ùÿÿÿÿ
+lphp:S116Ñ	"XRename this field "$__fileDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¯¶°<
+ophp:S116ÿ	"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ê¬Õ¸ùÿÿÿÿ
+nphp:S116€
+"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+iphp:S116¶
+"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(äÓ›S
+nphp:S116·
+"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+kphp:S116…"VRename this field "$__labelsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÊÄô´
+ophp:S116†"ZRename this field "$__labelsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¿†³ø
+wphp:S116ˆ"]Rename this field "$__indexableTextType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(§¯âÿÿÿÿÿ
+{php:S116‰"aRename this field "$__indexableTextDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(úªĞ¢úÿÿÿÿ
+lphp:S116”"WRename this field "$__parentsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Éî³ç
+uphp:S116•"[Rename this field "$__parentsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‰Èüúÿÿÿÿÿ
+wphp:S116¡"bRename this field "$__imageMediaMetadataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ë¨ùŸ
+€php:S116¢"fRename this field "$__imageMediaMetadataDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¼½«êüÿÿÿÿ
+xphp:S116¨"^Rename this field "$__userPermissionType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(²ßÚÇÿÿÿÿÿ
+wphp:S116©"bRename this field "$__userPermissionDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Í¿‹ã
+rphp:S116û"XRename this field "$__locationType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ƒ¢ÖØÿÿÿÿÿ
+vphp:S116ü"\Rename this field "$__locationDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(´Àº´şÿÿÿÿ
+jphp:S116ä"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(éÂ‘È
+nphp:S116å"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+ophp:S116’"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(íêé˜øÿÿÿÿ
+nphp:S116“"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+jphp:S116²"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÛºûÍ
+nphp:S116³"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+ophp:S116Î"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(„¿˜úùÿÿÿÿ
+nphp:S116Ï"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+r	php:S1488ò"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488ó"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488ú"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488ñ"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+~	php:S1448¤"hClass "Google_About" has 36 methods, which is greater than 20 authorized. Split it into smaller classes.(ƒ­ŠŒ
+	php:S1448 "fClass "Google_App" has 30 methods, which is greater than 20 authorized. Split it into smaller classes.(¿šŒøüÿÿÿÿ
+‡	php:S1448‚"lClass "Google_DriveFile" has 66 methods, which is greater than 20 authorized. Split it into smaller classes.(ûÇù„ùÿÿÿÿ
+ˆ	php:S1448Ù"mClass "Google_Permission" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(ëƒÕ­ùÿÿÿÿ
+	php:S1448Ó"kClass "Google_Revision" has 34 methods, which is greater than 20 authorized. Split it into smaller classes.(òñ®˜

@@ -1,0 +1,78 @@
+
+`php:S103Ö"KSplit this 493 characters long line (which is greater than 120 authorized).(‹«ÍØ
+ephp:S103×"KSplit this 868 characters long line (which is greater than 120 authorized).(Şæ¼–üÿÿÿÿ
+`php:S103Ø"KSplit this 730 characters long line (which is greater than 120 authorized).(Á€á»
+ephp:S103Ù"KSplit this 468 characters long line (which is greater than 120 authorized).(Æ¢ı¨øÿÿÿÿ
+`php:S103Ú"KSplit this 450 characters long line (which is greater than 120 authorized).(©ÙÃé
+{php:S101"bRename class "Google_ChannelsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‘¿–‡ûÿÿÿÿ
+yphp:S101;"`Rename class "Google_SearchServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¡¿‰£şÿÿÿÿ
+€php:S101^"gRename class "Google_PlaylistitemsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(şÌ”ûÿÿÿÿ
+}php:S101"cRename class "Google_PlaylistsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(şå´Ôÿÿÿÿÿ
+zphp:S101 "`Rename class "Google_VideosServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Â«’øÿÿÿÿ
+sphp:S101Å"YRename class "Google_YoutubeService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(öÂ¯—üÿÿÿÿ
+gphp:S101ß"RRename class "Google_Channel" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ìÂßü
+zphp:S101’"`Rename class "Google_ChannelContentDetails" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(±×Éúÿÿÿÿ
+sphp:S101£"^Rename class "Google_ChannelListResponse" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ññ¸
+nphp:S101½"YRename class "Google_ChannelSnippet" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(šÑ“¯
+qphp:S101×"\Rename class "Google_ChannelStatistics" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¯ÃÇ×
+hphp:S101ö"SRename class "Google_PageInfo" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¦şãÙ
+gphp:S101"SRename class "Google_Playlist" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(óÇ#
+lphp:S101¯"WRename class "Google_PlaylistItem" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(±“˜‚
+wphp:S101Ğ"cRename class "Google_PlaylistItemListResponse" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ƒÄ¾]
+xphp:S101ê"^Rename class "Google_PlaylistItemSnippet" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(©å´üÿÿÿÿ
+tphp:S101 "_Rename class "Google_PlaylistListResponse" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(×ú²Å
+tphp:S101º"ZRename class "Google_PlaylistSnippet" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(“±‹ıÿÿÿÿ
+ophp:S101á"URename class "Google_ResourceId" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ç¯Ûùÿÿÿÿ
+wphp:S101€"]Rename class "Google_SearchListResponse" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ö”ß×ÿÿÿÿÿ
+qphp:S101¤"WRename class "Google_SearchResult" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ˆŒôôüÿÿÿÿ
+sphp:S101Ç"^Rename class "Google_SearchResultSnippet" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ã§µª
+nphp:S101æ"TRename class "Google_Thumbnail" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(´Çıüÿÿÿÿ
+jphp:S101ğ"PRename class "Google_Video" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¬²­üÿÿÿÿ
+sphp:S101µ"^Rename class "Google_VideoContentDetails" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¦Ë
+vphp:S101Æ"\Rename class "Google_VideoListResponse" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ö’‹Üúÿÿÿÿ
+kphp:S101à"VRename class "Google_VideoPlayer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(©ƒíç
+lphp:S101ê"WRename class "Google_VideoSnippet" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ğƒ“
+ophp:S101¡"ZRename class "Google_VideoStatistics" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ğúª¢
+pphp:S101Ç"VRename class "Google_VideoStatus" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ø¨Ò‹úÿÿÿÿ
+tphp:S116á"ZRename this field "$__statisticsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(È”©•ÿÿÿÿÿ
+sphp:S116â"^Rename this field "$__statisticsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Äï°…
+xphp:S116ä"^Rename this field "$__contentDetailsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(œ¥ŸÑÿÿÿÿÿ
+|php:S116å"bRename this field "$__contentDetailsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ãÕÒüÿÿÿÿ
+qphp:S116ç"WRename this field "$__snippetType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(—»ü¹ÿÿÿÿÿ
+pphp:S116è"[Rename this field "$__snippetDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Âá
+rphp:S116¤"XRename this field "$__channelsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÖÉÑìøÿÿÿÿ
+vphp:S116¥"\Rename this field "$__channelsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ïùûÎÿÿÿÿÿ
+ophp:S116À"ZRename this field "$__thumbnailsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÀŠÅ
+sphp:S116Á"^Rename this field "$__thumbnailsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(±òô…
+qphp:S116"WRename this field "$__snippetType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(©„ˆ£ûÿÿÿÿ
+pphp:S116"[Rename this field "$__snippetDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Âá
+qphp:S116°"WRename this field "$__snippetType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(î‹İ€øÿÿÿÿ
+pphp:S116±"[Rename this field "$__snippetDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Âá
+rphp:S116Ñ"]Rename this field "$__playlistItemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Å¨³
+{php:S116Ò"aRename this field "$__playlistItemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ğì¤Ëÿÿÿÿÿ
+tphp:S116î"ZRename this field "$__resourceIdType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ß¼óüıÿÿÿÿ
+sphp:S116ï"^Rename this field "$__resourceIdDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÓÊâ
+nphp:S116£"YRename this field "$__playlistsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†¸¤ı
+rphp:S116¤"]Rename this field "$__playlistsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(£»ß
+rphp:S116"]Rename this field "$__searchResultsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ğ„”
+{php:S116‚"aRename this field "$__searchResultsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(»äˆşøÿÿÿÿ
+mphp:S116†"XRename this field "$__pageInfoType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÀÙ…í
+qphp:S116‡"\Rename this field "$__pageInfoDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(©Ì›
+lphp:S116¥"WRename this field "$__snippetType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¦ü«†
+pphp:S116¦"[Rename this field "$__snippetDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Âá
+gphp:S116ª"RRename this field "$__idType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ãì²‡
+pphp:S116«"VRename this field "$__idDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Äñ»ıÿÿÿÿ
+pphp:S116ñ"VRename this field "$__statusType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(éªş¹şÿÿÿÿ
+tphp:S116ò"ZRename this field "$__statusDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(µÏå’úÿÿÿÿ
+tphp:S116õ"ZRename this field "$__statisticsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÏÓ‹Çüÿÿÿÿ
+sphp:S116ö"^Rename this field "$__statisticsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Äï°…
+sphp:S116ø"^Rename this field "$__contentDetailsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ó¸ÿÛ
+|php:S116ù"bRename this field "$__contentDetailsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ãÕÒüÿÿÿÿ
+qphp:S116û"WRename this field "$__snippetType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(£Ì¿“ûÿÿÿÿ
+pphp:S116ü"[Rename this field "$__snippetDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Âá
+kphp:S116ş"VRename this field "$__playerType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÙÌÁ
+ophp:S116ÿ"ZRename this field "$__playerDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¦İ
+pphp:S116É"VRename this field "$__videosType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ø÷¤“ûÿÿÿÿ
+ophp:S116Ê"ZRename this field "$__videosDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ùÎÛÜ
+ophp:S116ë"ZRename this field "$__thumbnailsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÀŠÅ
+sphp:S116ì"^Rename this field "$__thumbnailsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(±òô…

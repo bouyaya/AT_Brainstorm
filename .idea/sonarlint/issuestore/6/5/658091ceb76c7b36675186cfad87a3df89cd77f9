@@ -1,0 +1,47 @@
+
+JWeb:AvoidCommentedOutCodeCheckõ"Remove this commented out code.(¾¢ù
+HWeb:ImgWithoutAltCheckİ"%Add an "alt" attribute to this image.(›à—ğ
+TWeb:FrameWithoutTitleCheck‚"-Add a "title" attribute to this <iframe> tag.(Õ ûì
+JWeb:AvoidCommentedOutCodeCheck’"Remove this commented out code.(¾¢ù
+MWeb:ImgWithoutAltCheck–"%Add an "alt" attribute to this image.(Š‘°¥øÿÿÿÿ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103$"KSplit this 150 characters long line (which is greater than 120 authorized).(½ŒÆÿÿÿÿÿ
+dphp:S103d"KSplit this 147 characters long line (which is greater than 120 authorized).(¡¤ÍÍıÿÿÿÿ
+_php:S103e"KSplit this 143 characters long line (which is greater than 120 authorized).(ò¨ß
+_php:S103f"KSplit this 139 characters long line (which is greater than 120 authorized).(£Ë‹
+dphp:S103j"KSplit this 143 characters long line (which is greater than 120 authorized).(¼Š¤òûÿÿÿÿ
+ephp:S103‡"KSplit this 135 characters long line (which is greater than 120 authorized).(ÀæÑíûÿÿÿÿ
+`php:S103‘"KSplit this 146 characters long line (which is greater than 120 authorized).(µ„ü
+ephp:S103§"KSplit this 148 characters long line (which is greater than 120 authorized).(¡¤ÍÍıÿÿÿÿ
+`php:S103¨"KSplit this 144 characters long line (which is greater than 120 authorized).(ò¨ß
+`php:S103©"KSplit this 140 characters long line (which is greater than 120 authorized).(£Ë‹
+ephp:S103­"KSplit this 144 characters long line (which is greater than 120 authorized).(¼Š¤òûÿÿÿÿ
+`php:S103¹"KSplit this 145 characters long line (which is greater than 120 authorized).(Å×“ø
+ephp:S103İ"KSplit this 270 characters long line (which is greater than 120 authorized).(¢‰ØÆüÿÿÿÿ
+`php:S103õ"KSplit this 337 characters long line (which is greater than 120 authorized).(¾¢ù
+`php:S103ù"KSplit this 162 characters long line (which is greater than 120 authorized).(Œ…ëä
+`php:S103ú"KSplit this 269 characters long line (which is greater than 120 authorized).(™Š¾Ç
+`php:S103û"KSplit this 419 characters long line (which is greater than 120 authorized).(ÌïñÛ
+`php:S103ü"KSplit this 221 characters long line (which is greater than 120 authorized).(ÒÚÑü
+ephp:S103"KSplit this 121 characters long line (which is greater than 120 authorized).(úØÎøÿÿÿÿ
+ephp:S103–"KSplit this 121 characters long line (which is greater than 120 authorized).(Ú•¥úÿÿÿÿ
+ephp:S103"KSplit this 121 characters long line (which is greater than 120 authorized).(ƒÄ‚Èÿÿÿÿÿ
+ephp:S103¦"KSplit this 121 characters long line (which is greater than 120 authorized).(ù£®øúÿÿÿÿ
+`php:S103­"KSplit this 128 characters long line (which is greater than 120 authorized).(ÁØ Ï
+ephp:S103¯"KSplit this 132 characters long line (which is greater than 120 authorized).(¦ÏÇÛûÿÿÿÿ
+ephp:S103Ñ"KSplit this 256 characters long line (which is greater than 120 authorized).(•ñÈúÿÿÿÿ
+`php:S103İ"KSplit this 147 characters long line (which is greater than 120 authorized).(›à—ğ
+`php:S103á"KSplit this 140 characters long line (which is greater than 120 authorized).(ºÎ½
+`php:S103ã"KSplit this 167 characters long line (which is greater than 120 authorized).(ªäÙû
+`php:S103‰"KSplit this 162 characters long line (which is greater than 120 authorized).(Œ…ëä
+`php:S103Š"KSplit this 269 characters long line (which is greater than 120 authorized).(™Š¾Ç
+`php:S103‹"KSplit this 419 characters long line (which is greater than 120 authorized).(ÌïñÛ
+`php:S103Œ"KSplit this 221 characters long line (which is greater than 120 authorized).(ÒÚÑü
+`php:S103’"KSplit this 337 characters long line (which is greater than 120 authorized).(¾¢ù
+ephp:S103–"KSplit this 143 characters long line (which is greater than 120 authorized).(Š‘°¥øÿÿÿÿ
+ephp:S103²"KSplit this 219 characters long line (which is greater than 120 authorized).(Òëî‘úÿÿÿÿ
+`php:S103Æ"KSplit this 175 characters long line (which is greater than 120 authorized).(ñç»„
+`php:S103Ô"KSplit this 261 characters long line (which is greater than 120 authorized).(˜³Ú
+3php:S113"'Add a new line at the end of this file.
+e	php:S1192ƒ"ODefine a constant instead of duplicating this literal "SELECT * FROM " 3 times.(ÙàéË
+e	php:S1192İ"JDefine a constant instead of duplicating this literal "<a href="" 3 times.(¢‰ØÆüÿÿÿÿ

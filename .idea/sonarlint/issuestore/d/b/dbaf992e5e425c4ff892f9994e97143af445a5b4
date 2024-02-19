@@ -1,0 +1,29 @@
+
+LWeb:ImgWithoutAltCheck"%Add an "alt" attribute to this image.(åòÓ¤üÿÿÿÿ
+LWeb:ImgWithoutAltCheck*"%Add an "alt" attribute to this image.(·Î¨›ûÿÿÿÿ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103"KSplit this 154 characters long line (which is greater than 120 authorized).(âÅøÈüÿÿÿÿ
+dphp:S103"KSplit this 128 characters long line (which is greater than 120 authorized).(åòÓ¤üÿÿÿÿ
+_php:S103"KSplit this 152 characters long line (which is greater than 120 authorized).(Ôí™à
+dphp:S103"KSplit this 181 characters long line (which is greater than 120 authorized).(ãÑžàûÿÿÿÿ
+^php:S103"KSplit this 196 characters long line (which is greater than 120 authorized).(—éô7
+dphp:S103*"KSplit this 138 characters long line (which is greater than 120 authorized).(·Î¨›ûÿÿÿÿ
+dphp:S103+"KSplit this 133 characters long line (which is greater than 120 authorized).(Ýžý¨úÿÿÿÿ
+dphp:S103/"KSplit this 124 characters long line (which is greater than 120 authorized).(¤¢ÒÕýÿÿÿÿ
+dphp:S1033"KSplit this 121 characters long line (which is greater than 120 authorized).(ÂÌ¥æùÿÿÿÿ
+dphp:S1034"KSplit this 132 characters long line (which is greater than 120 authorized).(æê€‰þÿÿÿÿ
+dphp:S103<"KSplit this 175 characters long line (which is greater than 120 authorized).(ìÏ¹„øÿÿÿÿ
+_php:S103U"KSplit this 133 characters long line (which is greater than 120 authorized).(Ý—ÓŠ
+_php:S103X"KSplit this 122 characters long line (which is greater than 120 authorized).(§àÔ
+dphp:S103^"KSplit this 145 characters long line (which is greater than 120 authorized).(²ò”ùÿÿÿÿ
+dphp:S103b"KSplit this 129 characters long line (which is greater than 120 authorized).(áÝ‰žüÿÿÿÿ
+_php:S103g"KSplit this 147 characters long line (which is greater than 120 authorized).(Ø®Î
+_php:S103h"KSplit this 136 characters long line (which is greater than 120 authorized).(Û‹üœ
+3php:S113"'Add a new line at the end of this file.
+h	php:S1192"SDefine a constant instead of duplicating this literal " class="pt-active"" 3 times.(Ôí™à
+^	php:S33584"DExtract this nested ternary operation into an independent statement.(æê€‰þÿÿÿÿ
+;	php:S2003"&Replace "include" with "include_once".(ÿñƒ³
+;	php:S2003"&Replace "include" with "include_once".(Ääž‰
+q	php:S3973"WUse curly braces or indentation to denote the code conditionally executed by this "if".(âÅøÈüÿÿÿÿ
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ÿñƒ³
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(Ääž‰

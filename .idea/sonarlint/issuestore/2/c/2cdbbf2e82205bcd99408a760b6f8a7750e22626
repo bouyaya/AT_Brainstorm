@@ -1,0 +1,7 @@
+
+N	php:S1135+"4Complete the task associated to this "TODO" comment.(îé¹‹şÿÿÿÿ
+hphp:S101"TRename class "Google_P12Signer" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ù¨É
+Y	php:S1784"DExplicitly mention the visibility of this constructor "__construct".(–¯ğö
+W	php:S17846"BExplicitly mention the visibility of this destructor "__destruct".(Ô±á“
+M	php:S1784<"8Explicitly mention the visibility of this method "sign".(×ÊÌ…
+Zphp:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Î¢›‘

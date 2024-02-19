@@ -1,0 +1,25 @@
+
+ephp:S103"KSplit this 153 characters long line (which is greater than 120 authorized).(Ô”°Çøÿÿÿÿ
+ephp:S103—"KSplit this 153 characters long line (which is greater than 120 authorized).(Ô”°Çøÿÿÿÿ
+`php:S103¸"KSplit this 245 characters long line (which is greater than 120 authorized).(áô…
+`php:S103¼"KSplit this 124 characters long line (which is greater than 120 authorized).(ò¶ƒº
+ephp:S103ã"KSplit this 602 characters long line (which is greater than 120 authorized).(³€Ãıúÿÿÿÿ
+fphp:S103ä"LSplit this 3842 characters long line (which is greater than 120 authorized).(Œ¬•şÿÿÿÿ
+xphp:S101"dRename class "Google_TaskqueuesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Š™
+sphp:S101:"_Rename class "Google_TasksServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÖöÑ‹
+uphp:S101Õ"[Rename class "Google_TaskqueueService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(©±ë“ıÿÿÿÿ
+iphp:S101é"ORename class "Google_Task" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£×üÿÿÿÿ
+nphp:S101"TRename class "Google_TaskQueue" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¬‰”üøÿÿÿÿ
+lphp:S101Ç"WRename class "Google_TaskQueueAcl" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‚¾¼
+nphp:S101â"YRename class "Google_TaskQueueStats" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÅÂÈŸ
+ephp:S101"PRename class "Google_Tasks" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(«‡’³
+fphp:S101•"QRename class "Google_Tasks2" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ê³Õ
+jphp:S116Ÿ"URename this field "$__statsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Û¨ˆ§
+sphp:S116 "YRename this field "$__statsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ê•á½şÿÿÿÿ
+hphp:S116¤"SRename this field "$__aclType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ìğ«®
+lphp:S116¥"WRename this field "$__aclDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(áøøÔ
+iphp:S116‚"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(äøö
+nphp:S116ƒ"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+iphp:S116–"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(äøö
+nphp:S116—"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+r	php:S1488«"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@

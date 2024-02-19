@@ -1,0 +1,19 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S103"KSplit this 156 characters long line (which is greater than 120 authorized).(ÆË‹
+_php:S103"KSplit this 154 characters long line (which is greater than 120 authorized).(ÑœÁÄ
+dphp:S103I"KSplit this 207 characters long line (which is greater than 120 authorized).(å€•’ûÿÿÿÿ
+^php:S103J"KSplit this 122 characters long line (which is greater than 120 authorized).(ì„Ä"
+dphp:S103Q"KSplit this 127 characters long line (which is greater than 120 authorized).(ßƒıÿÿÿÿ
+dphp:S103R"KSplit this 132 characters long line (which is greater than 120 authorized).(ã¤ëóÿÿÿÿÿ
+_php:S103U"KSplit this 169 characters long line (which is greater than 120 authorized).(®È‹‘
+dphp:S103V"KSplit this 130 characters long line (which is greater than 120 authorized).(±Ú¸‡şÿÿÿÿ
+iphp:S100"PRename function "fh_is_url" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ñ‹÷øûÿÿÿÿ
+^	php:S3358I"DExtract this nested ternary operation into an independent statement.(å€•’ûÿÿÿÿ
+P	php:S6353";Use concise character class syntax '\d' instead of '[0-9]'.(¯Úò¨
+Q	php:S1793("<Replace this "else if" keyword sequence by "elseif" keyword.(åœŸ
+Q	php:S1793*"<Replace this "else if" keyword sequence by "elseif" keyword.(ñƒİ˜
+V	php:S1793,"<Replace this "else if" keyword sequence by "elseif" keyword.(œÃ•öıÿÿÿÿ
+Q	php:S1793U"<Replace this "else if" keyword sequence by "elseif" keyword.(®È‹‘
+Iphp:S121"0Add curly braces around the nested statement(s).(´ÈœÔøÿÿÿÿ
+Dphp:S121"0Add curly braces around the nested statement(s).(¯Úò¨

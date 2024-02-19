@@ -1,0 +1,7 @@
+
+dphp:S101"PRename class "Google_Cache" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(´Âü¯
+L	php:S1784$"7Explicitly mention the visibility of this method "get".(˜áâØ
+L	php:S1784-"7Explicitly mention the visibility of this method "set".(¦™çØ
+T	php:S17844":Explicitly mention the visibility of this method "delete".(Î¸”Şÿÿÿÿÿ
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ëóÖé
+f	php:S4833"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ÄÅìÓ

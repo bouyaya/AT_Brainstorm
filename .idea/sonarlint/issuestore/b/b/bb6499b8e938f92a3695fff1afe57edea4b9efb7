@@ -1,0 +1,26 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+@	php:S2003"&Replace "include" with "include_once".(¾Š¢üøÿÿÿÿ
+@	php:S2003"&Replace "include" with "include_once".(¹Ä»ıÿÿÿÿ
+;	php:S2003"&Replace "include" with "include_once".(‡—Òé
+;	php:S2003"&Replace "include" with "include_once".(¬‘
+@	php:S2003"&Replace "include" with "include_once".(õÆ’úÿÿÿÿ
+;	php:S2003"&Replace "include" with "include_once".(ä¤ÕÂ
+@	php:S2003"&Replace "include" with "include_once".(ò­”¹ùÿÿÿÿ
+;	php:S2003"&Replace "include" with "include_once".(ìÍÊò
+@	php:S2003"&Replace "include" with "include_once".(ÎªŸşÿÿÿÿ
+;	php:S2003 "&Replace "include" with "include_once".(ÿê«
+;	php:S2003%"&Replace "include" with "include_once".(‰•’Ò
+@	php:S2003'"&Replace "include" with "include_once".(õÆ’úÿÿÿÿ
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(¾Š¢üøÿÿÿÿ
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(¹Ä»ıÿÿÿÿ
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(‡—Òé
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(¬‘
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(õÆ’úÿÿÿÿ
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ä¤ÕÂ
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ò­”¹ùÿÿÿÿ
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ìÍÊò
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ÎªŸşÿÿÿÿ
+a	php:S4833 "LReplace "include" with namespace import mechanism through the "use" keyword.(ÿê«
+a	php:S4833%"LReplace "include" with namespace import mechanism through the "use" keyword.(‰•’Ò
+f	php:S4833'"LReplace "include" with namespace import mechanism through the "use" keyword.(õÆ’úÿÿÿÿ

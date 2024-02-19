@@ -1,0 +1,11 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+_php:S1031"KSplit this 176 characters long line (which is greater than 120 authorized).(ºÑëû
+dphp:S1033"KSplit this 147 characters long line (which is greater than 120 authorized).(ÍÛÍÅıÿÿÿÿ
+_php:S103:"KSplit this 261 characters long line (which is greater than 120 authorized).(Š”öé
+dphp:S103A"KSplit this 252 characters long line (which is greater than 120 authorized).(’Ù²«úÿÿÿÿ
+_php:S103I"KSplit this 212 characters long line (which is greater than 120 authorized).(ËÚî
+_php:S103L"KSplit this 250 characters long line (which is greater than 120 authorized).(ß¯…µ
+dphp:S103N"KSplit this 256 characters long line (which is greater than 120 authorized).(«Š§¡ÿÿÿÿÿ
+dphp:S103R"KSplit this 208 characters long line (which is greater than 120 authorized).(¼Ãüÿÿÿÿ
+^	php:S3358R"DExtract this nested ternary operation into an independent statement.(¼Ãüÿÿÿÿ

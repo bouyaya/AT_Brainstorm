@@ -1,0 +1,158 @@
+
+_php:S103c"KSplit this 124 characters long line (which is greater than 120 authorized).(³îÖ«
+_php:S103x"KSplit this 124 characters long line (which is greater than 120 authorized).(³îÖ«
+`php:S103‹"KSplit this 166 characters long line (which is greater than 120 authorized).(µõËÜ
+_php:S103ã"KSplit this 238 characters long line (which is greater than 120 authorized).(–”e
+fphp:S103é"LSplit this 2849 characters long line (which is greater than 120 authorized).(¢±µ’ùÿÿÿÿ
+fphp:S103ê"LSplit this 2419 characters long line (which is greater than 120 authorized).(åàë“ıÿÿÿÿ
+fphp:S103ë"LSplit this 2641 characters long line (which is greater than 120 authorized).(÷¿ ûùÿÿÿÿ
+ephp:S103ì"KSplit this 801 characters long line (which is greater than 120 authorized).(‹ä‚Çşÿÿÿÿ
+ephp:S103í"KSplit this 454 characters long line (which is greater than 120 authorized).(ñ´˜¿ùÿÿÿÿ
+yphp:S101"`Rename class "Google_TablesServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(×††‚şÿÿÿÿ
+wphp:S101š"bRename class "Google_DatasetsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(»–‡Í
+xphp:S101"^Rename class "Google_JobsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¹Ìîûÿÿÿÿ
+}php:S101"cRename class "Google_TabledataServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÜŒÌÆşÿÿÿÿ
+wphp:S101²"bRename class "Google_ProjectsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‹óË
+tphp:S101Ø"ZRename class "Google_BigqueryService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Òï„ÿúÿÿÿÿ
+gphp:S101ò"RRename class "Google_Dataset" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ù«Œå
+rphp:S101À"XRename class "Google_DatasetAccess" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(’ÊÅÿÿÿÿÿ
+pphp:S101æ"VRename class "Google_DatasetList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÅÏĞúÿÿÿÿ
+xphp:S101ˆ"^Rename class "Google_DatasetListDatasets" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ôä¹şÿÿÿÿ
+pphp:S101©"[Rename class "Google_DatasetReference" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Öäƒí
+jphp:S101º"URename class "Google_ErrorProto" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(è¯Ïá
+|php:S101Ù"bRename class "Google_GetQueryResultsResponse" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ø’«üÿÿÿÿ
+hphp:S101”"NRename class "Google_Job" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÍååØøÿÿÿÿ
+uphp:S101×"[Rename class "Google_JobConfiguration" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Š¿ÕÁøÿÿÿÿ
+|php:S101"bRename class "Google_JobConfigurationExtract" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ä”à±üÿÿÿÿ
+yphp:S101¯"_Rename class "Google_JobConfigurationLink" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(®Ïï´şÿÿÿÿ
+yphp:S101Ñ"_Rename class "Google_JobConfigurationLoad" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(«Ğóéûÿÿÿÿ
+uphp:S101­"`Rename class "Google_JobConfigurationQuery" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(­¯€Á
+yphp:S101Ş"dRename class "Google_JobConfigurationTableCopy" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Àê‡¿
+gphp:S101	"RRename class "Google_JobList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÎîĞı
+pphp:S101ª	"VRename class "Google_JobListJobs" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(·÷ûËüÿÿÿÿ
+qphp:S101ï	"WRename class "Google_JobReference" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ã©ºüÿÿÿÿ
+rphp:S101€
+"XRename class "Google_JobStatistics" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¾Õõ„ûÿÿÿÿ
+nphp:S101˜
+"TRename class "Google_JobStatus" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ƒ×Èùÿÿÿÿ
+pphp:S101µ
+"VRename class "Google_ProjectList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÿİëÎÿÿÿÿÿ
+sphp:S101Ş
+"^Rename class "Google_ProjectListProjects" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Æâ†
+uphp:S101ÿ
+"[Rename class "Google_ProjectReference" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÜÿØÿÿÿÿÿ
+lphp:S101‰"WRename class "Google_QueryRequest" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(œ‘øè
+rphp:S101¸"XRename class "Google_QueryResponse" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ƒ¨öÌøÿÿÿÿ
+ephp:S101ì"PRename class "Google_Table" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(»œ­³
+rphp:S101Î"XRename class "Google_TableDataList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.( ˜„ÿÿÿÿÿ
+pphp:S101÷"[Rename class "Google_TableFieldSchema" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÃÓ‘
+iphp:S101™"TRename class "Google_TableList" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÓóŠè
+tphp:S101Â"ZRename class "Google_TableListTables" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÀóÚüÿÿÿÿ
+mphp:S101ã"YRename class "Google_TableReference" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Î÷ãj
+mphp:S101û"SRename class "Google_TableRow" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÊïÍÓÿÿÿÿÿ
+iphp:S101ˆ"TRename class "Google_TableRowF" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÅšÎÍ
+pphp:S101’"VRename class "Google_TableSchema" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¥äÜƒÿÿÿÿÿ
+uphp:S116õ"`Rename this field "$__datasetReferenceType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ší©¥
+yphp:S116ö"dRename this field "$__datasetReferenceDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Â‘™ 
+kphp:S116ù"VRename this field "$__accessType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ù¸è
+ophp:S116ú"ZRename this field "$__accessDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¦•ÚÛ
+mphp:S116é"XRename this field "$__datasetsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ğÍ©°
+vphp:S116ê"\Rename this field "$__datasetsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¹ø¼ùÿÿÿÿ
+uphp:S116Œ"`Rename this field "$__datasetReferenceType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ší©¥
+yphp:S116"dRename this field "$__datasetReferenceDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Â‘™ 
+iphp:S116Û"TRename this field "$__rowsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(å°°Õ
+rphp:S116Ü"XRename this field "$__rowsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿÄÂôùÿÿÿÿ
+vphp:S116Ş"\Rename this field "$__jobReferenceType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¹‡¥äøÿÿÿÿ
+uphp:S116ß"`Rename this field "$__jobReferenceDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÚÎ†š
+jphp:S116ä"VRename this field "$__schemaType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(§îÇ:
+ophp:S116å"ZRename this field "$__schemaDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İ´çã
+kphp:S116•"VRename this field "$__statusType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ö†úö
+tphp:S116–"ZRename this field "$__statusDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(µÏå’úÿÿÿÿ
+ophp:S116™"ZRename this field "$__statisticsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ä¹Š¯
+sphp:S116š"^Rename this field "$__statisticsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Äï°…
+vphp:S116œ"\Rename this field "$__jobReferenceType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¹‡¥äøÿÿÿÿ
+uphp:S116"`Rename this field "$__jobReferenceDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÚÎ†š
+wphp:S116 "]Rename this field "$__configurationType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×°£àıÿÿÿÿ
+vphp:S116¡"aRename this field "$__configurationDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ˆ¶Òí
+nphp:S116Ø"TRename this field "$__loadType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÂË÷àüÿÿÿÿ
+lphp:S116Ù"XRename this field "$__loadDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¾„™	
+iphp:S116Û"TRename this field "$__linkType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÀÉè§
+mphp:S116Ü"XRename this field "$__linkDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¨Â”™
+jphp:S116Ş"URename this field "$__queryType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ä²Õ¬
+sphp:S116ß"YRename this field "$__queryDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(–Åƒ‰ùÿÿÿÿ
+iphp:S116á"TRename this field "$__copyType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(©·©
+rphp:S116â"XRename this field "$__copyDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Œ›Êÿÿÿÿÿ
+kphp:S116ä"WRename this field "$__extractType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(áŠ×
+uphp:S116å"[Rename this field "$__extractDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¥æËƒúÿÿÿÿ
+uphp:S116‘"[Rename this field "$__sourceTableType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†Š“°úÿÿÿÿ
+yphp:S116’"_Rename this field "$__sourceTableDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ë¶Õôÿÿÿÿÿ
+uphp:S116²"`Rename this field "$__destinationTableType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÕÇª¨
+yphp:S116³"dRename this field "$__destinationTableDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÁÏ®ˆ
+uphp:S116Ô"`Rename this field "$__destinationTableType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÕÇª¨
+yphp:S116Õ"dRename this field "$__destinationTableDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÁÏ®ˆ
+jphp:S116ß"VRename this field "$__schemaType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(§îÇ:
+ophp:S116à"ZRename this field "$__schemaDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İ´çã
+xphp:S116®"^Rename this field "$__defaultDatasetType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(íâõÙÿÿÿÿÿ
+|php:S116¯"bRename this field "$__defaultDatasetDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÒÈïçûÿÿÿÿ
+uphp:S116±"`Rename this field "$__destinationTableType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÕÇª¨
+yphp:S116²"dRename this field "$__destinationTableDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÁÏ®ˆ
+uphp:S116á"`Rename this field "$__destinationTableType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÕÇª¨
+yphp:S116â"dRename this field "$__destinationTableDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÁÏ®ˆ
+uphp:S116ä"[Rename this field "$__sourceTableType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†Š“°úÿÿÿÿ
+yphp:S116å"_Rename this field "$__sourceTableDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ë¶Õôÿÿÿÿÿ
+nphp:S116†	"TRename this field "$__jobsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ğŒ€Àûÿÿÿÿ
+rphp:S116‡	"XRename this field "$__jobsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(˜ß›ûÿÿÿÿ
+kphp:S116«	"VRename this field "$__statusType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ö†úö
+tphp:S116¬	"ZRename this field "$__statusDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(µÏå’úÿÿÿÿ
+ophp:S116¯	"ZRename this field "$__statisticsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ä¹Š¯
+sphp:S116°	"^Rename this field "$__statisticsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Äï°…
+vphp:S116²	"\Rename this field "$__jobReferenceType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¹‡¥äøÿÿÿÿ
+uphp:S116³	"`Rename this field "$__jobReferenceDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÚÎ†š
+wphp:S116¶	"]Rename this field "$__configurationType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×°£àıÿÿÿÿ
+vphp:S116·	"aRename this field "$__configurationDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ˆ¶Òí
+uphp:S116º	"[Rename this field "$__errorResultType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Õ¦æüÿÿÿÿ
+yphp:S116»	"_Rename this field "$__errorResultDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ìµ€®øÿÿÿÿ
+pphp:S116š
+"VRename this field "$__errorsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ğã­Šûÿÿÿÿ
+tphp:S116›
+"ZRename this field "$__errorsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İ‚ĞÖıÿÿÿÿ
+uphp:S116
+"[Rename this field "$__errorResultType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Õ¦æüÿÿÿÿ
+yphp:S116
+"_Rename this field "$__errorResultDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ìµ€®øÿÿÿÿ
+rphp:S116º
+"XRename this field "$__projectsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ñó´²úÿÿÿÿ
+vphp:S116»
+"\Rename this field "$__projectsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¨·ìûşÿÿÿÿ
+zphp:S116â
+"`Rename this field "$__projectReferenceType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ì¶ƒûÿÿÿÿÿ
+~php:S116ã
+"dRename this field "$__projectReferenceDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Í¹ ™øÿÿÿÿ
+xphp:S116"^Rename this field "$__defaultDatasetType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(íâõÙÿÿÿÿÿ
+|php:S116"bRename this field "$__defaultDatasetDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÒÈïçûÿÿÿÿ
+iphp:S116º"TRename this field "$__rowsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(å°°Õ
+rphp:S116»"XRename this field "$__rowsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿÄÂôùÿÿÿÿ
+vphp:S116½"\Rename this field "$__jobReferenceType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¹‡¥äøÿÿÿÿ
+uphp:S116¾"`Rename this field "$__jobReferenceDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÚÎ†š
+jphp:S116Â"VRename this field "$__schemaType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(§îÇ:
+ophp:S116Ã"ZRename this field "$__schemaDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İ´çã
+xphp:S116ñ"^Rename this field "$__tableReferenceType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÛöŸùÿÿÿÿ
+wphp:S116ò"bRename this field "$__tableReferenceDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ã¸Ô¸
+jphp:S116û"VRename this field "$__schemaType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(§îÇ:
+ophp:S116ü"ZRename this field "$__schemaDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(İ´çã
+iphp:S116Ò"TRename this field "$__rowsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(å°°Õ
+rphp:S116Ó"XRename this field "$__rowsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿÄÂôùÿÿÿÿ
+pphp:S116ø"VRename this field "$__fieldsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“º¨îúÿÿÿÿ
+tphp:S116ù"ZRename this field "$__fieldsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(±äİ…ûÿÿÿÿ
+kphp:S116›"VRename this field "$__tablesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½ŒÌ¦
+nphp:S116œ"ZRename this field "$__tablesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÙĞ¯
+xphp:S116Æ"^Rename this field "$__tableReferenceType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÛöŸùÿÿÿÿ
+wphp:S116Ç"bRename this field "$__tableReferenceDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ã¸Ô¸
+kphp:S116ü"QRename this field "$__fType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(„ë°¤ÿÿÿÿÿ
+jphp:S116ı"URename this field "$__fDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(˜ËÌä
+pphp:S116“"VRename this field "$__fieldsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(“º¨îúÿÿÿÿ
+tphp:S116”"ZRename this field "$__fieldsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(±äİ…ûÿÿÿÿ
+r	php:S1488"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+’	php:S1448Ñ"wClass "Google_JobConfigurationLoad" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(«Ğóéûÿÿÿÿ
+~	php:S1448ì"hClass "Google_Table" has 26 methods, which is greater than 20 authorized. Split it into smaller classes.(»œ­³

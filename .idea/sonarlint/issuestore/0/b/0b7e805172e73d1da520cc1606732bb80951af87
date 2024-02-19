@@ -1,0 +1,13 @@
+
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103"KSplit this 126 characters long line (which is greater than 120 authorized).(„…ûÿÿÿÿ
+_php:S103"KSplit this 142 characters long line (which is greater than 120 authorized).(Ù¶Ûì
+dphp:S103"KSplit this 167 characters long line (which is greater than 120 authorized).(ıËşÕşÿÿÿÿ
+dphp:S103"KSplit this 179 characters long line (which is greater than 120 authorized).(Ë£Šÿÿÿÿÿ
+dphp:S103"KSplit this 134 characters long line (which is greater than 120 authorized).(İ©ºõûÿÿÿÿ
+dphp:S103"KSplit this 170 characters long line (which is greater than 120 authorized).(Æ˜ª½şÿÿÿÿ
+dphp:S103!"KSplit this 166 characters long line (which is greater than 120 authorized).(ùÜ›Øûÿÿÿÿ
+_php:S103M"KSplit this 121 characters long line (which is greater than 120 authorized).(£÷‹´
+_php:S103N"KSplit this 126 characters long line (which is greater than 120 authorized).(‡™®
+3php:S113"'Add a new line at the end of this file.
+t	php:S3973"ZUse curly braces or indentation to denote the code conditionally executed by this "while".(ëÔàÓùÿÿÿÿ

@@ -1,0 +1,6 @@
+
+lphp:S101"XRename class "Google_MemcacheCache" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ôõ¢œ
+I	php:S11441"/Remove this unused private "createlock" method.(èÎ±‘ùÿÿÿÿ
+E	php:S1144>"0Remove this unused private "waitforlock" method.(È¥ô³
+[	php:S1192+"FDefine a constant instead of duplicating this literal ".lock" 3 times.(´Ôï…
+>	php:S1125u")Remove the literal "false" boolean value.(É·íÍ

@@ -1,0 +1,65 @@
+
+dphp:S1035"KSplit this 134 characters long line (which is greater than 120 authorized).(ö‚›øüÿÿÿÿ
+dphp:S103Z"KSplit this 134 characters long line (which is greater than 120 authorized).(ö‚›øüÿÿÿÿ
+dphp:S103o"KSplit this 134 characters long line (which is greater than 120 authorized).(ö‚›øüÿÿÿÿ
+ephp:S103„"KSplit this 134 characters long line (which is greater than 120 authorized).(ö‚›øüÿÿÿÿ
+ephp:S103±"KSplit this 134 characters long line (which is greater than 120 authorized).(ö‚›øüÿÿÿÿ
+ephp:S103Ô"KSplit this 134 characters long line (which is greater than 120 authorized).(ö‚›øüÿÿÿÿ
+ephp:S103è"KSplit this 134 characters long line (which is greater than 120 authorized).(ö‚›øüÿÿÿÿ
+ephp:S103ü"KSplit this 134 characters long line (which is greater than 120 authorized).(ö‚›øüÿÿÿÿ
+ephp:S103•"KSplit this 144 characters long line (which is greater than 120 authorized).(ºµï²ÿÿÿÿÿ
+`php:S103™"KSplit this 162 characters long line (which is greater than 120 authorized).(’ÉÜš
+`php:S103š"KSplit this 165 characters long line (which is greater than 120 authorized).(µßöè
+ephp:S103Á"KSplit this 172 characters long line (which is greater than 120 authorized).(²äòÇûÿÿÿÿ
+ephp:S103Ä"KSplit this 123 characters long line (which is greater than 120 authorized).(ÕŞ€úÿÿÿÿ
+ephp:S103Å"KSplit this 339 characters long line (which is greater than 120 authorized).(«¸—ñùÿÿÿÿ
+ephp:S103œ"KSplit this 183 characters long line (which is greater than 120 authorized).(éÃµüûÿÿÿÿ
+ephp:S103Ã"KSplit this 123 characters long line (which is greater than 120 authorized).(ÕŞ€úÿÿÿÿ
+fphp:S103¥"LSplit this 2856 characters long line (which is greater than 120 authorized).(÷ëêËüÿÿÿÿ
+aphp:S103¦"LSplit this 2382 characters long line (which is greater than 120 authorized).(¡€€â
+`php:S103§"LSplit this 3631 characters long line (which is greater than 120 authorized).( ê
+fphp:S103¨"LSplit this 2783 characters long line (which is greater than 120 authorized).(±šÈùÿÿÿÿ
+‚php:S101"nRename class "Google_ObjectAccessControlsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£ñã¯
+ƒphp:S101—"nRename class "Google_BucketAccessControlsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(›ô–«
+{php:S101"aRename class "Google_ObjectsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ùûúüÿÿÿÿ
+{php:S101“"aRename class "Google_BucketsServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(üª•Äùÿÿÿÿ
+nphp:S101•"YRename class "Google_StorageService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¹°Ùô
+kphp:S101­"QRename class "Google_Bucket" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÀÎîÆşÿÿÿÿ
+xphp:S101€"^Rename class "Google_BucketAccessControl" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŒŞ×şÿÿÿÿ
+yphp:S101Â"_Rename class "Google_BucketAccessControls" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(·ßÆ£øÿÿÿÿ
+pphp:S101Ö"VRename class "Google_BucketOwner" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÕíåÜùÿÿÿÿ
+lphp:S101ç"XRename class "Google_BucketWebsite" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ƒÌ‡*
+gphp:S101ø"RRename class "Google_Buckets" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Æ˜üã
+xphp:S101“"^Rename class "Google_ObjectAccessControl" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ã›Åìıÿÿÿÿ
+yphp:S101Ü"_Rename class "Google_ObjectAccessControls" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÒÆ­¶úÿÿÿÿ
+gphp:S101ğ"RRename class "Google_Objects" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(‰º÷
+rphp:S101“"XRename class "Google_StorageObject" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(öÆ•üÿÿÿÿ
+wphp:S101ñ"]Rename class "Google_StorageObjectMedia" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÿ˜Àîÿÿÿÿÿ
+rphp:S101¥"]Rename class "Google_StorageObjectOwner" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¿ÙÇ
+lphp:S116®"WRename this field "$__websiteType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ßã¾ 
+pphp:S116¯"[Rename this field "$__websiteDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(š®æì
+mphp:S116´"SRename this field "$__aclType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ˆËŠòûÿÿÿÿ
+qphp:S116µ"WRename this field "$__aclDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Òë¤ûÿÿÿÿ
+zphp:S116·"`Rename this field "$__defaultObjectAclType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ú’Ô®üÿÿÿÿ
+~php:S116¸"dRename this field "$__defaultObjectAclDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(©üĞıÿÿÿÿ
+jphp:S116»"URename this field "$__ownerType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ë¬ù
+nphp:S116¼"YRename this field "$__ownerDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(åÌÙ‰
+ophp:S116Ã"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(’³¸šşÿÿÿÿ
+nphp:S116Ä"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+ophp:S116ú"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Õ„åışÿÿÿÿ
+nphp:S116û"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+jphp:S116İ"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‘®°·
+nphp:S116Ş"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+ophp:S116ò"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Á×ë’øÿÿÿÿ
+nphp:S116ó"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+iphp:S116–"URename this field "$__mediaType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‡Š†2
+nphp:S116—"YRename this field "$__mediaDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(±Å—ö
+jphp:S116œ"URename this field "$__ownerType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ø‘æ
+nphp:S116"YRename this field "$__ownerDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(åÌÙ‰
+mphp:S116 "SRename this field "$__aclType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(†ÄÍ½úÿÿÿÿ
+qphp:S116¡"WRename this field "$__aclDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¢Òë¤ûÿÿÿÿ
+r	php:S1488Š"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488‚"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488†"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+r	php:S1488‚"]Immediately return this expression instead of assigning it to the temporary variable "$data".(÷®á@
+‹	php:S1448“"pClass "Google_StorageObject" has 24 methods, which is greater than 20 authorized. Split it into smaller classes.(öÆ•üÿÿÿÿ

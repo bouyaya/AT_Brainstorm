@@ -1,0 +1,4 @@
+
+R	php:S1142Ù"<This method has 4 returns, which is more than the 3 allowed.(¹ŸƒÖ
+kphp:S116F"RRename this field "$do_debug" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÒŒŸÛýÿÿÿÿ
+ephp:S116p"RRename this field "$pop_conn" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ýäòL

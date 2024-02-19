@@ -1,0 +1,51 @@
+
+dphp:S103$"KSplit this 192 characters long line (which is greater than 120 authorized).(Şøøüÿÿÿÿ
+_php:S103*"KSplit this 124 characters long line (which is greater than 120 authorized).(„š‚¥
+_php:S103,"KSplit this 135 characters long line (which is greater than 120 authorized).(£öŠ
+_php:S103."KSplit this 157 characters long line (which is greater than 120 authorized).(¡Âõ¦
+dphp:S103:"KSplit this 149 characters long line (which is greater than 120 authorized).(ÁÍ“Íûÿÿÿÿ
+dphp:S103<"KSplit this 190 characters long line (which is greater than 120 authorized).(à×ÿìúÿÿÿÿ
+dphp:S103="KSplit this 127 characters long line (which is greater than 120 authorized).(«âÔ»üÿÿÿÿ
+dphp:S103A"KSplit this 139 characters long line (which is greater than 120 authorized).(…•îÿûÿÿÿÿ
+ephp:S103k"LSplit this 2754 characters long line (which is greater than 120 authorized).(óó¹úÿÿÿÿÿ
+vphp:S101"]Rename class "Google_CseServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(œÿÙÈıÿÿÿÿ
+rphp:S101^"^Rename class "Google_CustomsearchService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¢šã
+kphp:S101p"RRename class "Google_Context" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¤æ­éøÿÿÿÿ
+mphp:S101„"XRename class "Google_ContextFacets" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(è§õé
+iphp:S101•"TRename class "Google_Promotion" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(¶¢ÓĞ
+rphp:S101Ç"]Rename class "Google_PromotionBodyLines" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(°¬¿Ê
+nphp:S101æ"YRename class "Google_PromotionImage" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(©§Ğ
+jphp:S101ş"PRename class "Google_Query" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(âÕŸÃıÿÿÿÿ
+fphp:S101„"QRename class "Google_Result" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(·‚ÜÁ
+pphp:S101õ"VRename class "Google_ResultImage" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÈğŠ“üÿÿÿÿ
+lphp:S101©"WRename class "Google_ResultLabels" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(È÷Ó÷
+fphp:S101º"QRename class "Google_Search" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(”Š½ë
+wphp:S101…"bRename class "Google_SearchSearchInformation" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Îğ€Œ
+sphp:S101¤"YRename class "Google_SearchSpelling" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(²Ìúôøÿÿÿÿ
+iphp:S101µ"TRename class "Google_SearchUrl" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÿèñÖ
+ophp:S116q"VRename this field "$__facetsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½µ»şÿÿÿÿ
+sphp:S116r"ZRename this field "$__facetsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(æğê…ıÿÿÿÿ
+sphp:S116š"YRename this field "$__bodyLinesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Şş‰âÿÿÿÿÿ
+rphp:S116›"]Rename this field "$__bodyLinesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(óµëÄ
+jphp:S116"URename this field "$__imageType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(§İ£§
+nphp:S116"YRename this field "$__imageDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÆÕñ˜
+pphp:S116‡"VRename this field "$__labelsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(§œ¯„úÿÿÿÿ
+ophp:S116ˆ"ZRename this field "$__labelsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¶ßÕè
+jphp:S116“"URename this field "$__imageType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÿ÷®©
+nphp:S116”"YRename this field "$__imageDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÆÕñ˜
+tphp:S116»"ZRename this field "$__promotionsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‘£ğÒøÿÿÿÿ
+xphp:S116¼"^Rename this field "$__promotionsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ü©…æıÿÿÿÿ
+hphp:S116¿"SRename this field "$__urlType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‡å† 
+qphp:S116À"WRename this field "$__urlDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(üéË€øÿÿÿÿ
+ophp:S116Â"URename this field "$__itemsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¼ƒ†šşÿÿÿÿ
+nphp:S116Ã"YRename this field "$__itemsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(½­ˆŒ
+lphp:S116Å"WRename this field "$__contextType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(˜´°ş
+uphp:S116Æ"[Rename this field "$__contextDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ñüÿÿÿÿ
+lphp:S116È"WRename this field "$__queriesType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÁÏ¡’
+uphp:S116É"[Rename this field "$__queriesDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(«­•Úÿÿÿÿÿ
+mphp:S116Ë"XRename this field "$__spellingType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(À‰ó
+vphp:S116Ì"\Rename this field "$__spellingDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(©‹¬èûÿÿÿÿ
+{php:S116Î"aRename this field "$__searchInformationType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¸–±Œùÿÿÿÿ
+php:S116Ï"eRename this field "$__searchInformationDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(­Û¬Øşÿÿÿÿ
+ƒ	php:S1448ş"hClass "Google_Query" has 74 methods, which is greater than 20 authorized. Split it into smaller classes.(âÕŸÃıÿÿÿÿ
+	php:S1448„"iClass "Google_Result" has 30 methods, which is greater than 20 authorized. Split it into smaller classes.(·‚ÜÁ

@@ -1,0 +1,7 @@
+
+f	php:S1134v"LTake the required action to fix the issue indicated by this "FIXME" comment.(ŠªÝˆùÿÿÿÿ
+hphp:S101"ORename class "Google_REST" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ŸÝ‰ñúÿÿÿÿ
+^	php:S1784X"DExplicitly mention the visibility of this method "createRequestUri".(ˆÔ¨òøÿÿÿÿ
+n	php:S3776X"TRefactor this function to reduce its Cognitive Complexity from 22 to the 15 allowed.(ˆÔ¨òøÿÿÿÿ
+K	php:S1124""7Reorder the modifiers to comply with the PSR2 standard.(àÈ”>
+q	php:S1488%"\Immediately return this expression instead of assigning it to the temporary variable "$ret".(ì ‹Ô

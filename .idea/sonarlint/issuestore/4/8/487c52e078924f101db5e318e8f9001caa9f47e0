@@ -1,0 +1,13 @@
+
+r%Web:ItemTagNotWithinContainerTagCheck"<Surround this <li> item tag by a <ul> or <ol> container one.(Ôæ‰Ìøÿÿÿÿ
+m%Web:ItemTagNotWithinContainerTagCheck"<Surround this <li> item tag by a <ul> or <ol> container one.(ï ¾
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+3php:S113"'Add a new line at the end of this file.
+@	php:S2003"&Replace "include" with "include_once".(ˆ¿ğ‰ıÿÿÿÿ
+;	php:S2003
+"&Replace "include" with "include_once".(‰°‹è
+;	php:S2003"&Replace "include" with "include_once".(ı´ä¤
+f	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ˆ¿ğ‰ıÿÿÿÿ
+a	php:S4833
+"LReplace "include" with namespace import mechanism through the "use" keyword.(‰°‹è
+a	php:S4833"LReplace "include" with namespace import mechanism through the "use" keyword.(ı´ä¤

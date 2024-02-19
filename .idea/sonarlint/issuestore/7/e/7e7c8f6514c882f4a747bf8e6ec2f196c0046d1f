@@ -1,0 +1,5 @@
+
+iphp:S101"PRename class "Google_Model" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Íè äÿÿÿÿÿ
+i	php:S3776("TRefactor this function to reduce its Cognitive Complexity from 24 to the 15 allowed.(ÖÁ»¿
+D	php:S6600c"/Remove the parentheses from this "return" call.(ß¯ò•
+Q	php:S17938"<Replace this "else if" keyword sequence by "elseif" keyword.(±›‡Ž

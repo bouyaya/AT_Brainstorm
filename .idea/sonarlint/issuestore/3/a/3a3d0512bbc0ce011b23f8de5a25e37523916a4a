@@ -1,0 +1,29 @@
+
+`php:S103á"KSplit this 124 characters long line (which is greater than 120 authorized).(ü’Òİ
+jphp:S101D"QRename class "Google_Client" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Úîğúÿÿÿÿ
+nphp:S101—"TRename class "Google_Exception" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(°•­‡ıÿÿÿÿ
+mphp:S101˜"XRename class "Google_AuthException" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(”€“ò
+nphp:S101™"YRename class "Google_CacheException" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(½úÂ›
+pphp:S101š"VRename class "Google_IOException" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(åè·Ôşÿÿÿÿ
+pphp:S101›"[Rename class "Google_ServiceException" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(º“‚ù
+Yphp:S112"FDefine and throw a dedicated exception instead of using a generic one.(İ¶
+Zphp:S112"FDefine and throw a dedicated exception instead of using a generic one.(ë¨‚ø
+Zphp:S112"FDefine and throw a dedicated exception instead of using a generic one.(å×¢Ş
+E	php:S1172t"0Remove the unused function parameter "$version".(±ğ 
+ƒ	php:S1448D"iClass "Google_Client" has 30 methods, which is greater than 20 authorized. Split it into smaller classes.(Úîğúÿÿÿÿ
+O	php:S6600+"5Remove the parentheses from this "require_once" call.(Ô–ò…ùÿÿÿÿ
+J	php:S6600;"5Remove the parentheses from this "require_once" call.(Ï…‘
+k	php:S4833'"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ùç‰Òüÿÿÿÿ
+k	php:S4833+"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ô–ò…ùÿÿÿÿ
+f	php:S48330"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ï÷ñõ
+f	php:S48331"QReplace "require_once" with namespace import mechanism through the "use" keyword.(õ¯²ó
+f	php:S48332"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Õƒ×
+k	php:S48333"QReplace "require_once" with namespace import mechanism through the "use" keyword.(³³Í½ıÿÿÿÿ
+f	php:S48334"QReplace "require_once" with namespace import mechanism through the "use" keyword.(½ÖÓŞ
+k	php:S48335"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ø›‹Âøÿÿÿÿ
+k	php:S48336"QReplace "require_once" with namespace import mechanism through the "use" keyword.(ŸÏóûÿÿÿÿ
+f	php:S48337"QReplace "require_once" with namespace import mechanism through the "use" keyword.(„êÇ‹
+k	php:S48338"QReplace "require_once" with namespace import mechanism through the "use" keyword.(³Í‡øıÿÿÿÿ
+f	php:S48339"QReplace "require_once" with namespace import mechanism through the "use" keyword.(†êİÈ
+k	php:S4833:"QReplace "require_once" with namespace import mechanism through the "use" keyword.(»˜±ûÿÿÿÿ
+f	php:S4833;"QReplace "require_once" with namespace import mechanism through the "use" keyword.(Ï…‘

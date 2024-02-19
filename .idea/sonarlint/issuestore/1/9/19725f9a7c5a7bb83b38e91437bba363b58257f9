@@ -1,0 +1,16 @@
+
+GWeb:ImgWithoutAltCheck("%Add an "alt" attribute to this image.(È„€¹
+NWeb:AvoidCommentedOutCodeCheck?"Remove this commented out code.(Ûö°Øıÿÿÿÿ
+Qphp:S105"EReplace all tab characters in this file by sequences of white-spaces.
+dphp:S103!"KSplit this 141 characters long line (which is greater than 120 authorized).(Ê³íÈüÿÿÿÿ
+_php:S103."KSplit this 143 characters long line (which is greater than 120 authorized).(¥ÊÉ›
+dphp:S103D"KSplit this 144 characters long line (which is greater than 120 authorized).(óÊ…ÿûÿÿÿÿ
+dphp:S103K"KSplit this 132 characters long line (which is greater than 120 authorized).(Ú´›Üùÿÿÿÿ
+dphp:S103Q"KSplit this 151 characters long line (which is greater than 120 authorized).(óÉòøÿÿÿÿ
+dphp:S103j"KSplit this 143 characters long line (which is greater than 120 authorized).(Ç Ñøÿÿÿÿ
+dphp:S103t"KSplit this 125 characters long line (which is greater than 120 authorized).(Ã·ôùÿÿÿÿ
+3php:S113"'Add a new line at the end of this file.
+i	php:S1192!"ODefine a constant instead of duplicating this literal "SELECT * FROM " 3 times.(Ê³íÈüÿÿÿÿ
+`	php:S11926"FDefine a constant instead of duplicating this literal "</li>" 3 times.(ƒ¨’ÿÿÿÿÿ
+m	php:S1192!"SDefine a constant instead of duplicating this literal "' ORDER BY id DESC" 3 times.(Ê³íÈüÿÿÿÿ
+^	php:S3358Q"DExtract this nested ternary operation into an independent statement.(óÉòøÿÿÿÿ

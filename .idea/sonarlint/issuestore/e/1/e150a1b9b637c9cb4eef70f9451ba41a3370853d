@@ -1,0 +1,42 @@
+
+dphp:S103O"KSplit this 574 characters long line (which is greater than 120 authorized).(„£ƒøÿÿÿÿ
+zphp:S101"fRename class "Google_PagespeedapiServiceResource" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÙÄ†
+uphp:S101B"aRename class "Google_PagespeedonlineService" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ä®á
+ephp:S101T"QRename class "Google_Result" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(·‚ÜÁ
+vphp:S101"aRename class "Google_ResultFormattedResults" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÈŠ“Í
+†php:S101°"lRename class "Google_ResultFormattedResultsRuleResults" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Ä¸ñòüÿÿÿÿ
+Šphp:S101Ò"uRename class "Google_ResultFormattedResultsRuleResultsUrlBlocks" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ªûåñ
+php:S101è"{Rename class "Google_ResultFormattedResultsRuleResultsUrlBlocksHeader" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(å—ÈĞ
+™php:S101ü"Rename class "Google_ResultFormattedResultsRuleResultsUrlBlocksHeaderArgs" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(®¤¼±ûÿÿÿÿ
+“php:S101"yRename class "Google_ResultFormattedResultsRuleResultsUrlBlocksUrls" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(§š”«şÿÿÿÿ
+–php:S101£"€Rename class "Google_ResultFormattedResultsRuleResultsUrlBlocksUrlsDetails" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(øµ¾Í
+Ÿphp:S101·"„Rename class "Google_ResultFormattedResultsRuleResultsUrlBlocksUrlsDetailsArgs" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÆÁ¥ùÿÿÿÿ
+”php:S101È"Rename class "Google_ResultFormattedResultsRuleResultsUrlBlocksUrlsResult" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(ÀºğÖ
+™php:S101Ü"ƒRename class "Google_ResultFormattedResultsRuleResultsUrlBlocksUrlsResultArgs" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Æàö¸
+tphp:S101í"ZRename class "Google_ResultPageStats" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(á™¼¥ûÿÿÿÿ
+lphp:S101Ë"XRename class "Google_ResultVersion" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(£üô
+yphp:S116V"`Rename this field "$__formattedResultsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ò€ãçûÿÿÿÿ
+xphp:S116W"dRename this field "$__formattedResultsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‰Ğîµ
+kphp:S116Z"WRename this field "$__versionType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‹º²¥
+tphp:S116["[Rename this field "$__versionDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÉûÓôÿÿÿÿÿ
+mphp:S116`"YRename this field "$__pageStatsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(é»­Ø
+qphp:S116a"]Rename this field "$__pageStatsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¬×æÛ
+pphp:S116Ÿ"[Rename this field "$__ruleResultsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(öÜ¶¸
+yphp:S116 "_Rename this field "$__ruleResultsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÄÕ¥Õıÿÿÿÿ
+nphp:S116²"YRename this field "$__urlBlocksType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ºõ¹
+rphp:S116³"]Rename this field "$__urlBlocksDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(×¥€ô
+pphp:S116Ó"VRename this field "$__headerType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(´ƒ²Üÿÿÿÿÿ
+nphp:S116Ô"ZRename this field "$__headerDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(£Ñó5
+nphp:S116Ö"TRename this field "$__urlsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¬¹•úûÿÿÿÿ
+mphp:S116×"XRename this field "$__urlsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(‹ĞÖŠ
+nphp:S116é"TRename this field "$__argsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÈàŠÉüÿÿÿÿ
+rphp:S116ê"XRename this field "$__argsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ÿş¾°øÿÿÿÿ
+qphp:S116"WRename this field "$__detailsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ô‹•ğıÿÿÿÿ
+uphp:S116"[Rename this field "$__detailsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(È½ô¨øÿÿÿÿ
+kphp:S116‘"VRename this field "$__resultType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(…é©¹
+tphp:S116’"ZRename this field "$__resultDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ëšµ˜øÿÿÿÿ
+iphp:S116¤"TRename this field "$__argsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(úÂÚ¡
+rphp:S116¥"XRename this field "$__argsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ÿş¾°øÿÿÿÿ
+iphp:S116É"TRename this field "$__argsType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ÔıÍà
+rphp:S116Ê"XRename this field "$__argsDataType" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ÿş¾°øÿÿÿÿ
+	php:S1448í"rClass "Google_ResultPageStats" has 26 methods, which is greater than 20 authorized. Split it into smaller classes.(á™¼¥ûÿÿÿÿ

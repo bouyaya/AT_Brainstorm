@@ -1,0 +1,23 @@
+
+_php:S1038"KSplit this 141 characters long line (which is greater than 120 authorized).(°¯„Ä
+`php:S103¨"KSplit this 156 characters long line (which is greater than 120 authorized).(—Åøê
+`php:S103±"KSplit this 165 characters long line (which is greater than 120 authorized).(»ŒÂ‹
+mphp:S100—"SRename function "val_from_var" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¶™–ƒıÿÿÿÿ
+pphp:S101"WRename class "URI_Template_Parser" to match the regular expression ^[A-Z][a-zA-Z0-9]*$.(Í¥ºûÿÿÿÿ
+pphp:S116!"\Rename this field "$reserved_operators" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ñ’¸«
+tphp:S116""[Rename this field "$explode_modifiers" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(œ¼¼éùÿÿÿÿ
+ophp:S116#"[Rename this field "$partial_modifiers" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ğ·§ô
+mphp:S116%"TRename this field "$gen_delims" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Ş¥ œüÿÿÿÿ
+lphp:S116&"XRename this field "$gen_delims_pct" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(¬¢÷Ó
+mphp:S116'"TRename this field "$sub_delims" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(òšĞùøÿÿÿÿ
+qphp:S116("XRename this field "$sub_delims_pct" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(ØÍ÷ÿÿÿÿÿ
+jphp:S116*"VRename this field "$reserved_pct" to match the regular expression ^[a-z][a-zA-Z0-9]*$.(Êë¼İ
+n	php:S37762"TRefactor this function to reduce its Cognitive Complexity from 34 to the 15 allowed.(Âşÿúøÿÿÿÿ
+o	php:S3776—"TRefactor this function to reduce its Cognitive Complexity from 55 to the 15 allowed.(¶™–ƒıÿÿÿÿ
+G	php:S1172Ì",Remove the unused function parameter "$uri".(» ¢şÿÿÿÿ
+‡	php:S1186Ì"lAdd a nested comment explaining why this method is empty, throw an Exception or complete the implementation.(» ¢şÿÿÿÿ
+W	php:S6353P"BUse concise character class syntax '\w' instead of '[a-zA-Z0-9_]'.(•ù·Ï
+W	php:S1793Á"<Replace this "else if" keyword sequence by "elseif" keyword.(‰œ’¼ÿÿÿÿÿ
+3php:S1257"Remove this commented out code.(–±Ù
+Ephp:S121"0Add curly braces around the nested statement(s).(èÂÇı
+Kphp:S131]"7Add a "case default" clause to this "switch" statement.(òñÁ†
